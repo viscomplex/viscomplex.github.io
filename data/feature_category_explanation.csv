@@ -1,0 +1,623 @@
+feature_name_new,explanation
+H_hi_jpeg_ratio,The JPEG compression ratio of the H channel when keeping high quality.
+H_mid_jpeg_ratio,The JPEG compression ratio of the H channel when keeping mid quality.
+H_low_jpeg_ratio,The JPEG compression ratio of the H channel when keeping low quality.
+H_zipf_rank_slope,The regression line's slope of Zipf rank frequency of the H channel.
+H_zipf_rank_corr,The regression line's correlation coeffienct of Zipf rank frequency of the H channel.
+H_zipf_size_slope,The regression line's slope of Zipf size frequency of the H channel.
+H_zipf_size_corr,The regression line's correlation coeffienct of Zipf size frequency of the H channel.
+H_edge_ratio,The percentage of edge pixels of the H channel.
+H_canny_hi_jpeg_ratio,The JPEG compression ratio when applying canny filter on H channel and keeping high quality.
+H_canny_mid_jpeg_ratio,The JPEG compression ratio when applying canny filter on H channel and keeping mid quality.
+H_canny_low_jpeg_ratio,The JPEG compression ratio when applying canny filter on H channel and keeping low quality.
+H_canny_zipf_rank_slope,The regression line's slope of Zipf rank frequency when applying canny filter on H channel.
+H_canny_zipf_rank_corr,The regression line's correlation coeffienct of Zipf rank frequency when applying canny filter on H channel.
+H_canny_zipf_size_slope,The regression line's slope of Zipf size frequency when applying canny filter on H channel.
+H_canny_zipf_size_corr,The regression line's correlation coeffienct of Zipf size frequency when applying canny filter on H channel.
+H_sobel_hi_jpeg_ratio,The JPEG compression ratio when applying sobel filter on H channel and keeping high quality.
+H_sobel_mid_jpeg_ratio,The JPEG compression ratio when applying sobel filter on H channel and keeping mid quality.
+H_sobel_low_jpeg_ratio,The JPEG compression ratio when applying sobel filter on H channel and keeping low quality.
+H_sobel_zipf_rank_slope,The regression line's slope of Zipf rank frequency when applying sobel filter on H channel.
+H_sobel_zipf_rank_corr,The regression line's correlation coeffienct of Zipf rank frequency when applying sobel filter on H channel.
+H_sobel_zipf_size_slope,The regression line's slope of Zipf size frequency when applying sobel filter on H channel.
+H_sobel_zipf_size_corr,The regression line's correlation coeffienct of Zipf size frequency when applying sobel filter on H channel.
+S_hi_jpeg_ratio,The JPEG compression ratio of the S channel when keeping high quality.
+S_mid_jpeg_ratio,The JPEG compression ratio of the S channel when keeping mid quality.
+S_low_jpeg_ratio,The JPEG compression ratio of the S channel when keeping low quality.
+S_zipf_rank_slope,The regression line's slope of Zipf rank frequency of the S channel.
+S_zipf_rank_corr,The regression line's correlation coeffienct of Zipf rank frequency of the S channel.
+S_zipf_size_slope,The regression line's slope of Zipf size frequency of the S channel.
+S_zipf_size_corr,The regression line's correlation coeffienct of Zipf size frequency of the S channel.
+S_edge_ratio,The percentage of edge pixels of the S channel.
+S_canny_hi_jpeg_ratio,The JPEG compression ratio when applying canny filter on S channel and keeping high quality.
+S_canny_mid_jpeg_ratio,The JPEG compression ratio when applying canny filter on S channel and keeping mid quality.
+S_canny_low_jpeg_ratio,The JPEG compression ratio when applying canny filter on S channel and keeping low quality.
+S_canny_zipf_rank_slope,The regression line's slope of Zipf rank frequency when applying canny filter on S channel.
+S_canny_zipf_rank_corr,The regression line's correlation coeffienct of Zipf rank frequency when applying canny filter on S channel.
+S_canny_zipf_size_slope,The regression line's slope of Zipf size frequency when applying canny filter on S channel.
+S_canny_zipf_size_corr,The regression line's correlation coeffienct of Zipf size frequency when applying canny filter on S channel.
+S_sobel_hi_jpeg_ratio,The JPEG compression ratio when applying sobel filter on S channel and keeping high quality.
+S_sobel_mid_jpeg_ratio,The JPEG compression ratio when applying sobel filter on S channel and keeping mid quality.
+S_sobel_low_jpeg_ratio,The JPEG compression ratio when applying sobel filter on S channel and keeping low quality.
+S_sobel_zipf_rank_slope,The regression line's slope of Zipf rank frequency when applying sobel filter on S channel.
+S_sobel_zipf_rank_corr,The regression line's correlation coeffienct of Zipf rank frequency when applying sobel filter on S channel.
+S_sobel_zipf_size_slope,The regression line's slope of Zipf size frequency when applying sobel filter on S channel.
+S_sobel_zipf_size_corr,The regression line's correlation coeffienct of Zipf size frequency when applying sobel filter on S channel.
+V_hi_jpeg_ratio,The JPEG compression ratio of the V channel when keeping high quality.
+V_mid_jpeg_ratio,The JPEG compression ratio of the V channel when keeping mid quality.
+V_low_jpeg_ratio,The JPEG compression ratio of the V channel when keeping low quality.
+V_zipf_rank_slope,The regression line's slope of Zipf rank frequency of the V channel.
+V_zipf_rank_corr,The regression line's correlation coeffienct of Zipf rank frequency of the V channel.
+V_zipf_size_slope,The regression line's slope of Zipf size frequency of the V channel.
+V_zipf_size_corr,The regression line's correlation coeffienct of Zipf size frequency of the V channel.
+V_edge_ratio,The percentage of edge pixels of the V channel.
+V_canny_hi_jpeg_ratio,The JPEG compression ratio when applying canny filter on V channel and keeping high quality.
+V_canny_mid_jpeg_ratio,The JPEG compression ratio when applying canny filter on V channel and keeping mid quality.
+V_canny_low_jpeg_ratio,The JPEG compression ratio when applying canny filter on V channel and keeping low quality.
+V_canny_zipf_rank_slope,The regression line's slope of Zipf rank frequency when applying canny filter on V channel.
+V_canny_zipf_rank_corr,The regression line's correlation coeffienct of Zipf rank frequency when applying canny filter on V channel.
+V_canny_zipf_size_slope,The regression line's slope of Zipf size frequency when applying canny filter on V channel.
+V_canny_zipf_size_corr,The regression line's correlation coeffienct of Zipf size frequency when applying canny filter on V channel.
+V_sobel_hi_jpeg_ratio,The JPEG compression ratio when applying sobel filter on V channel and keeping high quality.
+V_sobel_mid_jpeg_ratio,The JPEG compression ratio when applying sobel filter on V channel and keeping mid quality.
+V_sobel_low_jpeg_ratio,The JPEG compression ratio when applying sobel filter on V channel and keeping low quality.
+V_sobel_zipf_rank_slope,The regression line's slope of Zipf rank frequency when applying sobel filter on V channel.
+V_sobel_zipf_rank_corr,The regression line's correlation coeffienct of Zipf rank frequency when applying sobel filter on V channel.
+V_sobel_zipf_size_slope,The regression line's slope of Zipf size frequency when applying sobel filter on V channel.
+V_sobel_zipf_size_corr,The regression line's correlation coeffienct of Zipf size frequency when applying sobel filter on V channel.
+RGB_hi_jpeg_ratio,The JPEG compression ratio of the RGB channel when keeping high quality.
+RGB_mid_jpeg_ratio,The JPEG compression ratio of the RGB channel when keeping mid quality.
+RGB_low_jpeg_ratio,The JPEG compression ratio of the RGB channel when keeping low quality.
+CS_hi_jpeg_ratio,The JPEG compression ratio of the S*V channel when keeping high quality.
+CS_mid_jpeg_ratio,The JPEG compression ratio of the S*V channel when keeping mid quality.
+CS_low_jpeg_ratio,The JPEG compression ratio of the S*V channel when keeping low quality.
+CS_zipf_rank_slope,The regression line's slope of Zipf rank frequency of the S*V channel.
+CS_zipf_rank_corr,The regression line's correlation coeffienct of Zipf rank frequency of the S*V channel.
+CS_zipf_size_slope,The regression line's slope of Zipf size frequency of the S*V channel.
+CS_zipf_size_corr,The regression line's correlation coeffienct of Zipf size frequency of the S*V channel.
+CS_edge_ratio,The percentage of edge pixels of the S*V channel.
+CS_canny_hi_jpeg_ratio,The JPEG compression ratio when applying canny filter on S*V channel and keeping high quality.
+CS_canny_mid_jpeg_ratio,The JPEG compression ratio when applying canny filter on S*V channel and keeping mid quality.
+CS_canny_low_jpeg_ratio,The JPEG compression ratio when applying canny filter on S*V channel and keeping low quality.
+CS_canny_zipf_rank_slope,The regression line's slope of Zipf rank frequency when applying canny filter on S*V channel.
+CS_canny_zipf_rank_corr,The regression line's correlation coeffienct of Zipf rank frequency when applying canny filter on S*V channel.
+CS_canny_zipf_size_slope,The regression line's slope of Zipf size frequency when applying canny filter on S*V channel.
+CS_canny_zipf_size_corr,The regression line's correlation coeffienct of Zipf size frequency when applying canny filter on S*V channel.
+CS_sobel_hi_jpeg_ratio,The JPEG compression ratio when applying sobel filter on S*V channel and keeping high quality.
+CS_sobel_mid_jpeg_ratio,The JPEG compression ratio when applying sobel filter on S*V channel and keeping mid quality.
+CS_sobel_low_jpeg_ratio,The JPEG compression ratio when applying sobel filter on S*V channel and keeping low quality.
+CS_sobel_zipf_rank_slope,The regression line's slope of Zipf rank frequency when applying sobel filter on S*V channel.
+CS_sobel_zipf_rank_corr,The regression line's correlation coeffienct of Zipf rank frequency when applying sobel filter on S*V channel.
+CS_sobel_zipf_size_slope,The regression line's slope of Zipf size frequency when applying sobel filter on S*V channel.
+CS_sobel_zipf_size_corr,The regression line's correlation coeffienct of Zipf size frequency when applying sobel filter on S*V channel.
+CS_H_hi_jpeg_ratio,The JPEG compression ratio of the H*S*V channel when keeping high quality.
+CS_H_mid_jpeg_ratio,The JPEG compression ratio of the H*S*V channel when keeping mid quality.
+CS_H_low_jpeg_ratio,The JPEG compression ratio of the H*S*V channel when keeping low quality.
+CS_H_zipf_rank_slope,The regression line's slope of Zipf rank frequency of the H*S*V channel.
+CS_H_zipf_rank_corr,The regression line's correlation coeffienct of Zipf rank frequency of the H*S*V channel.
+CS_H_zipf_size_slope,The regression line's slope of Zipf size frequency of the H*S*V channel.
+CS_H_zipf_size_corr,The regression line's correlation coeffienct of Zipf size frequency of the H*S*V channel.
+CS_H_edge_ratio,The percentage of edge pixels of the H*S*V channel.
+CS_H_canny_hi_jpeg_ratio,The JPEG compression ratio when applying canny filter on H*S*V channel and keeping high quality.
+CS_H_canny_mid_jpeg_ratio,The JPEG compression ratio when applying canny filter on H*S*V channel and keeping mid quality.
+CS_H_canny_low_jpeg_ratio,The JPEG compression ratio when applying canny filter on H*S*V channel and keeping low quality.
+CS_H_canny_zipf_rank_slope,The regression line's slope of Zipf rank frequency when applying canny filter on H*S*V channel.
+CS_H_canny_zipf_rank_corr,The regression line's correlation coeffienct of Zipf rank frequency when applying canny filter on H*S*V channel.
+CS_H_canny_zipf_size_slope,The regression line's slope of Zipf size frequency when applying canny filter on H*S*V channel.
+CS_H_canny_zipf_size_corr,The regression line's correlation coeffienct of Zipf size frequency when applying canny filter on H*S*V channel.
+CS_H_sobel_hi_jpeg_ratio,The JPEG compression ratio when applying sobel filter on H*S*V channel and keeping high quality.
+CS_H_sobel_mid_jpeg_ratio,The JPEG compression ratio when applying sobel filter on H*S*V channel and keeping mid quality.
+CS_H_sobel_low_jpeg_ratio,The JPEG compression ratio when applying sobel filter on H*S*V channel and keeping low quality.
+CS_H_sobel_zipf_rank_slope,The regression line's slope of Zipf rank frequency when applying sobel filter on H*S*V channel.
+CS_H_sobel_zipf_rank_corr,The regression line's correlation coeffienct of Zipf rank frequency when applying sobel filter on H*S*V channel.
+CS_H_sobel_zipf_size_slope,The regression line's slope of Zipf size frequency when applying sobel filter on H*S*V channel.
+CS_H_sobel_zipf_size_corr,The regression line's correlation coeffienct of Zipf size frequency when applying sobel filter on H*S*V channel.
+feature_congestion,A measurement of visual clutter.
+subband_entropy,A measurement of visual clutter.
+view_count,The number of all views.
+H_circ_mean,The circular mean of all H values.
+H_circ_std,The circular standard deviation of all H values.
+H_mean,The mean of all H values.
+H_std,The standard deviation of all H values.
+H_canny_circ_mean,The circular mean of all H values after applying canny filter.
+H_canny_circ_std,The circular standard deviation of all H values after applying canny filter.
+H_canny_mean,The mean of all H values after applying canny filter.
+H_canny_std,The standard deviation of all H values after applying canny filter.
+H_sobel_circ_mean,The circular mean of all H values after applying sobel filter.
+H_sobel_circ_std,The circular standard deviation of all H values after applying sobel filter.
+H_sobel_mean,The mean of all H values after applying sobel filter.
+H_sobel_std,The standard deviation of all H values after applying sobel filter.
+S_mean,The mean of all S values.
+S_std,The standard deviation of all S values.
+S_canny_mean,The mean of all S values after applying canny filter.
+S_canny_std,The standard deviation of all S values after applying canny filter.
+S_sobel_mean,The mean of all S values after applying sobel filter.
+S_sobel_std,The standard deviation of all S values after applying sobel filter.
+V_mean,The mean of all V values.
+V_std,The standard deviation of all V values.
+V_canny_mean,The mean of all V values after applying canny filter.
+V_canny_std,The standard deviation of all V values after applying canny filter.
+V_sobel_mean,The mean of all V values after applying sobel filter.
+V_sobel_std,The standard deviation of all V values after applying sobel filter.
+CS_mean,The mean of all S*V values.
+CS_std,The standard deviation of all S*V values.
+CS_canny_mean,The mean of all S*V values after applying canny filter.
+CS_canny_std,The standard deviation of all S*V values after applying canny filter.
+CS_sobel_mean,The mean of all S*V values after applying sobel filter.
+CS_sobel_std,The standard deviation of all S*V values after applying sobel filter.
+CS_H_circ_mean,The circular mean of all H*S*V values.
+CS_H_circ_std,The circular standard deviation of all H*S*V values.
+CS_H_mean,The mean of all H*S*V values.
+CS_H_std,The standard deviation of all H*S*V values.
+CS_H_canny_circ_mean,The circular mean of all H*S*V values after applying canny filter.
+CS_H_canny_circ_std,The circular standard deviation of all H*S*V values after applying canny filter.
+CS_H_canny_mean,The mean of all H*S*V values after applying canny filter.
+CS_H_canny_std,The standard deviation of all H*S*V values after applying canny filter.
+CS_H_sobel_circ_mean,The circular mean of all H*S*V values after applying sobel filter.
+CS_H_sobel_circ_std,The circular standard deviation of all H*S*V values after applying sobel filter.
+CS_H_sobel_mean,The mean of all H*S*V values after applying sobel filter.
+CS_H_sobel_std,The standard deviation of all H*S*V values after applying sobel filter.
+distinct_H_count,The count of all H values.
+distinct_S_count,The count of all S values.
+distinct_V_count,The count of all V values.
+distinct_RGB_count,The count of all RGB values.
+png_file_size,The size of the pnd file.
+static_cluster_count,The count of static clusters of all RGB values.
+dynamic_cluster_count,The count of dynamic clusters of all RGB values.
+colorfulness,A measurement of colorfulness.
+luminance_std,The standard deviation of luminance values.
+view_size_mean,The mean of all view sizes.
+view_width_mean,The mean of all view widths.
+view_height_mean,The mean of all view heights.
+view_size_std,The standard deviation of all view sizes.
+view_width_std,The standard deviation of all view widths.
+view_height_std,The standard deviation of all view heights.
+annotation_view_size_mean,The mean of all annotation view sizes.
+annotation_view_width_mean,The mean of all annotation view widths.
+annotation_view_height_mean,The mean of all annotation view heights.
+annotation_view_size_std,The standard deviation of all annotation view sizes.
+annotation_view_width_std,The standard deviation of all annotation view widths.
+annotation_view_height_std,The standard deviation of all annotation view heights.
+line_chart_view_size_mean,The mean of all line chart view sizes.
+line_chart_view_width_mean,The mean of all line chart view widths.
+line_chart_view_height_mean,The mean of all line chart view heights.
+line_chart_view_size_std,The standard deviation of all line chart view sizes.
+line_chart_view_width_std,The standard deviation of all line chart view widths.
+line_chart_view_height_std,The standard deviation of all line chart view heights.
+contour_graph_view_size_mean,The mean of all contour graph view sizes.
+contour_graph_view_width_mean,The mean of all contour graph view widths.
+contour_graph_view_height_mean,The mean of all contour graph view heights.
+contour_graph_view_size_std,The standard deviation of all contour graph view sizes.
+contour_graph_view_width_std,The standard deviation of all contour graph view widths.
+contour_graph_view_height_std,The standard deviation of all contour graph view heights.
+surface_graph_view_size_mean,The mean of all surface graph view sizes.
+surface_graph_view_width_mean,The mean of all surface graph view widths.
+surface_graph_view_height_mean,The mean of all surface graph view heights.
+surface_graph_view_size_std,The standard deviation of all surface graph view sizes.
+surface_graph_view_width_std,The standard deviation of all surface graph view widths.
+surface_graph_view_height_std,The standard deviation of all surface graph view heights.
+vector_graph_view_size_mean,The mean of all vector graph view sizes.
+vector_graph_view_width_mean,The mean of all vector graph view widths.
+vector_graph_view_height_mean,The mean of all vector graph view heights.
+vector_graph_view_size_std,The standard deviation of all vector graph view sizes.
+vector_graph_view_width_std,The standard deviation of all vector graph view widths.
+vector_graph_view_height_std,The standard deviation of all vector graph view heights.
+scivis_view_size_mean,The mean of all scivis view sizes.
+scivis_view_width_mean,The mean of all scivis view widths.
+scivis_view_height_mean,The mean of all scivis view heights.
+scivis_view_size_std,The standard deviation of all scivis view sizes.
+scivis_view_width_std,The standard deviation of all scivis view widths.
+scivis_view_height_std,The standard deviation of all scivis view heights.
+scatterplot_view_size_mean,The mean of all scatterplot view sizes.
+scatterplot_view_width_mean,The mean of all scatterplot view widths.
+scatterplot_view_height_mean,The mean of all scatterplot view heights.
+scatterplot_view_size_std,The standard deviation of all scatterplot view sizes.
+scatterplot_view_width_std,The standard deviation of all scatterplot view widths.
+scatterplot_view_height_std,The standard deviation of all scatterplot view heights.
+tree_view_size_mean,The mean of all tree view sizes.
+tree_view_width_mean,The mean of all tree view widths.
+tree_view_height_mean,The mean of all tree view heights.
+tree_view_size_std,The standard deviation of all tree view sizes.
+tree_view_width_std,The standard deviation of all tree view widths.
+tree_view_height_std,The standard deviation of all tree view heights.
+heatmap_view_size_mean,The mean of all heatmap view sizes.
+heatmap_view_width_mean,The mean of all heatmap view widths.
+heatmap_view_height_mean,The mean of all heatmap view heights.
+heatmap_view_size_std,The standard deviation of all heatmap view sizes.
+heatmap_view_width_std,The standard deviation of all heatmap view widths.
+heatmap_view_height_std,The standard deviation of all heatmap view heights.
+treemap_view_size_mean,The mean of all treemap view sizes.
+treemap_view_width_mean,The mean of all treemap view widths.
+treemap_view_height_mean,The mean of all treemap view heights.
+treemap_view_size_std,The standard deviation of all treemap view sizes.
+treemap_view_width_std,The standard deviation of all treemap view widths.
+treemap_view_height_std,The standard deviation of all treemap view heights.
+graph_view_size_mean,The mean of all graph view sizes.
+graph_view_width_mean,The mean of all graph view widths.
+graph_view_height_mean,The mean of all graph view heights.
+graph_view_size_std,The standard deviation of all graph view sizes.
+graph_view_width_std,The standard deviation of all graph view widths.
+graph_view_height_std,The standard deviation of all graph view heights.
+map_view_size_mean,The mean of all map view sizes.
+map_view_width_mean,The mean of all map view widths.
+map_view_height_mean,The mean of all map view heights.
+map_view_size_std,The standard deviation of all map view sizes.
+map_view_width_std,The standard deviation of all map view widths.
+map_view_height_std,The standard deviation of all map view heights.
+bar_chart_view_size_mean,The mean of all bar chart view sizes.
+bar_chart_view_width_mean,The mean of all bar chart view widths.
+bar_chart_view_height_mean,The mean of all bar chart view heights.
+bar_chart_view_size_std,The standard deviation of all bar chart view sizes.
+bar_chart_view_width_std,The standard deviation of all bar chart view widths.
+bar_chart_view_height_std,The standard deviation of all bar chart view heights.
+small_multiple_view_size_mean,The mean of all small multiple view sizes.
+small_multiple_view_width_mean,The mean of all small multiple view widths.
+small_multiple_view_height_mean,The mean of all small multiple view heights.
+small_multiple_view_size_std,The standard deviation of all small multiple view sizes.
+small_multiple_view_width_std,The standard deviation of all small multiple view widths.
+small_multiple_view_height_std,The standard deviation of all small multiple view heights.
+matrix_view_size_mean,The mean of all matrix view sizes.
+matrix_view_width_mean,The mean of all matrix view widths.
+matrix_view_height_mean,The mean of all matrix view heights.
+matrix_view_size_std,The standard deviation of all matrix view sizes.
+matrix_view_width_std,The standard deviation of all matrix view widths.
+matrix_view_height_std,The standard deviation of all matrix view heights.
+flow_diagram_view_size_mean,The mean of all flow diagram view sizes.
+flow_diagram_view_width_mean,The mean of all flow diagram view widths.
+flow_diagram_view_height_mean,The mean of all flow diagram view heights.
+flow_diagram_view_size_std,The standard deviation of all flow diagram view sizes.
+flow_diagram_view_width_std,The standard deviation of all flow diagram view widths.
+flow_diagram_view_height_std,The standard deviation of all flow diagram view heights.
+table_view_size_mean,The mean of all table view sizes.
+table_view_width_mean,The mean of all table view widths.
+table_view_height_mean,The mean of all table view heights.
+table_view_size_std,The standard deviation of all table view sizes.
+table_view_width_std,The standard deviation of all table view widths.
+table_view_height_std,The standard deviation of all table view heights.
+sunburst_icicle_view_size_mean,The mean of all sunburst icicle view sizes.
+sunburst_icicle_view_width_mean,The mean of all sunburst icicle view widths.
+sunburst_icicle_view_height_mean,The mean of all sunburst icicle view heights.
+sunburst_icicle_view_size_std,The standard deviation of all sunburst icicle view sizes.
+sunburst_icicle_view_width_std,The standard deviation of all sunburst icicle view widths.
+sunburst_icicle_view_height_std,The standard deviation of all sunburst icicle view heights.
+parallel_coordinate_view_size_mean,The mean of all parallel coordinate view sizes.
+parallel_coordinate_view_width_mean,The mean of all parallel coordinate view widths.
+parallel_coordinate_view_height_mean,The mean of all parallel coordinate view heights.
+parallel_coordinate_view_size_std,The standard deviation of all parallel coordinate view sizes.
+parallel_coordinate_view_width_std,The standard deviation of all parallel coordinate view widths.
+parallel_coordinate_view_height_std,The standard deviation of all parallel coordinate view heights.
+box_plot_view_size_mean,The mean of all box plot view sizes.
+box_plot_view_width_mean,The mean of all box plot view widths.
+box_plot_view_height_mean,The mean of all box plot view heights.
+box_plot_view_size_std,The standard deviation of all box plot view sizes.
+box_plot_view_width_std,The standard deviation of all box plot view widths.
+box_plot_view_height_std,The standard deviation of all box plot view heights.
+error_bar_chart_size_mean,The mean of all error bar chart sizes.
+error_bar_chart_width_mean,The mean of all error bar chart widths.
+error_bar_chart_height_mean,The mean of all error bar chart heights.
+error_bar_chart_size_std,The standard deviation of all error bar chart sizes.
+error_bar_chart_width_std,The standard deviation of all error bar chart widths.
+error_bar_chart_height_std,The standard deviation of all error bar chart heights.
+glyph_based_view_size_mean,The mean of all glyph based view sizes.
+glyph_based_view_width_mean,The mean of all glyph based view widths.
+glyph_based_view_height_mean,The mean of all glyph based view heights.
+glyph_based_view_size_std,The standard deviation of all glyph based view sizes.
+glyph_based_view_width_std,The standard deviation of all glyph based view widths.
+glyph_based_view_height_std,The standard deviation of all glyph based view heights.
+area_chart_view_size_mean,The mean of all area chart view sizes.
+area_chart_view_width_mean,The mean of all area chart view widths.
+area_chart_view_height_mean,The mean of all area chart view heights.
+area_chart_view_size_std,The standard deviation of all area chart view sizes.
+area_chart_view_width_std,The standard deviation of all area chart view widths.
+area_chart_view_height_std,The standard deviation of all area chart view heights.
+pie_chart_view_size_mean,The mean of all pie chart view sizes.
+pie_chart_view_width_mean,The mean of all pie chart view widths.
+pie_chart_view_height_mean,The mean of all pie chart view heights.
+pie_chart_view_size_std,The standard deviation of all pie chart view sizes.
+pie_chart_view_width_std,The standard deviation of all pie chart view widths.
+pie_chart_view_height_std,The standard deviation of all pie chart view heights.
+sector_chart_view_size_mean,The mean of all sector chart view sizes.
+sector_chart_view_width_mean,The mean of all sector chart view widths.
+sector_chart_view_height_mean,The mean of all sector chart view heights.
+sector_chart_view_size_std,The standard deviation of all sector chart view sizes.
+sector_chart_view_width_std,The standard deviation of all sector chart view widths.
+sector_chart_view_height_std,The standard deviation of all sector chart view heights.
+word_cloud_view_size_mean,The mean of all word cloud view sizes.
+word_cloud_view_width_mean,The mean of all word cloud view widths.
+word_cloud_view_height_mean,The mean of all word cloud view heights.
+word_cloud_view_size_std,The standard deviation of all word cloud view sizes.
+word_cloud_view_width_std,The standard deviation of all word cloud view widths.
+word_cloud_view_height_std,The standard deviation of all word cloud view heights.
+proportional_area_chart_view_size_mean,The mean of all proportional area chart view sizes.
+proportional_area_chart_view_width_mean,The mean of all proportional area chart view widths.
+proportional_area_chart_view_height_mean,The mean of all proportional area chart view heights.
+proportional_area_chart_view_size_std,The standard deviation of all proportional area chart view sizes.
+proportional_area_chart_view_width_std,The standard deviation of all proportional area chart view widths.
+proportional_area_chart_view_height_std,The standard deviation of all proportional area chart view heights.
+unit_visualization_view_size_mean,The mean of all unit visualization view sizes.
+unit_visualization_view_width_mean,The mean of all unit visualization view widths.
+unit_visualization_view_height_mean,The mean of all unit visualization view heights.
+unit_visualization_view_size_std,The standard deviation of all unit visualization view sizes.
+unit_visualization_view_width_std,The standard deviation of all unit visualization view widths.
+unit_visualization_view_height_std,The standard deviation of all unit visualization view heights.
+donut_chart_view_size_mean,The mean of all donut chart view sizes.
+donut_chart_view_width_mean,The mean of all donut chart view widths.
+donut_chart_view_height_mean,The mean of all donut chart view heights.
+donut_chart_view_size_std,The standard deviation of all donut chart view sizes.
+donut_chart_view_width_std,The standard deviation of all donut chart view widths.
+donut_chart_view_height_std,The standard deviation of all donut chart view heights.
+sankey_diagram_view_size_mean,The mean of all sankey diagram view sizes.
+sankey_diagram_view_width_mean,The mean of all sankey diagram view widths.
+sankey_diagram_view_height_mean,The mean of all sankey diagram view heights.
+sankey_diagram_view_size_std,The standard deviation of all sankey diagram view sizes.
+sankey_diagram_view_width_std,The standard deviation of all sankey diagram view widths.
+sankey_diagram_view_height_std,The standard deviation of all sankey diagram view heights.
+hierarchical_edge_bundling_view_size_mean,The mean of all hierarchical edge bundling view sizes.
+hierarchical_edge_bundling_view_width_mean,The mean of all hierarchical edge bundling view widths.
+hierarchical_edge_bundling_view_height_mean,The mean of all hierarchical edge bundling view heights.
+hierarchical_edge_bundling_view_size_std,The standard deviation of all hierarchical edge bundling view sizes.
+hierarchical_edge_bundling_view_width_std,The standard deviation of all hierarchical edge bundling view widths.
+hierarchical_edge_bundling_view_height_std,The standard deviation of all hierarchical edge bundling view heights.
+chord_diagram_view_size_mean,The mean of all chord diagram view sizes.
+chord_diagram_view_width_mean,The mean of all chord diagram view widths.
+chord_diagram_view_height_mean,The mean of all chord diagram view heights.
+chord_diagram_view_size_std,The standard deviation of all chord diagram view sizes.
+chord_diagram_view_width_std,The standard deviation of all chord diagram view widths.
+chord_diagram_view_height_std,The standard deviation of all chord diagram view heights.
+stripe_graph_view_size_mean,The mean of all stripe graph view sizes.
+stripe_graph_view_width_mean,The mean of all stripe graph view widths.
+stripe_graph_view_height_mean,The mean of all stripe graph view heights.
+stripe_graph_view_size_std,The standard deviation of all stripe graph view sizes.
+stripe_graph_view_width_std,The standard deviation of all stripe graph view widths.
+stripe_graph_view_height_std,The standard deviation of all stripe graph view heights.
+polar_plot_view_size_mean,The mean of all polar plot view sizes.
+polar_plot_view_width_mean,The mean of all polar plot view widths.
+polar_plot_view_height_mean,The mean of all polar plot view heights.
+polar_plot_view_size_std,The standard deviation of all polar plot view sizes.
+polar_plot_view_width_std,The standard deviation of all polar plot view widths.
+polar_plot_view_height_std,The standard deviation of all polar plot view heights.
+storyline_chart_size_mean,The mean of all storyline chart sizes.
+storyline_chart_width_mean,The mean of all storyline chart widths.
+storyline_chart_height_mean,The mean of all storyline chart heights.
+storyline_chart_size_std,The standard deviation of all storyline chart sizes.
+storyline_chart_width_std,The standard deviation of all storyline chart widths.
+storyline_chart_height_std,The standard deviation of all storyline chart heights.
+others_view_size_mean,The mean of all others view sizes.
+others_view_width_mean,The mean of all others view widths.
+others_view_height_mean,The mean of all others view heights.
+others_view_size_std,The standard deviation of all others view sizes.
+others_view_width_std,The standard deviation of all others view widths.
+others_view_height_std,The standard deviation of all others view heights.
+view_size_static_cluster_count,The count of all view sizes.
+view_width_static_cluster_count,The count of all view widths.
+view_height_static_cluster_count,The count of all view heights.
+view_size_dynamic_cluster_count,The count of all view sizes.
+view_width_dynamic_cluster_count,The count of all view widths.
+view_height_dynamic_cluster_count,The count of all view heights.
+ annotation_count,The number of all annotation views.
+line_chart_count,The number of all line chart views.
+contour_graph_count,The number of all contour graph views.
+surface_graph_count,The number of all surface graph views.
+vector_graph_count,The number of all vector graph views.
+scivis_count,The number of all scivis views.
+scatterplot_count,The number of all scatterplot views.
+tree_count,The number of all tree views.
+heatmap_count,The number of all heatmap views.
+treemap_count,The number of all treemap views.
+graph_count,The number of all graph views.
+map_count,The number of all map views.
+bar_chart_count,The number of all bar chart views.
+small_multiple_count,The number of all small multiple views.
+matrix_count,The number of all matrix views.
+flow_diagram_count,The number of all flow diagram views.
+table_count,The number of all table views.
+sunburst_icicle_count,The number of all sunburst icicle views.
+parallel_coordinate_count,The number of all parallel coordinate views.
+box_plot_count,The number of all box plot views.
+error_bar_count,The number of all error bar views.
+glyph_based_count,The number of all glyph based views.
+area_chart_count,The number of all area chart views.
+pie_chart_count,The number of all pie chart views.
+sector_chart_count,The number of all sector chart views.
+word_cloud_count,The number of all word cloud views.
+proportional_area_chart_count,The number of all proportional area chart views.
+unit_visualization_count,The number of all unit visualization views.
+donut_chart_count,The number of all donut chart views.
+sankey_diagram_count,The number of all sankey diagram views.
+hierarchical_edge_bundling_count,The number of all hierarchical edge bundling views.
+chord_diagram_count,The number of all chord diagram views.
+stripe_graph_count,The number of all stripe graph views.
+polar_plot_count,The number of all polar plot views.
+storyline_count,The number of all storyline views.
+others_count,The number of all others views.
+vis_type_count,The number of all vis type views.
+annotation_proportion,The percentage of all annotation views in the visualization image.
+line_chart_proportion,The percentage of all line chart views in the visualization image.
+contour_graph_proportion,The percentage of all contour graph views in the visualization image.
+surface_graph_proportion,The percentage of all surface graph views in the visualization image.
+vector_graph_proportion,The percentage of all vector graph views in the visualization image.
+scivis_proportion,The percentage of all scivis views in the visualization image.
+scatterplot_proportion,The percentage of all scatterplot views in the visualization image.
+tree_proportion,The percentage of all tree views in the visualization image.
+heatmap_proportion,The percentage of all heatmap views in the visualization image.
+treemap_proportion,The percentage of all treemap views in the visualization image.
+graph_proportion,The percentage of all graph views in the visualization image.
+map_proportion,The percentage of all map views in the visualization image.
+bar_chart_proportion,The percentage of all bar chart views in the visualization image.
+small_multiple_proportion,The percentage of all small multiple views in the visualization image.
+matrix_proportion,The percentage of all matrix views in the visualization image.
+flow_diagram_proportion,The percentage of all flow diagram views in the visualization image.
+table_proportion,The percentage of all table views in the visualization image.
+sunburst_icicle_proportion,The percentage of all sunburst icicle views in the visualization image.
+parallel_coordinate_proportion,The percentage of all parallel coordinate views in the visualization image.
+box_plot_proportion,The percentage of all box plot views in the visualization image.
+error_bar_proportion,The percentage of all error bar views in the visualization image.
+glyph_based_proportion,The percentage of all glyph based views in the visualization image.
+area_chart_proportion,The percentage of all area chart views in the visualization image.
+pie_chart_proportion,The percentage of all pie chart views in the visualization image.
+sector_chart_proportion,The percentage of all sector chart views in the visualization image.
+word_cloud_proportion,The percentage of all word cloud views in the visualization image.
+proportional_area_chart_proportion,The percentage of all views in the visualization image.
+unit_visualization_proportion,The percentage of all unit visualization views in the visualization image.
+donut_chart_proportion,The percentage of all donut chart views in the visualization image.
+sankey_diagram_proportion,The percentage of all sankey diagram views in the visualization image.
+hierarchical_edge_bundling_proportion,The percentage of all hierarchical edge bundling views in the visualization image.
+chord_diagram_proportion,The percentage of all chord diagram views in the visualization image.
+stripe_graph_proportion,The percentage of all stripe graph views in the visualization image.
+polar_plot_proportion,The percentage of all polar plot views in the visualization image.
+storyline_proportion,The percentage of all storyline views in the visualization image.
+others_proportion,The percentage of all others views in the visualization image.
+horizontal_symmetry_score,A measurement of horizontal symmetry.
+vertical_symmetry_score,A measurement of vertical symmetry.
+ figure_ground_contrast_score,A measurement of contrast between views and tje background.
+horizontal_symmetry_proportion,The percentage of all horizontal symmetry pixels in the visualization image.
+vertical_symmetry_proportion,The percentage of all vertical symmetry pixels in the visualization image.
+annotation_view_x_mean,The mean of all annotation view x positions.
+annotation_view_y_mean,The mean of all annotation view y positions.
+annotation_view_x_std,The standard deviation of all annotation view x positions.
+annotation_view_y_std,The standard deviation of all annotation view y positions.
+line_chart_view_x_mean,The mean of all line chart view x positions.
+line_chart_view_y_mean,The mean of all line chart view y positions.
+line_chart_view_x_std,The standard deviation of all line chart view x positions.
+line_chart_view_y_std,The standard deviation of all line chart view y positions.
+contour_graph_view_x_mean,The mean of all contour graph view x positions.
+contour_graph_view_y_mean,The mean of all contour graph view y positions.
+contour_graph_view_x_std,The standard deviation of all contour graph view x positions.
+contour_graph_view_y_std,The standard deviation of all contour graph view y positions.
+surface_graph_view_x_mean,The mean of all surface graph view x positions.
+surface_graph_view_y_mean,The mean of all surface graph view y positions.
+surface_graph_view_x_std,The standard deviation of all surface graph view x positions.
+surface_graph_view_y_std,The standard deviation of all surface graph view y positions.
+vector_graph_view_x_mean,The mean of all vector graph view x positions.
+vector_graph_view_y_mean,The mean of all vector graph view y positions.
+vector_graph_view_x_std,The standard deviation of all vector graph view x positions.
+vector_graph_view_y_std,The standard deviation of all vector graph view y positions.
+scivis_view_x_mean,The mean of all scivis view x positions.
+scivis_view_y_mean,The mean of all scivis view y positions.
+scivis_view_x_std,The standard deviation of all scivis view x positions.
+scivis_view_y_std,The standard deviation of all scivis view y positions.
+scatterplot_view_x_mean,The mean of all scatterplot view x positions.
+scatterplot_view_y_mean,The mean of all scatterplot view y positions.
+scatterplot_view_x_std,The standard deviation of all scatterplot view x positions.
+scatterplot_view_y_std,The standard deviation of all scatterplot view y positions.
+tree_view_x_mean,The mean of all tree view x positions.
+tree_view_y_mean,The mean of all tree view y positions.
+tree_view_x_std,The standard deviation of all tree view x positions.
+tree_view_y_std,The standard deviation of all tree view y positions.
+heatmap_view_x_mean,The mean of all heatmap view x positions.
+heatmap_view_y_mean,The mean of all heatmap view y positions.
+heatmap_view_x_std,The standard deviation of all heatmap view x positions.
+heatmap_view_y_std,The standard deviation of all heatmap view y positions.
+treemap_view_x_mean,The mean of all treemap view x positions.
+treemap_view_y_mean,The mean of all treemap view y positions.
+treemap_view_x_std,The standard deviation of all treemap view x positions.
+treemap_view_y_std,The standard deviation of all treemap view y positions.
+graph_view_x_mean,The mean of all graph view x positions.
+graph_view_y_mean,The mean of all graph view y positions.
+graph_view_x_std,The standard deviation of all graph view x positions.
+graph_view_y_std,The standard deviation of all graph view y positions.
+map_view_x_mean,The mean of all map view x positions.
+map_view_y_mean,The mean of all map view y positions.
+map_view_x_std,The standard deviation of all map view x positions.
+map_view_y_std,The standard deviation of all map view y positions.
+bar_chart_view_x_mean,The mean of all bar chart view x positions.
+bar_chart_view_y_mean,The mean of all bar chart view y positions.
+bar_chart_view_x_std,The standard deviation of all bar chart view x positions.
+bar_chart_view_y_std,The standard deviation of all bar chart view y positions.
+small_multiple_view_x_mean,The mean of all small multiple view x positions.
+small_multiple_view_y_mean,The mean of all small multiple view y positions.
+small_multiple_view_x_std,The standard deviation of all small multiple view x positions.
+small_multiple_view_y_std,The standard deviation of all small multiple view y positions.
+matrix_view_x_mean,The mean of all matrix view x positions.
+matrix_view_y_mean,The mean of all matrix view y positions.
+matrix_view_x_std,The standard deviation of all matrix view x positions.
+matrix_view_y_std,The standard deviation of all matrix view y positions.
+flow_diagram_view_x_mean,The mean of all flow diagram view x positions.
+flow_diagram_view_y_mean,The mean of all flow diagram view y positions.
+flow_diagram_view_x_std,The standard deviation of all flow diagram view x positions.
+flow_diagram_view_y_std,The standard deviation of all flow diagram view y positions.
+table_view_x_mean,The mean of all table view x positions.
+table_view_y_mean,The mean of all table view y positions.
+table_view_x_std,The standard deviation of all table view x positions.
+table_view_y_std,The standard deviation of all table view y positions.
+sunburst_icicle_view_x_mean,The mean of all sunburst icicle view x positions.
+sunburst_icicle_view_y_mean,The mean of all sunburst icicle view y positions.
+sunburst_icicle_view_x_std,The standard deviation of all sunburst icicle view x positions.
+sunburst_icicle_view_y_std,The standard deviation of all sunburst icicle view y positions.
+parallel_coordinate_view_x_mean,The mean of all parallel coordinate view x positions.
+parallel_coordinate_view_y_mean,The mean of all parallel coordinate view y positions.
+parallel_coordinate_view_x_std,The standard deviation of all parallel coordinate view x positions.
+parallel_coordinate_view_y_std,The standard deviation of all parallel coordinate view y positions.
+box_plot_view_x_mean,The mean of all box plot view x positions.
+box_plot_view_y_mean,The mean of all box plot view y positions.
+box_plot_view_x_std,The standard deviation of all box plot view x positions.
+box_plot_view_y_std,The standard deviation of all box plot view y positions.
+error_bar_chart_x_mean,The mean of all error bar chart x positions.
+error_bar_chart_y_mean,The mean of all error bar chart y positions.
+error_bar_chart_x_std,The standard deviation of all error bar chart x positions.
+error_bar_chart_y_std,The standard deviation of all error bar chart y positions.
+glyph_based_view_x_mean,The mean of all glyph based view x positions.
+glyph_based_view_y_mean,The mean of all glyph based view y positions.
+glyph_based_view_x_std,The standard deviation of all glyph based view x positions.
+glyph_based_view_y_std,The standard deviation of all glyph based view y positions.
+area_chart_view_x_mean,The mean of all area chart view x positions.
+area_chart_view_y_mean,The mean of all area chart view y positions.
+area_chart_view_x_std,The standard deviation of all area chart view x positions.
+area_chart_view_y_std,The standard deviation of all area chart view y positions.
+pie_chart_view_x_mean,The mean of all pie chart view x positions.
+pie_chart_view_y_mean,The mean of all pie chart view y positions.
+pie_chart_view_x_std,The standard deviation of all pie chart view x positions.
+pie_chart_view_y_std,The standard deviation of all pie chart view y positions.
+sector_chart_view_x_mean,The mean of all sector chart view x positions.
+sector_chart_view_y_mean,The mean of all sector chart view y positions.
+sector_chart_view_x_std,The standard deviation of all sector chart view x positions.
+sector_chart_view_y_std,The standard deviation of all sector chart view y positions.
+word_cloud_view_x_mean,The mean of all word cloud view x positions.
+word_cloud_view_y_mean,The mean of all word cloud view y positions.
+word_cloud_view_x_std,The standard deviation of all word cloud view x positions.
+word_cloud_view_y_std,The standard deviation of all word cloud view y positions.
+proportional_area_chart_view_x_mean,The mean of all proportional area chart view x positions.
+proportional_area_chart_view_y_mean,The mean of all proportional area chart view y positions.
+proportional_area_chart_view_x_std,The standard deviation of all proportional area chart view x positions.
+proportional_area_chart_view_y_std,The standard deviation of all proportional area chart view y positions.
+unit_visualization_view_x_mean,The mean of all unit visualization view x positions.
+unit_visualization_view_y_mean,The mean of all unit visualization view y positions.
+unit_visualization_view_x_std,The standard deviation of all unit visualization view x positions.
+unit_visualization_view_y_std,The standard deviation of all unit visualization view y positions.
+donut_chart_view_x_mean,The mean of all donut chart view x positions.
+donut_chart_view_y_mean,The mean of all donut chart view y positions.
+donut_chart_view_x_std,The standard deviation of all donut chart view x positions.
+donut_chart_view_y_std,The standard deviation of all donut chart view y positions.
+sankey_diagram_view_x_mean,The mean of all sankey diagram view x positions.
+sankey_diagram_view_y_mean,The mean of all sankey diagram view y positions.
+sankey_diagram_view_x_std,The standard deviation of all sankey diagram view x positions.
+sankey_diagram_view_y_std,The standard deviation of all sankey diagram view y positions.
+hierarchical_edge_bundling_view_x_mean,The mean of all hierarchical edge bundling view x positions.
+hierarchical_edge_bundling_view_y_mean,The mean of all hierarchical edge bundling view y positions.
+hierarchical_edge_bundling_view_x_std,The standard deviation of all hierarchical edge bundling view x positions.
+hierarchical_edge_bundling_view_y_std,The standard deviation of all hierarchical edge bundling view y positions.
+chord_diagram_view_x_mean,The mean of all chord diagram view x positions.
+chord_diagram_view_y_mean,The mean of all chord diagram view y positions.
+chord_diagram_view_x_std,The standard deviation of all chord diagram view x positions.
+chord_diagram_view_y_std,The standard deviation of all chord diagram view y positions.
+stripe_graph_view_x_mean,The mean of all stripe graph view x positions.
+stripe_graph_view_y_mean,The mean of all stripe graph view y positions.
+stripe_graph_view_x_std,The standard deviation of all stripe graph view x positions.
+stripe_graph_view_y_std,The standard deviation of all stripe graph view y positions.
+polar_plot_view_x_mean,The mean of all polar plot view x positions.
+polar_plot_view_y_mean,The mean of all polar plot view y positions.
+polar_plot_view_x_std,The standard deviation of all polar plot view x positions.
+polar_plot_view_y_std,The standard deviation of all polar plot view y positions.
+storyline_chart_x_mean,The mean of all storyline chart x positions.
+storyline_chart_y_mean,The mean of all storyline chart y positions.
+storyline_chart_x_std,The standard deviation of all storyline chart x positions.
+storyline_chart_y_std,The standard deviation of all storyline chart y positions.
+others_view_x_mean,The mean of all others view x positions.
+others_view_y_mean,The mean of all others view y positions.
+others_view_x_std,The standard deviation of all others view x positions.
+others_view_y_std,The standard deviation of all others view y positions.
+alignment_x_static_cluster_count,The count of static clusters of view vertices on the x axis.
+alignment_y_static_cluster_count,The count of static clusters of view vertices on the y axis.
+alignment_x_dynamic_cluster_count,The count of dynamic clusters of view vertices on the x axis.
+alignment_y_dynamic_cluster_count,The count of dynamic clusters of view vertices on the y axis.
+view_area,The area of all views.

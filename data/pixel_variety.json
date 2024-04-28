@@ -1,0 +1,557 @@
+[
+  {
+    "feature_name": "H_zipf_rank_slope",
+    "significant": "False",
+    "explanation": "The regression line's slope of Zipf rank frequency of the H channel."
+  },
+  {
+    "feature_name": "H_zipf_rank_corr",
+    "significant": "False",
+    "explanation": "The regression line's correlation coeffienct of Zipf rank frequency of the H channel."
+  },
+  {
+    "feature_name": "H_zipf_size_slope",
+    "significant": "True",
+    "explanation": "The regression line's slope of Zipf size frequency of the H channel."
+  },
+  {
+    "feature_name": "H_zipf_size_corr",
+    "significant": "True",
+    "explanation": "The regression line's correlation coeffienct of Zipf size frequency of the H channel."
+  },
+  {
+    "feature_name": "H_canny_zipf_rank_slope",
+    "significant": "True",
+    "explanation": "The regression line's slope of Zipf rank frequency when applying canny filter on H channel."
+  },
+  {
+    "feature_name": "H_canny_zipf_rank_corr",
+    "significant": "True",
+    "explanation": "The regression line's correlation coeffienct of Zipf rank frequency when applying canny filter on H channel."
+  },
+  {
+    "feature_name": "H_canny_zipf_size_slope",
+    "significant": "True",
+    "explanation": "The regression line's slope of Zipf size frequency when applying canny filter on H channel."
+  },
+  {
+    "feature_name": "H_canny_zipf_size_corr",
+    "significant": "True",
+    "explanation": "The regression line's correlation coeffienct of Zipf size frequency when applying canny filter on H channel."
+  },
+  {
+    "feature_name": "H_sobel_zipf_rank_slope",
+    "significant": "False",
+    "explanation": "The regression line's slope of Zipf rank frequency when applying sobel filter on H channel."
+  },
+  {
+    "feature_name": "H_sobel_zipf_rank_corr",
+    "significant": "True",
+    "explanation": "The regression line's correlation coeffienct of Zipf rank frequency when applying sobel filter on H channel."
+  },
+  {
+    "feature_name": "H_sobel_zipf_size_slope",
+    "significant": "True",
+    "explanation": "The regression line's slope of Zipf size frequency when applying sobel filter on H channel."
+  },
+  {
+    "feature_name": "H_sobel_zipf_size_corr",
+    "significant": "False",
+    "explanation": "The regression line's correlation coeffienct of Zipf size frequency when applying sobel filter on H channel."
+  },
+  {
+    "feature_name": "S_zipf_rank_slope",
+    "significant": "False",
+    "explanation": "The regression line's slope of Zipf rank frequency of the S channel."
+  },
+  {
+    "feature_name": "S_zipf_rank_corr",
+    "significant": "True",
+    "explanation": "The regression line's correlation coeffienct of Zipf rank frequency of the S channel."
+  },
+  {
+    "feature_name": "S_zipf_size_slope",
+    "significant": "True",
+    "explanation": "The regression line's slope of Zipf size frequency of the S channel."
+  },
+  {
+    "feature_name": "S_zipf_size_corr",
+    "significant": "False",
+    "explanation": "The regression line's correlation coeffienct of Zipf size frequency of the S channel."
+  },
+  {
+    "feature_name": "S_canny_zipf_rank_slope",
+    "significant": "True",
+    "explanation": "The regression line's slope of Zipf rank frequency when applying canny filter on S channel."
+  },
+  {
+    "feature_name": "S_canny_zipf_rank_corr",
+    "significant": "True",
+    "explanation": "The regression line's correlation coeffienct of Zipf rank frequency when applying canny filter on S channel."
+  },
+  {
+    "feature_name": "S_canny_zipf_size_slope",
+    "significant": "True",
+    "explanation": "The regression line's slope of Zipf size frequency when applying canny filter on S channel."
+  },
+  {
+    "feature_name": "S_canny_zipf_size_corr",
+    "significant": "True",
+    "explanation": "The regression line's correlation coeffienct of Zipf size frequency when applying canny filter on S channel."
+  },
+  {
+    "feature_name": "S_sobel_zipf_rank_slope",
+    "significant": "True",
+    "explanation": "The regression line's slope of Zipf rank frequency when applying sobel filter on S channel."
+  },
+  {
+    "feature_name": "S_sobel_zipf_rank_corr",
+    "significant": "False",
+    "explanation": "The regression line's correlation coeffienct of Zipf rank frequency when applying sobel filter on S channel."
+  },
+  {
+    "feature_name": "S_sobel_zipf_size_slope",
+    "significant": "True",
+    "explanation": "The regression line's slope of Zipf size frequency when applying sobel filter on S channel."
+  },
+  {
+    "feature_name": "S_sobel_zipf_size_corr",
+    "significant": "False",
+    "explanation": "The regression line's correlation coeffienct of Zipf size frequency when applying sobel filter on S channel."
+  },
+  {
+    "feature_name": "V_zipf_rank_slope",
+    "significant": "True",
+    "explanation": "The regression line's slope of Zipf rank frequency of the V channel."
+  },
+  {
+    "feature_name": "V_zipf_rank_corr",
+    "significant": "False",
+    "explanation": "The regression line's correlation coeffienct of Zipf rank frequency of the V channel."
+  },
+  {
+    "feature_name": "V_zipf_size_slope",
+    "significant": "True",
+    "explanation": "The regression line's slope of Zipf size frequency of the V channel."
+  },
+  {
+    "feature_name": "V_zipf_size_corr",
+    "significant": "True",
+    "explanation": "The regression line's correlation coeffienct of Zipf size frequency of the V channel."
+  },
+  {
+    "feature_name": "V_canny_zipf_rank_slope",
+    "significant": "True",
+    "explanation": "The regression line's slope of Zipf rank frequency when applying canny filter on V channel."
+  },
+  {
+    "feature_name": "V_canny_zipf_rank_corr",
+    "significant": "True",
+    "explanation": "The regression line's correlation coeffienct of Zipf rank frequency when applying canny filter on V channel."
+  },
+  {
+    "feature_name": "V_canny_zipf_size_slope",
+    "significant": "True",
+    "explanation": "The regression line's slope of Zipf size frequency when applying canny filter on V channel."
+  },
+  {
+    "feature_name": "V_canny_zipf_size_corr",
+    "significant": "True",
+    "explanation": "The regression line's correlation coeffienct of Zipf size frequency when applying canny filter on V channel."
+  },
+  {
+    "feature_name": "V_sobel_zipf_rank_slope",
+    "significant": "True",
+    "explanation": "The regression line's slope of Zipf rank frequency when applying sobel filter on V channel."
+  },
+  {
+    "feature_name": "V_sobel_zipf_rank_corr",
+    "significant": "True",
+    "explanation": "The regression line's correlation coeffienct of Zipf rank frequency when applying sobel filter on V channel."
+  },
+  {
+    "feature_name": "V_sobel_zipf_size_slope",
+    "significant": "False",
+    "explanation": "The regression line's slope of Zipf size frequency when applying sobel filter on V channel."
+  },
+  {
+    "feature_name": "V_sobel_zipf_size_corr",
+    "significant": "True",
+    "explanation": "The regression line's correlation coeffienct of Zipf size frequency when applying sobel filter on V channel."
+  },
+  {
+    "feature_name": "CS_zipf_rank_slope",
+    "significant": "False",
+    "explanation": "The regression line's slope of Zipf rank frequency of the S*V channel."
+  },
+  {
+    "feature_name": "CS_zipf_rank_corr",
+    "significant": "False",
+    "explanation": "The regression line's correlation coeffienct of Zipf rank frequency of the S*V channel."
+  },
+  {
+    "feature_name": "CS_zipf_size_slope",
+    "significant": "True",
+    "explanation": "The regression line's slope of Zipf size frequency of the S*V channel."
+  },
+  {
+    "feature_name": "CS_zipf_size_corr",
+    "significant": "False",
+    "explanation": "The regression line's correlation coeffienct of Zipf size frequency of the S*V channel."
+  },
+  {
+    "feature_name": "CS_canny_zipf_rank_slope",
+    "significant": "True",
+    "explanation": "The regression line's slope of Zipf rank frequency when applying canny filter on S*V channel."
+  },
+  {
+    "feature_name": "CS_canny_zipf_rank_corr",
+    "significant": "True",
+    "explanation": "The regression line's correlation coeffienct of Zipf rank frequency when applying canny filter on S*V channel."
+  },
+  {
+    "feature_name": "CS_canny_zipf_size_slope",
+    "significant": "True",
+    "explanation": "The regression line's slope of Zipf size frequency when applying canny filter on S*V channel."
+  },
+  {
+    "feature_name": "CS_canny_zipf_size_corr",
+    "significant": "True",
+    "explanation": "The regression line's correlation coeffienct of Zipf size frequency when applying canny filter on S*V channel."
+  },
+  {
+    "feature_name": "CS_sobel_zipf_rank_slope",
+    "significant": "True",
+    "explanation": "The regression line's slope of Zipf rank frequency when applying sobel filter on S*V channel."
+  },
+  {
+    "feature_name": "CS_sobel_zipf_rank_corr",
+    "significant": "True",
+    "explanation": "The regression line's correlation coeffienct of Zipf rank frequency when applying sobel filter on S*V channel."
+  },
+  {
+    "feature_name": "CS_sobel_zipf_size_slope",
+    "significant": "True",
+    "explanation": "The regression line's slope of Zipf size frequency when applying sobel filter on S*V channel."
+  },
+  {
+    "feature_name": "CS_sobel_zipf_size_corr",
+    "significant": "True",
+    "explanation": "The regression line's correlation coeffienct of Zipf size frequency when applying sobel filter on S*V channel."
+  },
+  {
+    "feature_name": "CS_H_zipf_rank_slope",
+    "significant": "True",
+    "explanation": "The regression line's slope of Zipf rank frequency of the H*S*V channel."
+  },
+  {
+    "feature_name": "CS_H_zipf_rank_corr",
+    "significant": "True",
+    "explanation": "The regression line's correlation coeffienct of Zipf rank frequency of the H*S*V channel."
+  },
+  {
+    "feature_name": "CS_H_zipf_size_slope",
+    "significant": "True",
+    "explanation": "The regression line's slope of Zipf size frequency of the H*S*V channel."
+  },
+  {
+    "feature_name": "CS_H_zipf_size_corr",
+    "significant": "True",
+    "explanation": "The regression line's correlation coeffienct of Zipf size frequency of the H*S*V channel."
+  },
+  {
+    "feature_name": "CS_H_canny_zipf_rank_slope",
+    "significant": "True",
+    "explanation": "The regression line's slope of Zipf rank frequency when applying canny filter on H*S*V channel."
+  },
+  {
+    "feature_name": "CS_H_canny_zipf_rank_corr",
+    "significant": "True",
+    "explanation": "The regression line's correlation coeffienct of Zipf rank frequency when applying canny filter on H*S*V channel."
+  },
+  {
+    "feature_name": "CS_H_canny_zipf_size_slope",
+    "significant": "True",
+    "explanation": "The regression line's slope of Zipf size frequency when applying canny filter on H*S*V channel."
+  },
+  {
+    "feature_name": "CS_H_canny_zipf_size_corr",
+    "significant": "True",
+    "explanation": "The regression line's correlation coeffienct of Zipf size frequency when applying canny filter on H*S*V channel."
+  },
+  {
+    "feature_name": "CS_H_sobel_zipf_rank_slope",
+    "significant": "True",
+    "explanation": "The regression line's slope of Zipf rank frequency when applying sobel filter on H*S*V channel."
+  },
+  {
+    "feature_name": "CS_H_sobel_zipf_rank_corr",
+    "significant": "True",
+    "explanation": "The regression line's correlation coeffienct of Zipf rank frequency when applying sobel filter on H*S*V channel."
+  },
+  {
+    "feature_name": "CS_H_sobel_zipf_size_slope",
+    "significant": "True",
+    "explanation": "The regression line's slope of Zipf size frequency when applying sobel filter on H*S*V channel."
+  },
+  {
+    "feature_name": "CS_H_sobel_zipf_size_corr",
+    "significant": "True",
+    "explanation": "The regression line's correlation coeffienct of Zipf size frequency when applying sobel filter on H*S*V channel."
+  },
+  {
+    "feature_name": "H_circ_mean",
+    "significant": "False",
+    "explanation": "The circular mean of all H values."
+  },
+  {
+    "feature_name": "H_circ_std",
+    "significant": "True",
+    "explanation": "The circular standard deviation of all H values."
+  },
+  {
+    "feature_name": "H_mean",
+    "significant": "True",
+    "explanation": "The mean of all H values."
+  },
+  {
+    "feature_name": "H_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all H values."
+  },
+  {
+    "feature_name": "H_canny_circ_mean",
+    "significant": "True",
+    "explanation": "The circular mean of all H values after applying canny filter."
+  },
+  {
+    "feature_name": "H_canny_circ_std",
+    "significant": "True",
+    "explanation": "The circular standard deviation of all H values after applying canny filter."
+  },
+  {
+    "feature_name": "H_canny_mean",
+    "significant": "True",
+    "explanation": "The mean of all H values after applying canny filter."
+  },
+  {
+    "feature_name": "H_canny_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all H values after applying canny filter."
+  },
+  {
+    "feature_name": "H_sobel_circ_mean",
+    "significant": "False",
+    "explanation": "The circular mean of all H values after applying sobel filter."
+  },
+  {
+    "feature_name": "H_sobel_circ_std",
+    "significant": "True",
+    "explanation": "The circular standard deviation of all H values after applying sobel filter."
+  },
+  {
+    "feature_name": "H_sobel_mean",
+    "significant": "True",
+    "explanation": "The mean of all H values after applying sobel filter."
+  },
+  {
+    "feature_name": "H_sobel_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all H values after applying sobel filter."
+  },
+  {
+    "feature_name": "S_mean",
+    "significant": "True",
+    "explanation": "The mean of all S values."
+  },
+  {
+    "feature_name": "S_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all S values."
+  },
+  {
+    "feature_name": "S_canny_mean",
+    "significant": "True",
+    "explanation": "The mean of all S values after applying canny filter."
+  },
+  {
+    "feature_name": "S_canny_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all S values after applying canny filter."
+  },
+  {
+    "feature_name": "S_sobel_mean",
+    "significant": "True",
+    "explanation": "The mean of all S values after applying sobel filter."
+  },
+  {
+    "feature_name": "S_sobel_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all S values after applying sobel filter."
+  },
+  {
+    "feature_name": "V_mean",
+    "significant": "True",
+    "explanation": "The mean of all V values."
+  },
+  {
+    "feature_name": "V_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all V values."
+  },
+  {
+    "feature_name": "V_canny_mean",
+    "significant": "True",
+    "explanation": "The mean of all V values after applying canny filter."
+  },
+  {
+    "feature_name": "V_canny_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all V values after applying canny filter."
+  },
+  {
+    "feature_name": "V_sobel_mean",
+    "significant": "True",
+    "explanation": "The mean of all V values after applying sobel filter."
+  },
+  {
+    "feature_name": "V_sobel_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all V values after applying sobel filter."
+  },
+  {
+    "feature_name": "CS_mean",
+    "significant": "True",
+    "explanation": "The mean of all S*V values."
+  },
+  {
+    "feature_name": "CS_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all S*V values."
+  },
+  {
+    "feature_name": "CS_canny_mean",
+    "significant": "True",
+    "explanation": "The mean of all S*V values after applying canny filter."
+  },
+  {
+    "feature_name": "CS_canny_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all S*V values after applying canny filter."
+  },
+  {
+    "feature_name": "CS_sobel_mean",
+    "significant": "True",
+    "explanation": "The mean of all S*V values after applying sobel filter."
+  },
+  {
+    "feature_name": "CS_sobel_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all S*V values after applying sobel filter."
+  },
+  {
+    "feature_name": "CS_H_circ_mean",
+    "significant": "False",
+    "explanation": "The circular mean of all H*S*V values."
+  },
+  {
+    "feature_name": "CS_H_circ_std",
+    "significant": "True",
+    "explanation": "The circular standard deviation of all H*S*V values."
+  },
+  {
+    "feature_name": "CS_H_mean",
+    "significant": "True",
+    "explanation": "The mean of all H*S*V values."
+  },
+  {
+    "feature_name": "CS_H_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all H*S*V values."
+  },
+  {
+    "feature_name": "CS_H_canny_circ_mean",
+    "significant": "True",
+    "explanation": "The circular mean of all H*S*V values after applying canny filter."
+  },
+  {
+    "feature_name": "CS_H_canny_circ_std",
+    "significant": "True",
+    "explanation": "The circular standard deviation of all H*S*V values after applying canny filter."
+  },
+  {
+    "feature_name": "CS_H_canny_mean",
+    "significant": "True",
+    "explanation": "The mean of all H*S*V values after applying canny filter."
+  },
+  {
+    "feature_name": "CS_H_canny_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all H*S*V values after applying canny filter."
+  },
+  {
+    "feature_name": "CS_H_sobel_circ_mean",
+    "significant": "True",
+    "explanation": "The circular mean of all H*S*V values after applying sobel filter."
+  },
+  {
+    "feature_name": "CS_H_sobel_circ_std",
+    "significant": "True",
+    "explanation": "The circular standard deviation of all H*S*V values after applying sobel filter."
+  },
+  {
+    "feature_name": "CS_H_sobel_mean",
+    "significant": "True",
+    "explanation": "The mean of all H*S*V values after applying sobel filter."
+  },
+  {
+    "feature_name": "CS_H_sobel_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all H*S*V values after applying sobel filter."
+  },
+  {
+    "feature_name": "distinct_H_count",
+    "significant": "True",
+    "explanation": "The count of all H values."
+  },
+  {
+    "feature_name": "distinct_S_count",
+    "significant": "True",
+    "explanation": "The count of all S values."
+  },
+  {
+    "feature_name": "distinct_V_count",
+    "significant": "True",
+    "explanation": "The count of all V values."
+  },
+  {
+    "feature_name": "distinct_RGB_count",
+    "significant": "True",
+    "explanation": "The count of all RGB values."
+  },
+  {
+    "feature_name": "png_file_size",
+    "significant": "True",
+    "explanation": "The size of the pnd file."
+  },
+  {
+    "feature_name": "static_cluster_count",
+    "significant": "True",
+    "explanation": "The count of static clusters of all RGB values."
+  },
+  {
+    "feature_name": "dynamic_cluster_count",
+    "significant": "True",
+    "explanation": "The count of dynamic clusters of all RGB values."
+  },
+  {
+    "feature_name": "colorfulness",
+    "significant": "True",
+    "explanation": "A measurement of colorfulness."
+  },
+  {
+    "feature_name": "luminance_std",
+    "significant": "True",
+    "explanation": "The standard deviation of luminance values."
+  }
+]

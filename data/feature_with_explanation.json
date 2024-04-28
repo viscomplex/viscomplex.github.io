@@ -1,0 +1,2490 @@
+[
+  {
+    "feature_name_new": "H_hi_jpeg_ratio",
+    "explanation": "The JPEG compression ratio of the H channel when keeping high quality."
+  },
+  {
+    "feature_name_new": "H_mid_jpeg_ratio",
+    "explanation": "The JPEG compression ratio of the H channel when keeping mid quality."
+  },
+  {
+    "feature_name_new": "H_low_jpeg_ratio",
+    "explanation": "The JPEG compression ratio of the H channel when keeping low quality."
+  },
+  {
+    "feature_name_new": "H_zipf_rank_slope",
+    "explanation": "The regression line's slope of Zipf rank frequency of the H channel."
+  },
+  {
+    "feature_name_new": "H_zipf_rank_corr",
+    "explanation": "The regression line's correlation coeffienct of Zipf rank frequency of the H channel."
+  },
+  {
+    "feature_name_new": "H_zipf_size_slope",
+    "explanation": "The regression line's slope of Zipf size frequency of the H channel."
+  },
+  {
+    "feature_name_new": "H_zipf_size_corr",
+    "explanation": "The regression line's correlation coeffienct of Zipf size frequency of the H channel."
+  },
+  {
+    "feature_name_new": "H_edge_ratio",
+    "explanation": "The percentage of edge pixels of the H channel."
+  },
+  {
+    "feature_name_new": "H_canny_hi_jpeg_ratio",
+    "explanation": "The JPEG compression ratio when applying canny filter on H channel and keeping high quality."
+  },
+  {
+    "feature_name_new": "H_canny_mid_jpeg_ratio",
+    "explanation": "The JPEG compression ratio when applying canny filter on H channel and keeping mid quality."
+  },
+  {
+    "feature_name_new": "H_canny_low_jpeg_ratio",
+    "explanation": "The JPEG compression ratio when applying canny filter on H channel and keeping low quality."
+  },
+  {
+    "feature_name_new": "H_canny_zipf_rank_slope",
+    "explanation": "The regression line's slope of Zipf rank frequency when applying canny filter on H channel."
+  },
+  {
+    "feature_name_new": "H_canny_zipf_rank_corr",
+    "explanation": "The regression line's correlation coeffienct of Zipf rank frequency when applying canny filter on H channel."
+  },
+  {
+    "feature_name_new": "H_canny_zipf_size_slope",
+    "explanation": "The regression line's slope of Zipf size frequency when applying canny filter on H channel."
+  },
+  {
+    "feature_name_new": "H_canny_zipf_size_corr",
+    "explanation": "The regression line's correlation coeffienct of Zipf size frequency when applying canny filter on H channel."
+  },
+  {
+    "feature_name_new": "H_sobel_hi_jpeg_ratio",
+    "explanation": "The JPEG compression ratio when applying sobel filter on H channel and keeping high quality."
+  },
+  {
+    "feature_name_new": "H_sobel_mid_jpeg_ratio",
+    "explanation": "The JPEG compression ratio when applying sobel filter on H channel and keeping mid quality."
+  },
+  {
+    "feature_name_new": "H_sobel_low_jpeg_ratio",
+    "explanation": "The JPEG compression ratio when applying sobel filter on H channel and keeping low quality."
+  },
+  {
+    "feature_name_new": "H_sobel_zipf_rank_slope",
+    "explanation": "The regression line's slope of Zipf rank frequency when applying sobel filter on H channel."
+  },
+  {
+    "feature_name_new": "H_sobel_zipf_rank_corr",
+    "explanation": "The regression line's correlation coeffienct of Zipf rank frequency when applying sobel filter on H channel."
+  },
+  {
+    "feature_name_new": "H_sobel_zipf_size_slope",
+    "explanation": "The regression line's slope of Zipf size frequency when applying sobel filter on H channel."
+  },
+  {
+    "feature_name_new": "H_sobel_zipf_size_corr",
+    "explanation": "The regression line's correlation coeffienct of Zipf size frequency when applying sobel filter on H channel."
+  },
+  {
+    "feature_name_new": "S_hi_jpeg_ratio",
+    "explanation": "The JPEG compression ratio of the S channel when keeping high quality."
+  },
+  {
+    "feature_name_new": "S_mid_jpeg_ratio",
+    "explanation": "The JPEG compression ratio of the S channel when keeping mid quality."
+  },
+  {
+    "feature_name_new": "S_low_jpeg_ratio",
+    "explanation": "The JPEG compression ratio of the S channel when keeping low quality."
+  },
+  {
+    "feature_name_new": "S_zipf_rank_slope",
+    "explanation": "The regression line's slope of Zipf rank frequency of the S channel."
+  },
+  {
+    "feature_name_new": "S_zipf_rank_corr",
+    "explanation": "The regression line's correlation coeffienct of Zipf rank frequency of the S channel."
+  },
+  {
+    "feature_name_new": "S_zipf_size_slope",
+    "explanation": "The regression line's slope of Zipf size frequency of the S channel."
+  },
+  {
+    "feature_name_new": "S_zipf_size_corr",
+    "explanation": "The regression line's correlation coeffienct of Zipf size frequency of the S channel."
+  },
+  {
+    "feature_name_new": "S_edge_ratio",
+    "explanation": "The percentage of edge pixels of the S channel."
+  },
+  {
+    "feature_name_new": "S_canny_hi_jpeg_ratio",
+    "explanation": "The JPEG compression ratio when applying canny filter on S channel and keeping high quality."
+  },
+  {
+    "feature_name_new": "S_canny_mid_jpeg_ratio",
+    "explanation": "The JPEG compression ratio when applying canny filter on S channel and keeping mid quality."
+  },
+  {
+    "feature_name_new": "S_canny_low_jpeg_ratio",
+    "explanation": "The JPEG compression ratio when applying canny filter on S channel and keeping low quality."
+  },
+  {
+    "feature_name_new": "S_canny_zipf_rank_slope",
+    "explanation": "The regression line's slope of Zipf rank frequency when applying canny filter on S channel."
+  },
+  {
+    "feature_name_new": "S_canny_zipf_rank_corr",
+    "explanation": "The regression line's correlation coeffienct of Zipf rank frequency when applying canny filter on S channel."
+  },
+  {
+    "feature_name_new": "S_canny_zipf_size_slope",
+    "explanation": "The regression line's slope of Zipf size frequency when applying canny filter on S channel."
+  },
+  {
+    "feature_name_new": "S_canny_zipf_size_corr",
+    "explanation": "The regression line's correlation coeffienct of Zipf size frequency when applying canny filter on S channel."
+  },
+  {
+    "feature_name_new": "S_sobel_hi_jpeg_ratio",
+    "explanation": "The JPEG compression ratio when applying sobel filter on S channel and keeping high quality."
+  },
+  {
+    "feature_name_new": "S_sobel_mid_jpeg_ratio",
+    "explanation": "The JPEG compression ratio when applying sobel filter on S channel and keeping mid quality."
+  },
+  {
+    "feature_name_new": "S_sobel_low_jpeg_ratio",
+    "explanation": "The JPEG compression ratio when applying sobel filter on S channel and keeping low quality."
+  },
+  {
+    "feature_name_new": "S_sobel_zipf_rank_slope",
+    "explanation": "The regression line's slope of Zipf rank frequency when applying sobel filter on S channel."
+  },
+  {
+    "feature_name_new": "S_sobel_zipf_rank_corr",
+    "explanation": "The regression line's correlation coeffienct of Zipf rank frequency when applying sobel filter on S channel."
+  },
+  {
+    "feature_name_new": "S_sobel_zipf_size_slope",
+    "explanation": "The regression line's slope of Zipf size frequency when applying sobel filter on S channel."
+  },
+  {
+    "feature_name_new": "S_sobel_zipf_size_corr",
+    "explanation": "The regression line's correlation coeffienct of Zipf size frequency when applying sobel filter on S channel."
+  },
+  {
+    "feature_name_new": "V_hi_jpeg_ratio",
+    "explanation": "The JPEG compression ratio of the V channel when keeping high quality."
+  },
+  {
+    "feature_name_new": "V_mid_jpeg_ratio",
+    "explanation": "The JPEG compression ratio of the V channel when keeping mid quality."
+  },
+  {
+    "feature_name_new": "V_low_jpeg_ratio",
+    "explanation": "The JPEG compression ratio of the V channel when keeping low quality."
+  },
+  {
+    "feature_name_new": "V_zipf_rank_slope",
+    "explanation": "The regression line's slope of Zipf rank frequency of the V channel."
+  },
+  {
+    "feature_name_new": "V_zipf_rank_corr",
+    "explanation": "The regression line's correlation coeffienct of Zipf rank frequency of the V channel."
+  },
+  {
+    "feature_name_new": "V_zipf_size_slope",
+    "explanation": "The regression line's slope of Zipf size frequency of the V channel."
+  },
+  {
+    "feature_name_new": "V_zipf_size_corr",
+    "explanation": "The regression line's correlation coeffienct of Zipf size frequency of the V channel."
+  },
+  {
+    "feature_name_new": "V_edge_ratio",
+    "explanation": "The percentage of edge pixels of the V channel."
+  },
+  {
+    "feature_name_new": "V_canny_hi_jpeg_ratio",
+    "explanation": "The JPEG compression ratio when applying canny filter on V channel and keeping high quality."
+  },
+  {
+    "feature_name_new": "V_canny_mid_jpeg_ratio",
+    "explanation": "The JPEG compression ratio when applying canny filter on V channel and keeping mid quality."
+  },
+  {
+    "feature_name_new": "V_canny_low_jpeg_ratio",
+    "explanation": "The JPEG compression ratio when applying canny filter on V channel and keeping low quality."
+  },
+  {
+    "feature_name_new": "V_canny_zipf_rank_slope",
+    "explanation": "The regression line's slope of Zipf rank frequency when applying canny filter on V channel."
+  },
+  {
+    "feature_name_new": "V_canny_zipf_rank_corr",
+    "explanation": "The regression line's correlation coeffienct of Zipf rank frequency when applying canny filter on V channel."
+  },
+  {
+    "feature_name_new": "V_canny_zipf_size_slope",
+    "explanation": "The regression line's slope of Zipf size frequency when applying canny filter on V channel."
+  },
+  {
+    "feature_name_new": "V_canny_zipf_size_corr",
+    "explanation": "The regression line's correlation coeffienct of Zipf size frequency when applying canny filter on V channel."
+  },
+  {
+    "feature_name_new": "V_sobel_hi_jpeg_ratio",
+    "explanation": "The JPEG compression ratio when applying sobel filter on V channel and keeping high quality."
+  },
+  {
+    "feature_name_new": "V_sobel_mid_jpeg_ratio",
+    "explanation": "The JPEG compression ratio when applying sobel filter on V channel and keeping mid quality."
+  },
+  {
+    "feature_name_new": "V_sobel_low_jpeg_ratio",
+    "explanation": "The JPEG compression ratio when applying sobel filter on V channel and keeping low quality."
+  },
+  {
+    "feature_name_new": "V_sobel_zipf_rank_slope",
+    "explanation": "The regression line's slope of Zipf rank frequency when applying sobel filter on V channel."
+  },
+  {
+    "feature_name_new": "V_sobel_zipf_rank_corr",
+    "explanation": "The regression line's correlation coeffienct of Zipf rank frequency when applying sobel filter on V channel."
+  },
+  {
+    "feature_name_new": "V_sobel_zipf_size_slope",
+    "explanation": "The regression line's slope of Zipf size frequency when applying sobel filter on V channel."
+  },
+  {
+    "feature_name_new": "V_sobel_zipf_size_corr",
+    "explanation": "The regression line's correlation coeffienct of Zipf size frequency when applying sobel filter on V channel."
+  },
+  {
+    "feature_name_new": "RGB_hi_jpeg_ratio",
+    "explanation": "The JPEG compression ratio of the RGB channel when keeping high quality."
+  },
+  {
+    "feature_name_new": "RGB_mid_jpeg_ratio",
+    "explanation": "The JPEG compression ratio of the RGB channel when keeping mid quality."
+  },
+  {
+    "feature_name_new": "RGB_low_jpeg_ratio",
+    "explanation": "The JPEG compression ratio of the RGB channel when keeping low quality."
+  },
+  {
+    "feature_name_new": "CS_hi_jpeg_ratio",
+    "explanation": "The JPEG compression ratio of the S*V channel when keeping high quality."
+  },
+  {
+    "feature_name_new": "CS_mid_jpeg_ratio",
+    "explanation": "The JPEG compression ratio of the S*V channel when keeping mid quality."
+  },
+  {
+    "feature_name_new": "CS_low_jpeg_ratio",
+    "explanation": "The JPEG compression ratio of the S*V channel when keeping low quality."
+  },
+  {
+    "feature_name_new": "CS_zipf_rank_slope",
+    "explanation": "The regression line's slope of Zipf rank frequency of the S*V channel."
+  },
+  {
+    "feature_name_new": "CS_zipf_rank_corr",
+    "explanation": "The regression line's correlation coeffienct of Zipf rank frequency of the S*V channel."
+  },
+  {
+    "feature_name_new": "CS_zipf_size_slope",
+    "explanation": "The regression line's slope of Zipf size frequency of the S*V channel."
+  },
+  {
+    "feature_name_new": "CS_zipf_size_corr",
+    "explanation": "The regression line's correlation coeffienct of Zipf size frequency of the S*V channel."
+  },
+  {
+    "feature_name_new": "CS_edge_ratio",
+    "explanation": "The percentage of edge pixels of the S*V channel."
+  },
+  {
+    "feature_name_new": "CS_canny_hi_jpeg_ratio",
+    "explanation": "The JPEG compression ratio when applying canny filter on S*V channel and keeping high quality."
+  },
+  {
+    "feature_name_new": "CS_canny_mid_jpeg_ratio",
+    "explanation": "The JPEG compression ratio when applying canny filter on S*V channel and keeping mid quality."
+  },
+  {
+    "feature_name_new": "CS_canny_low_jpeg_ratio",
+    "explanation": "The JPEG compression ratio when applying canny filter on S*V channel and keeping low quality."
+  },
+  {
+    "feature_name_new": "CS_canny_zipf_rank_slope",
+    "explanation": "The regression line's slope of Zipf rank frequency when applying canny filter on S*V channel."
+  },
+  {
+    "feature_name_new": "CS_canny_zipf_rank_corr",
+    "explanation": "The regression line's correlation coeffienct of Zipf rank frequency when applying canny filter on S*V channel."
+  },
+  {
+    "feature_name_new": "CS_canny_zipf_size_slope",
+    "explanation": "The regression line's slope of Zipf size frequency when applying canny filter on S*V channel."
+  },
+  {
+    "feature_name_new": "CS_canny_zipf_size_corr",
+    "explanation": "The regression line's correlation coeffienct of Zipf size frequency when applying canny filter on S*V channel."
+  },
+  {
+    "feature_name_new": "CS_sobel_hi_jpeg_ratio",
+    "explanation": "The JPEG compression ratio when applying sobel filter on S*V channel and keeping high quality."
+  },
+  {
+    "feature_name_new": "CS_sobel_mid_jpeg_ratio",
+    "explanation": "The JPEG compression ratio when applying sobel filter on S*V channel and keeping mid quality."
+  },
+  {
+    "feature_name_new": "CS_sobel_low_jpeg_ratio",
+    "explanation": "The JPEG compression ratio when applying sobel filter on S*V channel and keeping low quality."
+  },
+  {
+    "feature_name_new": "CS_sobel_zipf_rank_slope",
+    "explanation": "The regression line's slope of Zipf rank frequency when applying sobel filter on S*V channel."
+  },
+  {
+    "feature_name_new": "CS_sobel_zipf_rank_corr",
+    "explanation": "The regression line's correlation coeffienct of Zipf rank frequency when applying sobel filter on S*V channel."
+  },
+  {
+    "feature_name_new": "CS_sobel_zipf_size_slope",
+    "explanation": "The regression line's slope of Zipf size frequency when applying sobel filter on S*V channel."
+  },
+  {
+    "feature_name_new": "CS_sobel_zipf_size_corr",
+    "explanation": "The regression line's correlation coeffienct of Zipf size frequency when applying sobel filter on S*V channel."
+  },
+  {
+    "feature_name_new": "CS_H_hi_jpeg_ratio",
+    "explanation": "The JPEG compression ratio of the H*S*V channel when keeping high quality."
+  },
+  {
+    "feature_name_new": "CS_H_mid_jpeg_ratio",
+    "explanation": "The JPEG compression ratio of the H*S*V channel when keeping mid quality."
+  },
+  {
+    "feature_name_new": "CS_H_low_jpeg_ratio",
+    "explanation": "The JPEG compression ratio of the H*S*V channel when keeping low quality."
+  },
+  {
+    "feature_name_new": "CS_H_zipf_rank_slope",
+    "explanation": "The regression line's slope of Zipf rank frequency of the H*S*V channel."
+  },
+  {
+    "feature_name_new": "CS_H_zipf_rank_corr",
+    "explanation": "The regression line's correlation coeffienct of Zipf rank frequency of the H*S*V channel."
+  },
+  {
+    "feature_name_new": "CS_H_zipf_size_slope",
+    "explanation": "The regression line's slope of Zipf size frequency of the H*S*V channel."
+  },
+  {
+    "feature_name_new": "CS_H_zipf_size_corr",
+    "explanation": "The regression line's correlation coeffienct of Zipf size frequency of the H*S*V channel."
+  },
+  {
+    "feature_name_new": "CS_H_edge_ratio",
+    "explanation": "The percentage of edge pixels of the H*S*V channel."
+  },
+  {
+    "feature_name_new": "CS_H_canny_hi_jpeg_ratio",
+    "explanation": "The JPEG compression ratio when applying canny filter on H*S*V channel and keeping high quality."
+  },
+  {
+    "feature_name_new": "CS_H_canny_mid_jpeg_ratio",
+    "explanation": "The JPEG compression ratio when applying canny filter on H*S*V channel and keeping mid quality."
+  },
+  {
+    "feature_name_new": "CS_H_canny_low_jpeg_ratio",
+    "explanation": "The JPEG compression ratio when applying canny filter on H*S*V channel and keeping low quality."
+  },
+  {
+    "feature_name_new": "CS_H_canny_zipf_rank_slope",
+    "explanation": "The regression line's slope of Zipf rank frequency when applying canny filter on H*S*V channel."
+  },
+  {
+    "feature_name_new": "CS_H_canny_zipf_rank_corr",
+    "explanation": "The regression line's correlation coeffienct of Zipf rank frequency when applying canny filter on H*S*V channel."
+  },
+  {
+    "feature_name_new": "CS_H_canny_zipf_size_slope",
+    "explanation": "The regression line's slope of Zipf size frequency when applying canny filter on H*S*V channel."
+  },
+  {
+    "feature_name_new": "CS_H_canny_zipf_size_corr",
+    "explanation": "The regression line's correlation coeffienct of Zipf size frequency when applying canny filter on H*S*V channel."
+  },
+  {
+    "feature_name_new": "CS_H_sobel_hi_jpeg_ratio",
+    "explanation": "The JPEG compression ratio when applying sobel filter on H*S*V channel and keeping high quality."
+  },
+  {
+    "feature_name_new": "CS_H_sobel_mid_jpeg_ratio",
+    "explanation": "The JPEG compression ratio when applying sobel filter on H*S*V channel and keeping mid quality."
+  },
+  {
+    "feature_name_new": "CS_H_sobel_low_jpeg_ratio",
+    "explanation": "The JPEG compression ratio when applying sobel filter on H*S*V channel and keeping low quality."
+  },
+  {
+    "feature_name_new": "CS_H_sobel_zipf_rank_slope",
+    "explanation": "The regression line's slope of Zipf rank frequency when applying sobel filter on H*S*V channel."
+  },
+  {
+    "feature_name_new": "CS_H_sobel_zipf_rank_corr",
+    "explanation": "The regression line's correlation coeffienct of Zipf rank frequency when applying sobel filter on H*S*V channel."
+  },
+  {
+    "feature_name_new": "CS_H_sobel_zipf_size_slope",
+    "explanation": "The regression line's slope of Zipf size frequency when applying sobel filter on H*S*V channel."
+  },
+  {
+    "feature_name_new": "CS_H_sobel_zipf_size_corr",
+    "explanation": "The regression line's correlation coeffienct of Zipf size frequency when applying sobel filter on H*S*V channel."
+  },
+  {
+    "feature_name_new": "feature_congestion",
+    "explanation": "A measurement of visual clutter."
+  },
+  {
+    "feature_name_new": "subband_entropy",
+    "explanation": "A measurement of visual clutter."
+  },
+  {
+    "feature_name_new": "view_count",
+    "explanation": "The number of all views."
+  },
+  {
+    "feature_name_new": "H_circ_mean",
+    "explanation": "The circular mean of all H values."
+  },
+  {
+    "feature_name_new": "H_circ_std",
+    "explanation": "The circular standard deviation of all H values."
+  },
+  {
+    "feature_name_new": "H_mean",
+    "explanation": "The mean of all H values."
+  },
+  {
+    "feature_name_new": "H_std",
+    "explanation": "The standard deviation of all H values."
+  },
+  {
+    "feature_name_new": "H_canny_circ_mean",
+    "explanation": "The circular mean of all H values after applying canny filter."
+  },
+  {
+    "feature_name_new": "H_canny_circ_std",
+    "explanation": "The circular standard deviation of all H values after applying canny filter."
+  },
+  {
+    "feature_name_new": "H_canny_mean",
+    "explanation": "The mean of all H values after applying canny filter."
+  },
+  {
+    "feature_name_new": "H_canny_std",
+    "explanation": "The standard deviation of all H values after applying canny filter."
+  },
+  {
+    "feature_name_new": "H_sobel_circ_mean",
+    "explanation": "The circular mean of all H values after applying sobel filter."
+  },
+  {
+    "feature_name_new": "H_sobel_circ_std",
+    "explanation": "The circular standard deviation of all H values after applying sobel filter."
+  },
+  {
+    "feature_name_new": "H_sobel_mean",
+    "explanation": "The mean of all H values after applying sobel filter."
+  },
+  {
+    "feature_name_new": "H_sobel_std",
+    "explanation": "The standard deviation of all H values after applying sobel filter."
+  },
+  {
+    "feature_name_new": "S_mean",
+    "explanation": "The mean of all S values."
+  },
+  {
+    "feature_name_new": "S_std",
+    "explanation": "The standard deviation of all S values."
+  },
+  {
+    "feature_name_new": "S_canny_mean",
+    "explanation": "The mean of all S values after applying canny filter."
+  },
+  {
+    "feature_name_new": "S_canny_std",
+    "explanation": "The standard deviation of all S values after applying canny filter."
+  },
+  {
+    "feature_name_new": "S_sobel_mean",
+    "explanation": "The mean of all S values after applying sobel filter."
+  },
+  {
+    "feature_name_new": "S_sobel_std",
+    "explanation": "The standard deviation of all S values after applying sobel filter."
+  },
+  {
+    "feature_name_new": "V_mean",
+    "explanation": "The mean of all V values."
+  },
+  {
+    "feature_name_new": "V_std",
+    "explanation": "The standard deviation of all V values."
+  },
+  {
+    "feature_name_new": "V_canny_mean",
+    "explanation": "The mean of all V values after applying canny filter."
+  },
+  {
+    "feature_name_new": "V_canny_std",
+    "explanation": "The standard deviation of all V values after applying canny filter."
+  },
+  {
+    "feature_name_new": "V_sobel_mean",
+    "explanation": "The mean of all V values after applying sobel filter."
+  },
+  {
+    "feature_name_new": "V_sobel_std",
+    "explanation": "The standard deviation of all V values after applying sobel filter."
+  },
+  {
+    "feature_name_new": "CS_mean",
+    "explanation": "The mean of all S*V values."
+  },
+  {
+    "feature_name_new": "CS_std",
+    "explanation": "The standard deviation of all S*V values."
+  },
+  {
+    "feature_name_new": "CS_canny_mean",
+    "explanation": "The mean of all S*V values after applying canny filter."
+  },
+  {
+    "feature_name_new": "CS_canny_std",
+    "explanation": "The standard deviation of all S*V values after applying canny filter."
+  },
+  {
+    "feature_name_new": "CS_sobel_mean",
+    "explanation": "The mean of all S*V values after applying sobel filter."
+  },
+  {
+    "feature_name_new": "CS_sobel_std",
+    "explanation": "The standard deviation of all S*V values after applying sobel filter."
+  },
+  {
+    "feature_name_new": "CS_H_circ_mean",
+    "explanation": "The circular mean of all H*S*V values."
+  },
+  {
+    "feature_name_new": "CS_H_circ_std",
+    "explanation": "The circular standard deviation of all H*S*V values."
+  },
+  {
+    "feature_name_new": "CS_H_mean",
+    "explanation": "The mean of all H*S*V values."
+  },
+  {
+    "feature_name_new": "CS_H_std",
+    "explanation": "The standard deviation of all H*S*V values."
+  },
+  {
+    "feature_name_new": "CS_H_canny_circ_mean",
+    "explanation": "The circular mean of all H*S*V values after applying canny filter."
+  },
+  {
+    "feature_name_new": "CS_H_canny_circ_std",
+    "explanation": "The circular standard deviation of all H*S*V values after applying canny filter."
+  },
+  {
+    "feature_name_new": "CS_H_canny_mean",
+    "explanation": "The mean of all H*S*V values after applying canny filter."
+  },
+  {
+    "feature_name_new": "CS_H_canny_std",
+    "explanation": "The standard deviation of all H*S*V values after applying canny filter."
+  },
+  {
+    "feature_name_new": "CS_H_sobel_circ_mean",
+    "explanation": "The circular mean of all H*S*V values after applying sobel filter."
+  },
+  {
+    "feature_name_new": "CS_H_sobel_circ_std",
+    "explanation": "The circular standard deviation of all H*S*V values after applying sobel filter."
+  },
+  {
+    "feature_name_new": "CS_H_sobel_mean",
+    "explanation": "The mean of all H*S*V values after applying sobel filter."
+  },
+  {
+    "feature_name_new": "CS_H_sobel_std",
+    "explanation": "The standard deviation of all H*S*V values after applying sobel filter."
+  },
+  {
+    "feature_name_new": "distinct_H_count",
+    "explanation": "The count of all H values."
+  },
+  {
+    "feature_name_new": "distinct_S_count",
+    "explanation": "The count of all S values."
+  },
+  {
+    "feature_name_new": "distinct_V_count",
+    "explanation": "The count of all V values."
+  },
+  {
+    "feature_name_new": "distinct_RGB_count",
+    "explanation": "The count of all RGB values."
+  },
+  {
+    "feature_name_new": "png_file_size",
+    "explanation": "The size of the pnd file."
+  },
+  {
+    "feature_name_new": "static_cluster_count",
+    "explanation": "The count of static clusters of all RGB values."
+  },
+  {
+    "feature_name_new": "dynamic_cluster_count",
+    "explanation": "The count of dynamic clusters of all RGB values."
+  },
+  {
+    "feature_name_new": "colorfulness",
+    "explanation": "A measurement of colorfulness."
+  },
+  {
+    "feature_name_new": "luminance_std",
+    "explanation": "The standard deviation of luminance values."
+  },
+  {
+    "feature_name_new": "view_size_mean",
+    "explanation": "The mean of all view sizes."
+  },
+  {
+    "feature_name_new": "view_width_mean",
+    "explanation": "The mean of all view widths."
+  },
+  {
+    "feature_name_new": "view_height_mean",
+    "explanation": "The mean of all view heights."
+  },
+  {
+    "feature_name_new": "view_size_std",
+    "explanation": "The standard deviation of all view sizes."
+  },
+  {
+    "feature_name_new": "view_width_std",
+    "explanation": "The standard deviation of all view widths."
+  },
+  {
+    "feature_name_new": "view_height_std",
+    "explanation": "The standard deviation of all view heights."
+  },
+  {
+    "feature_name_new": "annotation_view_size_mean",
+    "explanation": "The mean of all annotation view sizes."
+  },
+  {
+    "feature_name_new": "annotation_view_width_mean",
+    "explanation": "The mean of all annotation view widths."
+  },
+  {
+    "feature_name_new": "annotation_view_height_mean",
+    "explanation": "The mean of all annotation view heights."
+  },
+  {
+    "feature_name_new": "annotation_view_size_std",
+    "explanation": "The standard deviation of all annotation view sizes."
+  },
+  {
+    "feature_name_new": "annotation_view_width_std",
+    "explanation": "The standard deviation of all annotation view widths."
+  },
+  {
+    "feature_name_new": "annotation_view_height_std",
+    "explanation": "The standard deviation of all annotation view heights."
+  },
+  {
+    "feature_name_new": "line_chart_view_size_mean",
+    "explanation": "The mean of all line chart view sizes."
+  },
+  {
+    "feature_name_new": "line_chart_view_width_mean",
+    "explanation": "The mean of all line chart view widths."
+  },
+  {
+    "feature_name_new": "line_chart_view_height_mean",
+    "explanation": "The mean of all line chart view heights."
+  },
+  {
+    "feature_name_new": "line_chart_view_size_std",
+    "explanation": "The standard deviation of all line chart view sizes."
+  },
+  {
+    "feature_name_new": "line_chart_view_width_std",
+    "explanation": "The standard deviation of all line chart view widths."
+  },
+  {
+    "feature_name_new": "line_chart_view_height_std",
+    "explanation": "The standard deviation of all line chart view heights."
+  },
+  {
+    "feature_name_new": "contour_graph_view_size_mean",
+    "explanation": "The mean of all contour graph view sizes."
+  },
+  {
+    "feature_name_new": "contour_graph_view_width_mean",
+    "explanation": "The mean of all contour graph view widths."
+  },
+  {
+    "feature_name_new": "contour_graph_view_height_mean",
+    "explanation": "The mean of all contour graph view heights."
+  },
+  {
+    "feature_name_new": "contour_graph_view_size_std",
+    "explanation": "The standard deviation of all contour graph view sizes."
+  },
+  {
+    "feature_name_new": "contour_graph_view_width_std",
+    "explanation": "The standard deviation of all contour graph view widths."
+  },
+  {
+    "feature_name_new": "contour_graph_view_height_std",
+    "explanation": "The standard deviation of all contour graph view heights."
+  },
+  {
+    "feature_name_new": "surface_graph_view_size_mean",
+    "explanation": "The mean of all surface graph view sizes."
+  },
+  {
+    "feature_name_new": "surface_graph_view_width_mean",
+    "explanation": "The mean of all surface graph view widths."
+  },
+  {
+    "feature_name_new": "surface_graph_view_height_mean",
+    "explanation": "The mean of all surface graph view heights."
+  },
+  {
+    "feature_name_new": "surface_graph_view_size_std",
+    "explanation": "The standard deviation of all surface graph view sizes."
+  },
+  {
+    "feature_name_new": "surface_graph_view_width_std",
+    "explanation": "The standard deviation of all surface graph view widths."
+  },
+  {
+    "feature_name_new": "surface_graph_view_height_std",
+    "explanation": "The standard deviation of all surface graph view heights."
+  },
+  {
+    "feature_name_new": "vector_graph_view_size_mean",
+    "explanation": "The mean of all vector graph view sizes."
+  },
+  {
+    "feature_name_new": "vector_graph_view_width_mean",
+    "explanation": "The mean of all vector graph view widths."
+  },
+  {
+    "feature_name_new": "vector_graph_view_height_mean",
+    "explanation": "The mean of all vector graph view heights."
+  },
+  {
+    "feature_name_new": "vector_graph_view_size_std",
+    "explanation": "The standard deviation of all vector graph view sizes."
+  },
+  {
+    "feature_name_new": "vector_graph_view_width_std",
+    "explanation": "The standard deviation of all vector graph view widths."
+  },
+  {
+    "feature_name_new": "vector_graph_view_height_std",
+    "explanation": "The standard deviation of all vector graph view heights."
+  },
+  {
+    "feature_name_new": "scivis_view_size_mean",
+    "explanation": "The mean of all scivis view sizes."
+  },
+  {
+    "feature_name_new": "scivis_view_width_mean",
+    "explanation": "The mean of all scivis view widths."
+  },
+  {
+    "feature_name_new": "scivis_view_height_mean",
+    "explanation": "The mean of all scivis view heights."
+  },
+  {
+    "feature_name_new": "scivis_view_size_std",
+    "explanation": "The standard deviation of all scivis view sizes."
+  },
+  {
+    "feature_name_new": "scivis_view_width_std",
+    "explanation": "The standard deviation of all scivis view widths."
+  },
+  {
+    "feature_name_new": "scivis_view_height_std",
+    "explanation": "The standard deviation of all scivis view heights."
+  },
+  {
+    "feature_name_new": "scatterplot_view_size_mean",
+    "explanation": "The mean of all scatterplot view sizes."
+  },
+  {
+    "feature_name_new": "scatterplot_view_width_mean",
+    "explanation": "The mean of all scatterplot view widths."
+  },
+  {
+    "feature_name_new": "scatterplot_view_height_mean",
+    "explanation": "The mean of all scatterplot view heights."
+  },
+  {
+    "feature_name_new": "scatterplot_view_size_std",
+    "explanation": "The standard deviation of all scatterplot view sizes."
+  },
+  {
+    "feature_name_new": "scatterplot_view_width_std",
+    "explanation": "The standard deviation of all scatterplot view widths."
+  },
+  {
+    "feature_name_new": "scatterplot_view_height_std",
+    "explanation": "The standard deviation of all scatterplot view heights."
+  },
+  {
+    "feature_name_new": "tree_view_size_mean",
+    "explanation": "The mean of all tree view sizes."
+  },
+  {
+    "feature_name_new": "tree_view_width_mean",
+    "explanation": "The mean of all tree view widths."
+  },
+  {
+    "feature_name_new": "tree_view_height_mean",
+    "explanation": "The mean of all tree view heights."
+  },
+  {
+    "feature_name_new": "tree_view_size_std",
+    "explanation": "The standard deviation of all tree view sizes."
+  },
+  {
+    "feature_name_new": "tree_view_width_std",
+    "explanation": "The standard deviation of all tree view widths."
+  },
+  {
+    "feature_name_new": "tree_view_height_std",
+    "explanation": "The standard deviation of all tree view heights."
+  },
+  {
+    "feature_name_new": "heatmap_view_size_mean",
+    "explanation": "The mean of all heatmap view sizes."
+  },
+  {
+    "feature_name_new": "heatmap_view_width_mean",
+    "explanation": "The mean of all heatmap view widths."
+  },
+  {
+    "feature_name_new": "heatmap_view_height_mean",
+    "explanation": "The mean of all heatmap view heights."
+  },
+  {
+    "feature_name_new": "heatmap_view_size_std",
+    "explanation": "The standard deviation of all heatmap view sizes."
+  },
+  {
+    "feature_name_new": "heatmap_view_width_std",
+    "explanation": "The standard deviation of all heatmap view widths."
+  },
+  {
+    "feature_name_new": "heatmap_view_height_std",
+    "explanation": "The standard deviation of all heatmap view heights."
+  },
+  {
+    "feature_name_new": "treemap_view_size_mean",
+    "explanation": "The mean of all treemap view sizes."
+  },
+  {
+    "feature_name_new": "treemap_view_width_mean",
+    "explanation": "The mean of all treemap view widths."
+  },
+  {
+    "feature_name_new": "treemap_view_height_mean",
+    "explanation": "The mean of all treemap view heights."
+  },
+  {
+    "feature_name_new": "treemap_view_size_std",
+    "explanation": "The standard deviation of all treemap view sizes."
+  },
+  {
+    "feature_name_new": "treemap_view_width_std",
+    "explanation": "The standard deviation of all treemap view widths."
+  },
+  {
+    "feature_name_new": "treemap_view_height_std",
+    "explanation": "The standard deviation of all treemap view heights."
+  },
+  {
+    "feature_name_new": "graph_view_size_mean",
+    "explanation": "The mean of all graph view sizes."
+  },
+  {
+    "feature_name_new": "graph_view_width_mean",
+    "explanation": "The mean of all graph view widths."
+  },
+  {
+    "feature_name_new": "graph_view_height_mean",
+    "explanation": "The mean of all graph view heights."
+  },
+  {
+    "feature_name_new": "graph_view_size_std",
+    "explanation": "The standard deviation of all graph view sizes."
+  },
+  {
+    "feature_name_new": "graph_view_width_std",
+    "explanation": "The standard deviation of all graph view widths."
+  },
+  {
+    "feature_name_new": "graph_view_height_std",
+    "explanation": "The standard deviation of all graph view heights."
+  },
+  {
+    "feature_name_new": "map_view_size_mean",
+    "explanation": "The mean of all map view sizes."
+  },
+  {
+    "feature_name_new": "map_view_width_mean",
+    "explanation": "The mean of all map view widths."
+  },
+  {
+    "feature_name_new": "map_view_height_mean",
+    "explanation": "The mean of all map view heights."
+  },
+  {
+    "feature_name_new": "map_view_size_std",
+    "explanation": "The standard deviation of all map view sizes."
+  },
+  {
+    "feature_name_new": "map_view_width_std",
+    "explanation": "The standard deviation of all map view widths."
+  },
+  {
+    "feature_name_new": "map_view_height_std",
+    "explanation": "The standard deviation of all map view heights."
+  },
+  {
+    "feature_name_new": "bar_chart_view_size_mean",
+    "explanation": "The mean of all bar chart view sizes."
+  },
+  {
+    "feature_name_new": "bar_chart_view_width_mean",
+    "explanation": "The mean of all bar chart view widths."
+  },
+  {
+    "feature_name_new": "bar_chart_view_height_mean",
+    "explanation": "The mean of all bar chart view heights."
+  },
+  {
+    "feature_name_new": "bar_chart_view_size_std",
+    "explanation": "The standard deviation of all bar chart view sizes."
+  },
+  {
+    "feature_name_new": "bar_chart_view_width_std",
+    "explanation": "The standard deviation of all bar chart view widths."
+  },
+  {
+    "feature_name_new": "bar_chart_view_height_std",
+    "explanation": "The standard deviation of all bar chart view heights."
+  },
+  {
+    "feature_name_new": "small_multiple_view_size_mean",
+    "explanation": "The mean of all small multiple view sizes."
+  },
+  {
+    "feature_name_new": "small_multiple_view_width_mean",
+    "explanation": "The mean of all small multiple view widths."
+  },
+  {
+    "feature_name_new": "small_multiple_view_height_mean",
+    "explanation": "The mean of all small multiple view heights."
+  },
+  {
+    "feature_name_new": "small_multiple_view_size_std",
+    "explanation": "The standard deviation of all small multiple view sizes."
+  },
+  {
+    "feature_name_new": "small_multiple_view_width_std",
+    "explanation": "The standard deviation of all small multiple view widths."
+  },
+  {
+    "feature_name_new": "small_multiple_view_height_std",
+    "explanation": "The standard deviation of all small multiple view heights."
+  },
+  {
+    "feature_name_new": "matrix_view_size_mean",
+    "explanation": "The mean of all matrix view sizes."
+  },
+  {
+    "feature_name_new": "matrix_view_width_mean",
+    "explanation": "The mean of all matrix view widths."
+  },
+  {
+    "feature_name_new": "matrix_view_height_mean",
+    "explanation": "The mean of all matrix view heights."
+  },
+  {
+    "feature_name_new": "matrix_view_size_std",
+    "explanation": "The standard deviation of all matrix view sizes."
+  },
+  {
+    "feature_name_new": "matrix_view_width_std",
+    "explanation": "The standard deviation of all matrix view widths."
+  },
+  {
+    "feature_name_new": "matrix_view_height_std",
+    "explanation": "The standard deviation of all matrix view heights."
+  },
+  {
+    "feature_name_new": "flow_diagram_view_size_mean",
+    "explanation": "The mean of all flow diagram view sizes."
+  },
+  {
+    "feature_name_new": "flow_diagram_view_width_mean",
+    "explanation": "The mean of all flow diagram view widths."
+  },
+  {
+    "feature_name_new": "flow_diagram_view_height_mean",
+    "explanation": "The mean of all flow diagram view heights."
+  },
+  {
+    "feature_name_new": "flow_diagram_view_size_std",
+    "explanation": "The standard deviation of all flow diagram view sizes."
+  },
+  {
+    "feature_name_new": "flow_diagram_view_width_std",
+    "explanation": "The standard deviation of all flow diagram view widths."
+  },
+  {
+    "feature_name_new": "flow_diagram_view_height_std",
+    "explanation": "The standard deviation of all flow diagram view heights."
+  },
+  {
+    "feature_name_new": "table_view_size_mean",
+    "explanation": "The mean of all table view sizes."
+  },
+  {
+    "feature_name_new": "table_view_width_mean",
+    "explanation": "The mean of all table view widths."
+  },
+  {
+    "feature_name_new": "table_view_height_mean",
+    "explanation": "The mean of all table view heights."
+  },
+  {
+    "feature_name_new": "table_view_size_std",
+    "explanation": "The standard deviation of all table view sizes."
+  },
+  {
+    "feature_name_new": "table_view_width_std",
+    "explanation": "The standard deviation of all table view widths."
+  },
+  {
+    "feature_name_new": "table_view_height_std",
+    "explanation": "The standard deviation of all table view heights."
+  },
+  {
+    "feature_name_new": "sunburst_icicle_view_size_mean",
+    "explanation": "The mean of all sunburst icicle view sizes."
+  },
+  {
+    "feature_name_new": "sunburst_icicle_view_width_mean",
+    "explanation": "The mean of all sunburst icicle view widths."
+  },
+  {
+    "feature_name_new": "sunburst_icicle_view_height_mean",
+    "explanation": "The mean of all sunburst icicle view heights."
+  },
+  {
+    "feature_name_new": "sunburst_icicle_view_size_std",
+    "explanation": "The standard deviation of all sunburst icicle view sizes."
+  },
+  {
+    "feature_name_new": "sunburst_icicle_view_width_std",
+    "explanation": "The standard deviation of all sunburst icicle view widths."
+  },
+  {
+    "feature_name_new": "sunburst_icicle_view_height_std",
+    "explanation": "The standard deviation of all sunburst icicle view heights."
+  },
+  {
+    "feature_name_new": "parallel_coordinate_view_size_mean",
+    "explanation": "The mean of all parallel coordinate view sizes."
+  },
+  {
+    "feature_name_new": "parallel_coordinate_view_width_mean",
+    "explanation": "The mean of all parallel coordinate view widths."
+  },
+  {
+    "feature_name_new": "parallel_coordinate_view_height_mean",
+    "explanation": "The mean of all parallel coordinate view heights."
+  },
+  {
+    "feature_name_new": "parallel_coordinate_view_size_std",
+    "explanation": "The standard deviation of all parallel coordinate view sizes."
+  },
+  {
+    "feature_name_new": "parallel_coordinate_view_width_std",
+    "explanation": "The standard deviation of all parallel coordinate view widths."
+  },
+  {
+    "feature_name_new": "parallel_coordinate_view_height_std",
+    "explanation": "The standard deviation of all parallel coordinate view heights."
+  },
+  {
+    "feature_name_new": "box_plot_view_size_mean",
+    "explanation": "The mean of all box plot view sizes."
+  },
+  {
+    "feature_name_new": "box_plot_view_width_mean",
+    "explanation": "The mean of all box plot view widths."
+  },
+  {
+    "feature_name_new": "box_plot_view_height_mean",
+    "explanation": "The mean of all box plot view heights."
+  },
+  {
+    "feature_name_new": "box_plot_view_size_std",
+    "explanation": "The standard deviation of all box plot view sizes."
+  },
+  {
+    "feature_name_new": "box_plot_view_width_std",
+    "explanation": "The standard deviation of all box plot view widths."
+  },
+  {
+    "feature_name_new": "box_plot_view_height_std",
+    "explanation": "The standard deviation of all box plot view heights."
+  },
+  {
+    "feature_name_new": "error_bar_chart_size_mean",
+    "explanation": "The mean of all error bar chart sizes."
+  },
+  {
+    "feature_name_new": "error_bar_chart_width_mean",
+    "explanation": "The mean of all error bar chart widths."
+  },
+  {
+    "feature_name_new": "error_bar_chart_height_mean",
+    "explanation": "The mean of all error bar chart heights."
+  },
+  {
+    "feature_name_new": "error_bar_chart_size_std",
+    "explanation": "The standard deviation of all error bar chart sizes."
+  },
+  {
+    "feature_name_new": "error_bar_chart_width_std",
+    "explanation": "The standard deviation of all error bar chart widths."
+  },
+  {
+    "feature_name_new": "error_bar_chart_height_std",
+    "explanation": "The standard deviation of all error bar chart heights."
+  },
+  {
+    "feature_name_new": "glyph_based_view_size_mean",
+    "explanation": "The mean of all glyph based view sizes."
+  },
+  {
+    "feature_name_new": "glyph_based_view_width_mean",
+    "explanation": "The mean of all glyph based view widths."
+  },
+  {
+    "feature_name_new": "glyph_based_view_height_mean",
+    "explanation": "The mean of all glyph based view heights."
+  },
+  {
+    "feature_name_new": "glyph_based_view_size_std",
+    "explanation": "The standard deviation of all glyph based view sizes."
+  },
+  {
+    "feature_name_new": "glyph_based_view_width_std",
+    "explanation": "The standard deviation of all glyph based view widths."
+  },
+  {
+    "feature_name_new": "glyph_based_view_height_std",
+    "explanation": "The standard deviation of all glyph based view heights."
+  },
+  {
+    "feature_name_new": "area_chart_view_size_mean",
+    "explanation": "The mean of all area chart view sizes."
+  },
+  {
+    "feature_name_new": "area_chart_view_width_mean",
+    "explanation": "The mean of all area chart view widths."
+  },
+  {
+    "feature_name_new": "area_chart_view_height_mean",
+    "explanation": "The mean of all area chart view heights."
+  },
+  {
+    "feature_name_new": "area_chart_view_size_std",
+    "explanation": "The standard deviation of all area chart view sizes."
+  },
+  {
+    "feature_name_new": "area_chart_view_width_std",
+    "explanation": "The standard deviation of all area chart view widths."
+  },
+  {
+    "feature_name_new": "area_chart_view_height_std",
+    "explanation": "The standard deviation of all area chart view heights."
+  },
+  {
+    "feature_name_new": "pie_chart_view_size_mean",
+    "explanation": "The mean of all pie chart view sizes."
+  },
+  {
+    "feature_name_new": "pie_chart_view_width_mean",
+    "explanation": "The mean of all pie chart view widths."
+  },
+  {
+    "feature_name_new": "pie_chart_view_height_mean",
+    "explanation": "The mean of all pie chart view heights."
+  },
+  {
+    "feature_name_new": "pie_chart_view_size_std",
+    "explanation": "The standard deviation of all pie chart view sizes."
+  },
+  {
+    "feature_name_new": "pie_chart_view_width_std",
+    "explanation": "The standard deviation of all pie chart view widths."
+  },
+  {
+    "feature_name_new": "pie_chart_view_height_std",
+    "explanation": "The standard deviation of all pie chart view heights."
+  },
+  {
+    "feature_name_new": "sector_chart_view_size_mean",
+    "explanation": "The mean of all sector chart view sizes."
+  },
+  {
+    "feature_name_new": "sector_chart_view_width_mean",
+    "explanation": "The mean of all sector chart view widths."
+  },
+  {
+    "feature_name_new": "sector_chart_view_height_mean",
+    "explanation": "The mean of all sector chart view heights."
+  },
+  {
+    "feature_name_new": "sector_chart_view_size_std",
+    "explanation": "The standard deviation of all sector chart view sizes."
+  },
+  {
+    "feature_name_new": "sector_chart_view_width_std",
+    "explanation": "The standard deviation of all sector chart view widths."
+  },
+  {
+    "feature_name_new": "sector_chart_view_height_std",
+    "explanation": "The standard deviation of all sector chart view heights."
+  },
+  {
+    "feature_name_new": "word_cloud_view_size_mean",
+    "explanation": "The mean of all word cloud view sizes."
+  },
+  {
+    "feature_name_new": "word_cloud_view_width_mean",
+    "explanation": "The mean of all word cloud view widths."
+  },
+  {
+    "feature_name_new": "word_cloud_view_height_mean",
+    "explanation": "The mean of all word cloud view heights."
+  },
+  {
+    "feature_name_new": "word_cloud_view_size_std",
+    "explanation": "The standard deviation of all word cloud view sizes."
+  },
+  {
+    "feature_name_new": "word_cloud_view_width_std",
+    "explanation": "The standard deviation of all word cloud view widths."
+  },
+  {
+    "feature_name_new": "word_cloud_view_height_std",
+    "explanation": "The standard deviation of all word cloud view heights."
+  },
+  {
+    "feature_name_new": "proportional_area_chart_view_size_mean",
+    "explanation": "The mean of all proportional area chart view sizes."
+  },
+  {
+    "feature_name_new": "proportional_area_chart_view_width_mean",
+    "explanation": "The mean of all proportional area chart view widths."
+  },
+  {
+    "feature_name_new": "proportional_area_chart_view_height_mean",
+    "explanation": "The mean of all proportional area chart view heights."
+  },
+  {
+    "feature_name_new": "proportional_area_chart_view_size_std",
+    "explanation": "The standard deviation of all proportional area chart view sizes."
+  },
+  {
+    "feature_name_new": "proportional_area_chart_view_width_std",
+    "explanation": "The standard deviation of all proportional area chart view widths."
+  },
+  {
+    "feature_name_new": "proportional_area_chart_view_height_std",
+    "explanation": "The standard deviation of all proportional area chart view heights."
+  },
+  {
+    "feature_name_new": "unit_visualization_view_size_mean",
+    "explanation": "The mean of all unit visualization view sizes."
+  },
+  {
+    "feature_name_new": "unit_visualization_view_width_mean",
+    "explanation": "The mean of all unit visualization view widths."
+  },
+  {
+    "feature_name_new": "unit_visualization_view_height_mean",
+    "explanation": "The mean of all unit visualization view heights."
+  },
+  {
+    "feature_name_new": "unit_visualization_view_size_std",
+    "explanation": "The standard deviation of all unit visualization view sizes."
+  },
+  {
+    "feature_name_new": "unit_visualization_view_width_std",
+    "explanation": "The standard deviation of all unit visualization view widths."
+  },
+  {
+    "feature_name_new": "unit_visualization_view_height_std",
+    "explanation": "The standard deviation of all unit visualization view heights."
+  },
+  {
+    "feature_name_new": "donut_chart_view_size_mean",
+    "explanation": "The mean of all donut chart view sizes."
+  },
+  {
+    "feature_name_new": "donut_chart_view_width_mean",
+    "explanation": "The mean of all donut chart view widths."
+  },
+  {
+    "feature_name_new": "donut_chart_view_height_mean",
+    "explanation": "The mean of all donut chart view heights."
+  },
+  {
+    "feature_name_new": "donut_chart_view_size_std",
+    "explanation": "The standard deviation of all donut chart view sizes."
+  },
+  {
+    "feature_name_new": "donut_chart_view_width_std",
+    "explanation": "The standard deviation of all donut chart view widths."
+  },
+  {
+    "feature_name_new": "donut_chart_view_height_std",
+    "explanation": "The standard deviation of all donut chart view heights."
+  },
+  {
+    "feature_name_new": "sankey_diagram_view_size_mean",
+    "explanation": "The mean of all sankey diagram view sizes."
+  },
+  {
+    "feature_name_new": "sankey_diagram_view_width_mean",
+    "explanation": "The mean of all sankey diagram view widths."
+  },
+  {
+    "feature_name_new": "sankey_diagram_view_height_mean",
+    "explanation": "The mean of all sankey diagram view heights."
+  },
+  {
+    "feature_name_new": "sankey_diagram_view_size_std",
+    "explanation": "The standard deviation of all sankey diagram view sizes."
+  },
+  {
+    "feature_name_new": "sankey_diagram_view_width_std",
+    "explanation": "The standard deviation of all sankey diagram view widths."
+  },
+  {
+    "feature_name_new": "sankey_diagram_view_height_std",
+    "explanation": "The standard deviation of all sankey diagram view heights."
+  },
+  {
+    "feature_name_new": "hierarchical_edge_bundling_view_size_mean",
+    "explanation": "The mean of all hierarchical edge bundling view sizes."
+  },
+  {
+    "feature_name_new": "hierarchical_edge_bundling_view_width_mean",
+    "explanation": "The mean of all hierarchical edge bundling view widths."
+  },
+  {
+    "feature_name_new": "hierarchical_edge_bundling_view_height_mean",
+    "explanation": "The mean of all hierarchical edge bundling view heights."
+  },
+  {
+    "feature_name_new": "hierarchical_edge_bundling_view_size_std",
+    "explanation": "The standard deviation of all hierarchical edge bundling view sizes."
+  },
+  {
+    "feature_name_new": "hierarchical_edge_bundling_view_width_std",
+    "explanation": "The standard deviation of all hierarchical edge bundling view widths."
+  },
+  {
+    "feature_name_new": "hierarchical_edge_bundling_view_height_std",
+    "explanation": "The standard deviation of all hierarchical edge bundling view heights."
+  },
+  {
+    "feature_name_new": "chord_diagram_view_size_mean",
+    "explanation": "The mean of all chord diagram view sizes."
+  },
+  {
+    "feature_name_new": "chord_diagram_view_width_mean",
+    "explanation": "The mean of all chord diagram view widths."
+  },
+  {
+    "feature_name_new": "chord_diagram_view_height_mean",
+    "explanation": "The mean of all chord diagram view heights."
+  },
+  {
+    "feature_name_new": "chord_diagram_view_size_std",
+    "explanation": "The standard deviation of all chord diagram view sizes."
+  },
+  {
+    "feature_name_new": "chord_diagram_view_width_std",
+    "explanation": "The standard deviation of all chord diagram view widths."
+  },
+  {
+    "feature_name_new": "chord_diagram_view_height_std",
+    "explanation": "The standard deviation of all chord diagram view heights."
+  },
+  {
+    "feature_name_new": "stripe_graph_view_size_mean",
+    "explanation": "The mean of all stripe graph view sizes."
+  },
+  {
+    "feature_name_new": "stripe_graph_view_width_mean",
+    "explanation": "The mean of all stripe graph view widths."
+  },
+  {
+    "feature_name_new": "stripe_graph_view_height_mean",
+    "explanation": "The mean of all stripe graph view heights."
+  },
+  {
+    "feature_name_new": "stripe_graph_view_size_std",
+    "explanation": "The standard deviation of all stripe graph view sizes."
+  },
+  {
+    "feature_name_new": "stripe_graph_view_width_std",
+    "explanation": "The standard deviation of all stripe graph view widths."
+  },
+  {
+    "feature_name_new": "stripe_graph_view_height_std",
+    "explanation": "The standard deviation of all stripe graph view heights."
+  },
+  {
+    "feature_name_new": "polar_plot_view_size_mean",
+    "explanation": "The mean of all polar plot view sizes."
+  },
+  {
+    "feature_name_new": "polar_plot_view_width_mean",
+    "explanation": "The mean of all polar plot view widths."
+  },
+  {
+    "feature_name_new": "polar_plot_view_height_mean",
+    "explanation": "The mean of all polar plot view heights."
+  },
+  {
+    "feature_name_new": "polar_plot_view_size_std",
+    "explanation": "The standard deviation of all polar plot view sizes."
+  },
+  {
+    "feature_name_new": "polar_plot_view_width_std",
+    "explanation": "The standard deviation of all polar plot view widths."
+  },
+  {
+    "feature_name_new": "polar_plot_view_height_std",
+    "explanation": "The standard deviation of all polar plot view heights."
+  },
+  {
+    "feature_name_new": "storyline_chart_size_mean",
+    "explanation": "The mean of all storyline chart sizes."
+  },
+  {
+    "feature_name_new": "storyline_chart_width_mean",
+    "explanation": "The mean of all storyline chart widths."
+  },
+  {
+    "feature_name_new": "storyline_chart_height_mean",
+    "explanation": "The mean of all storyline chart heights."
+  },
+  {
+    "feature_name_new": "storyline_chart_size_std",
+    "explanation": "The standard deviation of all storyline chart sizes."
+  },
+  {
+    "feature_name_new": "storyline_chart_width_std",
+    "explanation": "The standard deviation of all storyline chart widths."
+  },
+  {
+    "feature_name_new": "storyline_chart_height_std",
+    "explanation": "The standard deviation of all storyline chart heights."
+  },
+  {
+    "feature_name_new": "others_view_size_mean",
+    "explanation": "The mean of all others view sizes."
+  },
+  {
+    "feature_name_new": "others_view_width_mean",
+    "explanation": "The mean of all others view widths."
+  },
+  {
+    "feature_name_new": "others_view_height_mean",
+    "explanation": "The mean of all others view heights."
+  },
+  {
+    "feature_name_new": "others_view_size_std",
+    "explanation": "The standard deviation of all others view sizes."
+  },
+  {
+    "feature_name_new": "others_view_width_std",
+    "explanation": "The standard deviation of all others view widths."
+  },
+  {
+    "feature_name_new": "others_view_height_std",
+    "explanation": "The standard deviation of all others view heights."
+  },
+  {
+    "feature_name_new": "view_size_static_cluster_count",
+    "explanation": "The count of all view sizes."
+  },
+  {
+    "feature_name_new": "view_width_static_cluster_count",
+    "explanation": "The count of all view widths."
+  },
+  {
+    "feature_name_new": "view_height_static_cluster_count",
+    "explanation": "The count of all view heights."
+  },
+  {
+    "feature_name_new": "view_size_dynamic_cluster_count",
+    "explanation": "The count of all view sizes."
+  },
+  {
+    "feature_name_new": "view_width_dynamic_cluster_count",
+    "explanation": "The count of all view widths."
+  },
+  {
+    "feature_name_new": "view_height_dynamic_cluster_count",
+    "explanation": "The count of all view heights."
+  },
+  {
+    "feature_name_new": "annotation_count",
+    "explanation": "The number of all annotation views."
+  },
+  {
+    "feature_name_new": "line_chart_count",
+    "explanation": "The number of all line chart views."
+  },
+  {
+    "feature_name_new": "contour_graph_count",
+    "explanation": "The number of all contour graph views."
+  },
+  {
+    "feature_name_new": "surface_graph_count",
+    "explanation": "The number of all surface graph views."
+  },
+  {
+    "feature_name_new": "vector_graph_count",
+    "explanation": "The number of all vector graph views."
+  },
+  {
+    "feature_name_new": "scivis_count",
+    "explanation": "The number of all scivis views."
+  },
+  {
+    "feature_name_new": "scatterplot_count",
+    "explanation": "The number of all scatterplot views."
+  },
+  {
+    "feature_name_new": "tree_count",
+    "explanation": "The number of all tree views."
+  },
+  {
+    "feature_name_new": "heatmap_count",
+    "explanation": "The number of all heatmap views."
+  },
+  {
+    "feature_name_new": "treemap_count",
+    "explanation": "The number of all treemap views."
+  },
+  {
+    "feature_name_new": "graph_count",
+    "explanation": "The number of all graph views."
+  },
+  {
+    "feature_name_new": "map_count",
+    "explanation": "The number of all map views."
+  },
+  {
+    "feature_name_new": "bar_chart_count",
+    "explanation": "The number of all bar chart views."
+  },
+  {
+    "feature_name_new": "small_multiple_count",
+    "explanation": "The number of all small multiple views."
+  },
+  {
+    "feature_name_new": "matrix_count",
+    "explanation": "The number of all matrix views."
+  },
+  {
+    "feature_name_new": "flow_diagram_count",
+    "explanation": "The number of all flow diagram views."
+  },
+  {
+    "feature_name_new": "table_count",
+    "explanation": "The number of all table views."
+  },
+  {
+    "feature_name_new": "sunburst_icicle_count",
+    "explanation": "The number of all sunburst icicle views."
+  },
+  {
+    "feature_name_new": "parallel_coordinate_count",
+    "explanation": "The number of all parallel coordinate views."
+  },
+  {
+    "feature_name_new": "box_plot_count",
+    "explanation": "The number of all box plot views."
+  },
+  {
+    "feature_name_new": "error_bar_count",
+    "explanation": "The number of all error bar views."
+  },
+  {
+    "feature_name_new": "glyph_based_count",
+    "explanation": "The number of all glyph based views."
+  },
+  {
+    "feature_name_new": "area_chart_count",
+    "explanation": "The number of all area chart views."
+  },
+  {
+    "feature_name_new": "pie_chart_count",
+    "explanation": "The number of all pie chart views."
+  },
+  {
+    "feature_name_new": "sector_chart_count",
+    "explanation": "The number of all sector chart views."
+  },
+  {
+    "feature_name_new": "word_cloud_count",
+    "explanation": "The number of all word cloud views."
+  },
+  {
+    "feature_name_new": "proportional_area_chart_count",
+    "explanation": "The number of all proportional area chart views."
+  },
+  {
+    "feature_name_new": "unit_visualization_count",
+    "explanation": "The number of all unit visualization views."
+  },
+  {
+    "feature_name_new": "donut_chart_count",
+    "explanation": "The number of all donut chart views."
+  },
+  {
+    "feature_name_new": "sankey_diagram_count",
+    "explanation": "The number of all sankey diagram views."
+  },
+  {
+    "feature_name_new": "hierarchical_edge_bundling_count",
+    "explanation": "The number of all hierarchical edge bundling views."
+  },
+  {
+    "feature_name_new": "chord_diagram_count",
+    "explanation": "The number of all chord diagram views."
+  },
+  {
+    "feature_name_new": "stripe_graph_count",
+    "explanation": "The number of all stripe graph views."
+  },
+  {
+    "feature_name_new": "polar_plot_count",
+    "explanation": "The number of all polar plot views."
+  },
+  {
+    "feature_name_new": "storyline_count",
+    "explanation": "The number of all storyline views."
+  },
+  {
+    "feature_name_new": "others_count",
+    "explanation": "The number of all others views."
+  },
+  {
+    "feature_name_new": "vis_type_count",
+    "explanation": "The number of all vis type views."
+  },
+  {
+    "feature_name_new": "annotation_proportion",
+    "explanation": "The percentage of all annotation views in the visualization image."
+  },
+  {
+    "feature_name_new": "line_chart_proportion",
+    "explanation": "The percentage of all line chart views in the visualization image."
+  },
+  {
+    "feature_name_new": "contour_graph_proportion",
+    "explanation": "The percentage of all contour graph views in the visualization image."
+  },
+  {
+    "feature_name_new": "surface_graph_proportion",
+    "explanation": "The percentage of all surface graph views in the visualization image."
+  },
+  {
+    "feature_name_new": "vector_graph_proportion",
+    "explanation": "The percentage of all vector graph views in the visualization image."
+  },
+  {
+    "feature_name_new": "scivis_proportion",
+    "explanation": "The percentage of all scivis views in the visualization image."
+  },
+  {
+    "feature_name_new": "scatterplot_proportion",
+    "explanation": "The percentage of all scatterplot views in the visualization image."
+  },
+  {
+    "feature_name_new": "tree_proportion",
+    "explanation": "The percentage of all tree views in the visualization image."
+  },
+  {
+    "feature_name_new": "heatmap_proportion",
+    "explanation": "The percentage of all heatmap views in the visualization image."
+  },
+  {
+    "feature_name_new": "treemap_proportion",
+    "explanation": "The percentage of all treemap views in the visualization image."
+  },
+  {
+    "feature_name_new": "graph_proportion",
+    "explanation": "The percentage of all graph views in the visualization image."
+  },
+  {
+    "feature_name_new": "map_proportion",
+    "explanation": "The percentage of all map views in the visualization image."
+  },
+  {
+    "feature_name_new": "bar_chart_proportion",
+    "explanation": "The percentage of all bar chart views in the visualization image."
+  },
+  {
+    "feature_name_new": "small_multiple_proportion",
+    "explanation": "The percentage of all small multiple views in the visualization image."
+  },
+  {
+    "feature_name_new": "matrix_proportion",
+    "explanation": "The percentage of all matrix views in the visualization image."
+  },
+  {
+    "feature_name_new": "flow_diagram_proportion",
+    "explanation": "The percentage of all flow diagram views in the visualization image."
+  },
+  {
+    "feature_name_new": "table_proportion",
+    "explanation": "The percentage of all table views in the visualization image."
+  },
+  {
+    "feature_name_new": "sunburst_icicle_proportion",
+    "explanation": "The percentage of all sunburst icicle views in the visualization image."
+  },
+  {
+    "feature_name_new": "parallel_coordinate_proportion",
+    "explanation": "The percentage of all parallel coordinate views in the visualization image."
+  },
+  {
+    "feature_name_new": "box_plot_proportion",
+    "explanation": "The percentage of all box plot views in the visualization image."
+  },
+  {
+    "feature_name_new": "error_bar_proportion",
+    "explanation": "The percentage of all error bar views in the visualization image."
+  },
+  {
+    "feature_name_new": "glyph_based_proportion",
+    "explanation": "The percentage of all glyph based views in the visualization image."
+  },
+  {
+    "feature_name_new": "area_chart_proportion",
+    "explanation": "The percentage of all area chart views in the visualization image."
+  },
+  {
+    "feature_name_new": "pie_chart_proportion",
+    "explanation": "The percentage of all pie chart views in the visualization image."
+  },
+  {
+    "feature_name_new": "sector_chart_proportion",
+    "explanation": "The percentage of all sector chart views in the visualization image."
+  },
+  {
+    "feature_name_new": "word_cloud_proportion",
+    "explanation": "The percentage of all word cloud views in the visualization image."
+  },
+  {
+    "feature_name_new": "proportional_area_chart_proportion",
+    "explanation": "The percentage of all views in the visualization image."
+  },
+  {
+    "feature_name_new": "unit_visualization_proportion",
+    "explanation": "The percentage of all unit visualization views in the visualization image."
+  },
+  {
+    "feature_name_new": "donut_chart_proportion",
+    "explanation": "The percentage of all donut chart views in the visualization image."
+  },
+  {
+    "feature_name_new": "sankey_diagram_proportion",
+    "explanation": "The percentage of all sankey diagram views in the visualization image."
+  },
+  {
+    "feature_name_new": "hierarchical_edge_bundling_proportion",
+    "explanation": "The percentage of all hierarchical edge bundling views in the visualization image."
+  },
+  {
+    "feature_name_new": "chord_diagram_proportion",
+    "explanation": "The percentage of all chord diagram views in the visualization image."
+  },
+  {
+    "feature_name_new": "stripe_graph_proportion",
+    "explanation": "The percentage of all stripe graph views in the visualization image."
+  },
+  {
+    "feature_name_new": "polar_plot_proportion",
+    "explanation": "The percentage of all polar plot views in the visualization image."
+  },
+  {
+    "feature_name_new": "storyline_proportion",
+    "explanation": "The percentage of all storyline views in the visualization image."
+  },
+  {
+    "feature_name_new": "others_proportion",
+    "explanation": "The percentage of all others views in the visualization image."
+  },
+  {
+    "feature_name_new": "horizontal_symmetry_score",
+    "explanation": "A measurement of horizontal symmetry."
+  },
+  {
+    "feature_name_new": "vertical_symmetry_score",
+    "explanation": "A measurement of vertical symmetry."
+  },
+  {
+    "feature_name_new": "figure_ground_contrast_score",
+    "explanation": "A measurement of contrast between views and tje background."
+  },
+  {
+    "feature_name_new": "horizontal_symmetry_proportion",
+    "explanation": "The percentage of all horizontal symmetry pixels in the visualization image."
+  },
+  {
+    "feature_name_new": "vertical_symmetry_proportion",
+    "explanation": "The percentage of all vertical symmetry pixels in the visualization image."
+  },
+  {
+    "feature_name_new": "annotation_view_x_mean",
+    "explanation": "The mean of all annotation view x positions."
+  },
+  {
+    "feature_name_new": "annotation_view_y_mean",
+    "explanation": "The mean of all annotation view y positions."
+  },
+  {
+    "feature_name_new": "annotation_view_x_std",
+    "explanation": "The standard deviation of all annotation view x positions."
+  },
+  {
+    "feature_name_new": "annotation_view_y_std",
+    "explanation": "The standard deviation of all annotation view y positions."
+  },
+  {
+    "feature_name_new": "line_chart_view_x_mean",
+    "explanation": "The mean of all line chart view x positions."
+  },
+  {
+    "feature_name_new": "line_chart_view_y_mean",
+    "explanation": "The mean of all line chart view y positions."
+  },
+  {
+    "feature_name_new": "line_chart_view_x_std",
+    "explanation": "The standard deviation of all line chart view x positions."
+  },
+  {
+    "feature_name_new": "line_chart_view_y_std",
+    "explanation": "The standard deviation of all line chart view y positions."
+  },
+  {
+    "feature_name_new": "contour_graph_view_x_mean",
+    "explanation": "The mean of all contour graph view x positions."
+  },
+  {
+    "feature_name_new": "contour_graph_view_y_mean",
+    "explanation": "The mean of all contour graph view y positions."
+  },
+  {
+    "feature_name_new": "contour_graph_view_x_std",
+    "explanation": "The standard deviation of all contour graph view x positions."
+  },
+  {
+    "feature_name_new": "contour_graph_view_y_std",
+    "explanation": "The standard deviation of all contour graph view y positions."
+  },
+  {
+    "feature_name_new": "surface_graph_view_x_mean",
+    "explanation": "The mean of all surface graph view x positions."
+  },
+  {
+    "feature_name_new": "surface_graph_view_y_mean",
+    "explanation": "The mean of all surface graph view y positions."
+  },
+  {
+    "feature_name_new": "surface_graph_view_x_std",
+    "explanation": "The standard deviation of all surface graph view x positions."
+  },
+  {
+    "feature_name_new": "surface_graph_view_y_std",
+    "explanation": "The standard deviation of all surface graph view y positions."
+  },
+  {
+    "feature_name_new": "vector_graph_view_x_mean",
+    "explanation": "The mean of all vector graph view x positions."
+  },
+  {
+    "feature_name_new": "vector_graph_view_y_mean",
+    "explanation": "The mean of all vector graph view y positions."
+  },
+  {
+    "feature_name_new": "vector_graph_view_x_std",
+    "explanation": "The standard deviation of all vector graph view x positions."
+  },
+  {
+    "feature_name_new": "vector_graph_view_y_std",
+    "explanation": "The standard deviation of all vector graph view y positions."
+  },
+  {
+    "feature_name_new": "scivis_view_x_mean",
+    "explanation": "The mean of all scivis view x positions."
+  },
+  {
+    "feature_name_new": "scivis_view_y_mean",
+    "explanation": "The mean of all scivis view y positions."
+  },
+  {
+    "feature_name_new": "scivis_view_x_std",
+    "explanation": "The standard deviation of all scivis view x positions."
+  },
+  {
+    "feature_name_new": "scivis_view_y_std",
+    "explanation": "The standard deviation of all scivis view y positions."
+  },
+  {
+    "feature_name_new": "scatterplot_view_x_mean",
+    "explanation": "The mean of all scatterplot view x positions."
+  },
+  {
+    "feature_name_new": "scatterplot_view_y_mean",
+    "explanation": "The mean of all scatterplot view y positions."
+  },
+  {
+    "feature_name_new": "scatterplot_view_x_std",
+    "explanation": "The standard deviation of all scatterplot view x positions."
+  },
+  {
+    "feature_name_new": "scatterplot_view_y_std",
+    "explanation": "The standard deviation of all scatterplot view y positions."
+  },
+  {
+    "feature_name_new": "tree_view_x_mean",
+    "explanation": "The mean of all tree view x positions."
+  },
+  {
+    "feature_name_new": "tree_view_y_mean",
+    "explanation": "The mean of all tree view y positions."
+  },
+  {
+    "feature_name_new": "tree_view_x_std",
+    "explanation": "The standard deviation of all tree view x positions."
+  },
+  {
+    "feature_name_new": "tree_view_y_std",
+    "explanation": "The standard deviation of all tree view y positions."
+  },
+  {
+    "feature_name_new": "heatmap_view_x_mean",
+    "explanation": "The mean of all heatmap view x positions."
+  },
+  {
+    "feature_name_new": "heatmap_view_y_mean",
+    "explanation": "The mean of all heatmap view y positions."
+  },
+  {
+    "feature_name_new": "heatmap_view_x_std",
+    "explanation": "The standard deviation of all heatmap view x positions."
+  },
+  {
+    "feature_name_new": "heatmap_view_y_std",
+    "explanation": "The standard deviation of all heatmap view y positions."
+  },
+  {
+    "feature_name_new": "treemap_view_x_mean",
+    "explanation": "The mean of all treemap view x positions."
+  },
+  {
+    "feature_name_new": "treemap_view_y_mean",
+    "explanation": "The mean of all treemap view y positions."
+  },
+  {
+    "feature_name_new": "treemap_view_x_std",
+    "explanation": "The standard deviation of all treemap view x positions."
+  },
+  {
+    "feature_name_new": "treemap_view_y_std",
+    "explanation": "The standard deviation of all treemap view y positions."
+  },
+  {
+    "feature_name_new": "graph_view_x_mean",
+    "explanation": "The mean of all graph view x positions."
+  },
+  {
+    "feature_name_new": "graph_view_y_mean",
+    "explanation": "The mean of all graph view y positions."
+  },
+  {
+    "feature_name_new": "graph_view_x_std",
+    "explanation": "The standard deviation of all graph view x positions."
+  },
+  {
+    "feature_name_new": "graph_view_y_std",
+    "explanation": "The standard deviation of all graph view y positions."
+  },
+  {
+    "feature_name_new": "map_view_x_mean",
+    "explanation": "The mean of all map view x positions."
+  },
+  {
+    "feature_name_new": "map_view_y_mean",
+    "explanation": "The mean of all map view y positions."
+  },
+  {
+    "feature_name_new": "map_view_x_std",
+    "explanation": "The standard deviation of all map view x positions."
+  },
+  {
+    "feature_name_new": "map_view_y_std",
+    "explanation": "The standard deviation of all map view y positions."
+  },
+  {
+    "feature_name_new": "bar_chart_view_x_mean",
+    "explanation": "The mean of all bar chart view x positions."
+  },
+  {
+    "feature_name_new": "bar_chart_view_y_mean",
+    "explanation": "The mean of all bar chart view y positions."
+  },
+  {
+    "feature_name_new": "bar_chart_view_x_std",
+    "explanation": "The standard deviation of all bar chart view x positions."
+  },
+  {
+    "feature_name_new": "bar_chart_view_y_std",
+    "explanation": "The standard deviation of all bar chart view y positions."
+  },
+  {
+    "feature_name_new": "small_multiple_view_x_mean",
+    "explanation": "The mean of all small multiple view x positions."
+  },
+  {
+    "feature_name_new": "small_multiple_view_y_mean",
+    "explanation": "The mean of all small multiple view y positions."
+  },
+  {
+    "feature_name_new": "small_multiple_view_x_std",
+    "explanation": "The standard deviation of all small multiple view x positions."
+  },
+  {
+    "feature_name_new": "small_multiple_view_y_std",
+    "explanation": "The standard deviation of all small multiple view y positions."
+  },
+  {
+    "feature_name_new": "matrix_view_x_mean",
+    "explanation": "The mean of all matrix view x positions."
+  },
+  {
+    "feature_name_new": "matrix_view_y_mean",
+    "explanation": "The mean of all matrix view y positions."
+  },
+  {
+    "feature_name_new": "matrix_view_x_std",
+    "explanation": "The standard deviation of all matrix view x positions."
+  },
+  {
+    "feature_name_new": "matrix_view_y_std",
+    "explanation": "The standard deviation of all matrix view y positions."
+  },
+  {
+    "feature_name_new": "flow_diagram_view_x_mean",
+    "explanation": "The mean of all flow diagram view x positions."
+  },
+  {
+    "feature_name_new": "flow_diagram_view_y_mean",
+    "explanation": "The mean of all flow diagram view y positions."
+  },
+  {
+    "feature_name_new": "flow_diagram_view_x_std",
+    "explanation": "The standard deviation of all flow diagram view x positions."
+  },
+  {
+    "feature_name_new": "flow_diagram_view_y_std",
+    "explanation": "The standard deviation of all flow diagram view y positions."
+  },
+  {
+    "feature_name_new": "table_view_x_mean",
+    "explanation": "The mean of all table view x positions."
+  },
+  {
+    "feature_name_new": "table_view_y_mean",
+    "explanation": "The mean of all table view y positions."
+  },
+  {
+    "feature_name_new": "table_view_x_std",
+    "explanation": "The standard deviation of all table view x positions."
+  },
+  {
+    "feature_name_new": "table_view_y_std",
+    "explanation": "The standard deviation of all table view y positions."
+  },
+  {
+    "feature_name_new": "sunburst_icicle_view_x_mean",
+    "explanation": "The mean of all sunburst icicle view x positions."
+  },
+  {
+    "feature_name_new": "sunburst_icicle_view_y_mean",
+    "explanation": "The mean of all sunburst icicle view y positions."
+  },
+  {
+    "feature_name_new": "sunburst_icicle_view_x_std",
+    "explanation": "The standard deviation of all sunburst icicle view x positions."
+  },
+  {
+    "feature_name_new": "sunburst_icicle_view_y_std",
+    "explanation": "The standard deviation of all sunburst icicle view y positions."
+  },
+  {
+    "feature_name_new": "parallel_coordinate_view_x_mean",
+    "explanation": "The mean of all parallel coordinate view x positions."
+  },
+  {
+    "feature_name_new": "parallel_coordinate_view_y_mean",
+    "explanation": "The mean of all parallel coordinate view y positions."
+  },
+  {
+    "feature_name_new": "parallel_coordinate_view_x_std",
+    "explanation": "The standard deviation of all parallel coordinate view x positions."
+  },
+  {
+    "feature_name_new": "parallel_coordinate_view_y_std",
+    "explanation": "The standard deviation of all parallel coordinate view y positions."
+  },
+  {
+    "feature_name_new": "box_plot_view_x_mean",
+    "explanation": "The mean of all box plot view x positions."
+  },
+  {
+    "feature_name_new": "box_plot_view_y_mean",
+    "explanation": "The mean of all box plot view y positions."
+  },
+  {
+    "feature_name_new": "box_plot_view_x_std",
+    "explanation": "The standard deviation of all box plot view x positions."
+  },
+  {
+    "feature_name_new": "box_plot_view_y_std",
+    "explanation": "The standard deviation of all box plot view y positions."
+  },
+  {
+    "feature_name_new": "error_bar_chart_x_mean",
+    "explanation": "The mean of all error bar chart x positions."
+  },
+  {
+    "feature_name_new": "error_bar_chart_y_mean",
+    "explanation": "The mean of all error bar chart y positions."
+  },
+  {
+    "feature_name_new": "error_bar_chart_x_std",
+    "explanation": "The standard deviation of all error bar chart x positions."
+  },
+  {
+    "feature_name_new": "error_bar_chart_y_std",
+    "explanation": "The standard deviation of all error bar chart y positions."
+  },
+  {
+    "feature_name_new": "glyph_based_view_x_mean",
+    "explanation": "The mean of all glyph based view x positions."
+  },
+  {
+    "feature_name_new": "glyph_based_view_y_mean",
+    "explanation": "The mean of all glyph based view y positions."
+  },
+  {
+    "feature_name_new": "glyph_based_view_x_std",
+    "explanation": "The standard deviation of all glyph based view x positions."
+  },
+  {
+    "feature_name_new": "glyph_based_view_y_std",
+    "explanation": "The standard deviation of all glyph based view y positions."
+  },
+  {
+    "feature_name_new": "area_chart_view_x_mean",
+    "explanation": "The mean of all area chart view x positions."
+  },
+  {
+    "feature_name_new": "area_chart_view_y_mean",
+    "explanation": "The mean of all area chart view y positions."
+  },
+  {
+    "feature_name_new": "area_chart_view_x_std",
+    "explanation": "The standard deviation of all area chart view x positions."
+  },
+  {
+    "feature_name_new": "area_chart_view_y_std",
+    "explanation": "The standard deviation of all area chart view y positions."
+  },
+  {
+    "feature_name_new": "pie_chart_view_x_mean",
+    "explanation": "The mean of all pie chart view x positions."
+  },
+  {
+    "feature_name_new": "pie_chart_view_y_mean",
+    "explanation": "The mean of all pie chart view y positions."
+  },
+  {
+    "feature_name_new": "pie_chart_view_x_std",
+    "explanation": "The standard deviation of all pie chart view x positions."
+  },
+  {
+    "feature_name_new": "pie_chart_view_y_std",
+    "explanation": "The standard deviation of all pie chart view y positions."
+  },
+  {
+    "feature_name_new": "sector_chart_view_x_mean",
+    "explanation": "The mean of all sector chart view x positions."
+  },
+  {
+    "feature_name_new": "sector_chart_view_y_mean",
+    "explanation": "The mean of all sector chart view y positions."
+  },
+  {
+    "feature_name_new": "sector_chart_view_x_std",
+    "explanation": "The standard deviation of all sector chart view x positions."
+  },
+  {
+    "feature_name_new": "sector_chart_view_y_std",
+    "explanation": "The standard deviation of all sector chart view y positions."
+  },
+  {
+    "feature_name_new": "word_cloud_view_x_mean",
+    "explanation": "The mean of all word cloud view x positions."
+  },
+  {
+    "feature_name_new": "word_cloud_view_y_mean",
+    "explanation": "The mean of all word cloud view y positions."
+  },
+  {
+    "feature_name_new": "word_cloud_view_x_std",
+    "explanation": "The standard deviation of all word cloud view x positions."
+  },
+  {
+    "feature_name_new": "word_cloud_view_y_std",
+    "explanation": "The standard deviation of all word cloud view y positions."
+  },
+  {
+    "feature_name_new": "proportional_area_chart_view_x_mean",
+    "explanation": "The mean of all proportional area chart view x positions."
+  },
+  {
+    "feature_name_new": "proportional_area_chart_view_y_mean",
+    "explanation": "The mean of all proportional area chart view y positions."
+  },
+  {
+    "feature_name_new": "proportional_area_chart_view_x_std",
+    "explanation": "The standard deviation of all proportional area chart view x positions."
+  },
+  {
+    "feature_name_new": "proportional_area_chart_view_y_std",
+    "explanation": "The standard deviation of all proportional area chart view y positions."
+  },
+  {
+    "feature_name_new": "unit_visualization_view_x_mean",
+    "explanation": "The mean of all unit visualization view x positions."
+  },
+  {
+    "feature_name_new": "unit_visualization_view_y_mean",
+    "explanation": "The mean of all unit visualization view y positions."
+  },
+  {
+    "feature_name_new": "unit_visualization_view_x_std",
+    "explanation": "The standard deviation of all unit visualization view x positions."
+  },
+  {
+    "feature_name_new": "unit_visualization_view_y_std",
+    "explanation": "The standard deviation of all unit visualization view y positions."
+  },
+  {
+    "feature_name_new": "donut_chart_view_x_mean",
+    "explanation": "The mean of all donut chart view x positions."
+  },
+  {
+    "feature_name_new": "donut_chart_view_y_mean",
+    "explanation": "The mean of all donut chart view y positions."
+  },
+  {
+    "feature_name_new": "donut_chart_view_x_std",
+    "explanation": "The standard deviation of all donut chart view x positions."
+  },
+  {
+    "feature_name_new": "donut_chart_view_y_std",
+    "explanation": "The standard deviation of all donut chart view y positions."
+  },
+  {
+    "feature_name_new": "sankey_diagram_view_x_mean",
+    "explanation": "The mean of all sankey diagram view x positions."
+  },
+  {
+    "feature_name_new": "sankey_diagram_view_y_mean",
+    "explanation": "The mean of all sankey diagram view y positions."
+  },
+  {
+    "feature_name_new": "sankey_diagram_view_x_std",
+    "explanation": "The standard deviation of all sankey diagram view x positions."
+  },
+  {
+    "feature_name_new": "sankey_diagram_view_y_std",
+    "explanation": "The standard deviation of all sankey diagram view y positions."
+  },
+  {
+    "feature_name_new": "hierarchical_edge_bundling_view_x_mean",
+    "explanation": "The mean of all hierarchical edge bundling view x positions."
+  },
+  {
+    "feature_name_new": "hierarchical_edge_bundling_view_y_mean",
+    "explanation": "The mean of all hierarchical edge bundling view y positions."
+  },
+  {
+    "feature_name_new": "hierarchical_edge_bundling_view_x_std",
+    "explanation": "The standard deviation of all hierarchical edge bundling view x positions."
+  },
+  {
+    "feature_name_new": "hierarchical_edge_bundling_view_y_std",
+    "explanation": "The standard deviation of all hierarchical edge bundling view y positions."
+  },
+  {
+    "feature_name_new": "chord_diagram_view_x_mean",
+    "explanation": "The mean of all chord diagram view x positions."
+  },
+  {
+    "feature_name_new": "chord_diagram_view_y_mean",
+    "explanation": "The mean of all chord diagram view y positions."
+  },
+  {
+    "feature_name_new": "chord_diagram_view_x_std",
+    "explanation": "The standard deviation of all chord diagram view x positions."
+  },
+  {
+    "feature_name_new": "chord_diagram_view_y_std",
+    "explanation": "The standard deviation of all chord diagram view y positions."
+  },
+  {
+    "feature_name_new": "stripe_graph_view_x_mean",
+    "explanation": "The mean of all stripe graph view x positions."
+  },
+  {
+    "feature_name_new": "stripe_graph_view_y_mean",
+    "explanation": "The mean of all stripe graph view y positions."
+  },
+  {
+    "feature_name_new": "stripe_graph_view_x_std",
+    "explanation": "The standard deviation of all stripe graph view x positions."
+  },
+  {
+    "feature_name_new": "stripe_graph_view_y_std",
+    "explanation": "The standard deviation of all stripe graph view y positions."
+  },
+  {
+    "feature_name_new": "polar_plot_view_x_mean",
+    "explanation": "The mean of all polar plot view x positions."
+  },
+  {
+    "feature_name_new": "polar_plot_view_y_mean",
+    "explanation": "The mean of all polar plot view y positions."
+  },
+  {
+    "feature_name_new": "polar_plot_view_x_std",
+    "explanation": "The standard deviation of all polar plot view x positions."
+  },
+  {
+    "feature_name_new": "polar_plot_view_y_std",
+    "explanation": "The standard deviation of all polar plot view y positions."
+  },
+  {
+    "feature_name_new": "storyline_chart_x_mean",
+    "explanation": "The mean of all storyline chart x positions."
+  },
+  {
+    "feature_name_new": "storyline_chart_y_mean",
+    "explanation": "The mean of all storyline chart y positions."
+  },
+  {
+    "feature_name_new": "storyline_chart_x_std",
+    "explanation": "The standard deviation of all storyline chart x positions."
+  },
+  {
+    "feature_name_new": "storyline_chart_y_std",
+    "explanation": "The standard deviation of all storyline chart y positions."
+  },
+  {
+    "feature_name_new": "others_view_x_mean",
+    "explanation": "The mean of all others view x positions."
+  },
+  {
+    "feature_name_new": "others_view_y_mean",
+    "explanation": "The mean of all others view y positions."
+  },
+  {
+    "feature_name_new": "others_view_x_std",
+    "explanation": "The standard deviation of all others view x positions."
+  },
+  {
+    "feature_name_new": "others_view_y_std",
+    "explanation": "The standard deviation of all others view y positions."
+  },
+  {
+    "feature_name_new": "alignment_x_static_cluster_count",
+    "explanation": "The count of static clusters of view vertices on the x axis."
+  },
+  {
+    "feature_name_new": "alignment_y_static_cluster_count",
+    "explanation": "The count of static clusters of view vertices on the y axis."
+  },
+  {
+    "feature_name_new": "alignment_x_dynamic_cluster_count",
+    "explanation": "The count of dynamic clusters of view vertices on the x axis."
+  },
+  {
+    "feature_name_new": "alignment_y_dynamic_cluster_count",
+    "explanation": "The count of dynamic clusters of view vertices on the y axis."
+  },
+  {
+    "feature_name_new": "view_area",
+    "explanation": "The area of all views."
+  }
+]

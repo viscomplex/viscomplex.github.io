@@ -1,0 +1,277 @@
+[
+  {
+    "feature_name": "H_hi_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio of the H channel when keeping high quality."
+  },
+  {
+    "feature_name": "H_mid_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio of the H channel when keeping mid quality."
+  },
+  {
+    "feature_name": "H_low_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio of the H channel when keeping low quality."
+  },
+  {
+    "feature_name": "H_edge_ratio",
+    "significant": "True",
+    "explanation": "The percentage of edge pixels of the H channel."
+  },
+  {
+    "feature_name": "H_canny_hi_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio when applying canny filter on H channel and keeping high quality."
+  },
+  {
+    "feature_name": "H_canny_mid_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio when applying canny filter on H channel and keeping mid quality."
+  },
+  {
+    "feature_name": "H_canny_low_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio when applying canny filter on H channel and keeping low quality."
+  },
+  {
+    "feature_name": "H_sobel_hi_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio when applying sobel filter on H channel and keeping high quality."
+  },
+  {
+    "feature_name": "H_sobel_mid_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio when applying sobel filter on H channel and keeping mid quality."
+  },
+  {
+    "feature_name": "H_sobel_low_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio when applying sobel filter on H channel and keeping low quality."
+  },
+  {
+    "feature_name": "S_hi_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio of the S channel when keeping high quality."
+  },
+  {
+    "feature_name": "S_mid_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio of the S channel when keeping mid quality."
+  },
+  {
+    "feature_name": "S_low_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio of the S channel when keeping low quality."
+  },
+  {
+    "feature_name": "S_edge_ratio",
+    "significant": "True",
+    "explanation": "The percentage of edge pixels of the S channel."
+  },
+  {
+    "feature_name": "S_canny_hi_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio when applying canny filter on S channel and keeping high quality."
+  },
+  {
+    "feature_name": "S_canny_mid_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio when applying canny filter on S channel and keeping mid quality."
+  },
+  {
+    "feature_name": "S_canny_low_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio when applying canny filter on S channel and keeping low quality."
+  },
+  {
+    "feature_name": "S_sobel_hi_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio when applying sobel filter on S channel and keeping high quality."
+  },
+  {
+    "feature_name": "S_sobel_mid_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio when applying sobel filter on S channel and keeping mid quality."
+  },
+  {
+    "feature_name": "S_sobel_low_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio when applying sobel filter on S channel and keeping low quality."
+  },
+  {
+    "feature_name": "V_hi_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio of the V channel when keeping high quality."
+  },
+  {
+    "feature_name": "V_mid_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio of the V channel when keeping mid quality."
+  },
+  {
+    "feature_name": "V_low_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio of the V channel when keeping low quality."
+  },
+  {
+    "feature_name": "V_edge_ratio",
+    "significant": "True",
+    "explanation": "The percentage of edge pixels of the V channel."
+  },
+  {
+    "feature_name": "V_canny_hi_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio when applying canny filter on V channel and keeping high quality."
+  },
+  {
+    "feature_name": "V_canny_mid_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio when applying canny filter on V channel and keeping mid quality."
+  },
+  {
+    "feature_name": "V_canny_low_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio when applying canny filter on V channel and keeping low quality."
+  },
+  {
+    "feature_name": "V_sobel_hi_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio when applying sobel filter on V channel and keeping high quality."
+  },
+  {
+    "feature_name": "V_sobel_mid_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio when applying sobel filter on V channel and keeping mid quality."
+  },
+  {
+    "feature_name": "V_sobel_low_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio when applying sobel filter on V channel and keeping low quality."
+  },
+  {
+    "feature_name": "RGB_hi_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio of the RGB channel when keeping high quality."
+  },
+  {
+    "feature_name": "RGB_mid_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio of the RGB channel when keeping mid quality."
+  },
+  {
+    "feature_name": "RGB_low_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio of the RGB channel when keeping low quality."
+  },
+  {
+    "feature_name": "CS_hi_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio of the S*V channel when keeping high quality."
+  },
+  {
+    "feature_name": "CS_mid_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio of the S*V channel when keeping mid quality."
+  },
+  {
+    "feature_name": "CS_low_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio of the S*V channel when keeping low quality."
+  },
+  {
+    "feature_name": "CS_edge_ratio",
+    "significant": "True",
+    "explanation": "The percentage of edge pixels of the S*V channel."
+  },
+  {
+    "feature_name": "CS_canny_hi_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio when applying canny filter on S*V channel and keeping high quality."
+  },
+  {
+    "feature_name": "CS_canny_mid_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio when applying canny filter on S*V channel and keeping mid quality."
+  },
+  {
+    "feature_name": "CS_canny_low_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio when applying canny filter on S*V channel and keeping low quality."
+  },
+  {
+    "feature_name": "CS_sobel_hi_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio when applying sobel filter on S*V channel and keeping high quality."
+  },
+  {
+    "feature_name": "CS_sobel_mid_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio when applying sobel filter on S*V channel and keeping mid quality."
+  },
+  {
+    "feature_name": "CS_sobel_low_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio when applying sobel filter on S*V channel and keeping low quality."
+  },
+  {
+    "feature_name": "CS_H_hi_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio of the H*S*V channel when keeping high quality."
+  },
+  {
+    "feature_name": "CS_H_mid_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio of the H*S*V channel when keeping mid quality."
+  },
+  {
+    "feature_name": "CS_H_low_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio of the H*S*V channel when keeping low quality."
+  },
+  {
+    "feature_name": "CS_H_edge_ratio",
+    "significant": "True",
+    "explanation": "The percentage of edge pixels of the H*S*V channel."
+  },
+  {
+    "feature_name": "CS_H_canny_hi_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio when applying canny filter on H*S*V channel and keeping high quality."
+  },
+  {
+    "feature_name": "CS_H_canny_mid_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio when applying canny filter on H*S*V channel and keeping mid quality."
+  },
+  {
+    "feature_name": "CS_H_canny_low_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio when applying canny filter on H*S*V channel and keeping low quality."
+  },
+  {
+    "feature_name": "CS_H_sobel_hi_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio when applying sobel filter on H*S*V channel and keeping high quality."
+  },
+  {
+    "feature_name": "CS_H_sobel_mid_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio when applying sobel filter on H*S*V channel and keeping mid quality."
+  },
+  {
+    "feature_name": "CS_H_sobel_low_jpeg_ratio",
+    "significant": "True",
+    "explanation": "The JPEG compression ratio when applying sobel filter on H*S*V channel and keeping low quality."
+  },
+  {
+    "feature_name": "feature_congestion",
+    "significant": "True",
+    "explanation": "A measurement of visual clutter."
+  },
+  {
+    "feature_name": "subband_entropy",
+    "significant": "True",
+    "explanation": "A measurement of visual clutter."
+  }
+]

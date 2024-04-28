@@ -1,0 +1,1422 @@
+[
+  {
+    "feature_name": "view_size_mean",
+    "significant": "True",
+    "explanation": "The mean of all view sizes."
+  },
+  {
+    "feature_name": "view_width_mean",
+    "significant": "True",
+    "explanation": "The mean of all view widths."
+  },
+  {
+    "feature_name": "view_height_mean",
+    "significant": "True",
+    "explanation": "The mean of all view heights."
+  },
+  {
+    "feature_name": "view_size_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all view sizes."
+  },
+  {
+    "feature_name": "view_width_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all view widths."
+  },
+  {
+    "feature_name": "view_height_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all view heights."
+  },
+  {
+    "feature_name": "annotation_view_size_mean",
+    "significant": "False",
+    "explanation": "The mean of all annotation view sizes."
+  },
+  {
+    "feature_name": "annotation_view_width_mean",
+    "significant": "False",
+    "explanation": "The mean of all annotation view widths."
+  },
+  {
+    "feature_name": "annotation_view_height_mean",
+    "significant": "False",
+    "explanation": "The mean of all annotation view heights."
+  },
+  {
+    "feature_name": "annotation_view_size_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all annotation view sizes."
+  },
+  {
+    "feature_name": "annotation_view_width_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all annotation view widths."
+  },
+  {
+    "feature_name": "annotation_view_height_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all annotation view heights."
+  },
+  {
+    "feature_name": "line_chart_view_size_mean",
+    "significant": "True",
+    "explanation": "The mean of all line chart view sizes."
+  },
+  {
+    "feature_name": "line_chart_view_width_mean",
+    "significant": "False",
+    "explanation": "The mean of all line chart view widths."
+  },
+  {
+    "feature_name": "line_chart_view_height_mean",
+    "significant": "True",
+    "explanation": "The mean of all line chart view heights."
+  },
+  {
+    "feature_name": "line_chart_view_size_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all line chart view sizes."
+  },
+  {
+    "feature_name": "line_chart_view_width_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all line chart view widths."
+  },
+  {
+    "feature_name": "line_chart_view_height_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all line chart view heights."
+  },
+  {
+    "feature_name": "contour_graph_view_size_mean",
+    "significant": "False",
+    "explanation": "The mean of all contour graph view sizes."
+  },
+  {
+    "feature_name": "contour_graph_view_width_mean",
+    "significant": "False",
+    "explanation": "The mean of all contour graph view widths."
+  },
+  {
+    "feature_name": "contour_graph_view_height_mean",
+    "significant": "False",
+    "explanation": "The mean of all contour graph view heights."
+  },
+  {
+    "feature_name": "contour_graph_view_size_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all contour graph view sizes."
+  },
+  {
+    "feature_name": "contour_graph_view_width_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all contour graph view widths."
+  },
+  {
+    "feature_name": "contour_graph_view_height_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all contour graph view heights."
+  },
+  {
+    "feature_name": "surface_graph_view_size_mean",
+    "significant": "False",
+    "explanation": "The mean of all surface graph view sizes."
+  },
+  {
+    "feature_name": "surface_graph_view_width_mean",
+    "significant": "False",
+    "explanation": "The mean of all surface graph view widths."
+  },
+  {
+    "feature_name": "surface_graph_view_height_mean",
+    "significant": "False",
+    "explanation": "The mean of all surface graph view heights."
+  },
+  {
+    "feature_name": "surface_graph_view_size_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all surface graph view sizes."
+  },
+  {
+    "feature_name": "surface_graph_view_width_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all surface graph view widths."
+  },
+  {
+    "feature_name": "surface_graph_view_height_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all surface graph view heights."
+  },
+  {
+    "feature_name": "scivis_view_size_mean",
+    "significant": "False",
+    "explanation": "The mean of all scivis view sizes."
+  },
+  {
+    "feature_name": "scivis_view_width_mean",
+    "significant": "False",
+    "explanation": "The mean of all scivis view widths."
+  },
+  {
+    "feature_name": "scivis_view_height_mean",
+    "significant": "False",
+    "explanation": "The mean of all scivis view heights."
+  },
+  {
+    "feature_name": "scivis_view_size_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all scivis view sizes."
+  },
+  {
+    "feature_name": "scivis_view_width_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all scivis view widths."
+  },
+  {
+    "feature_name": "scivis_view_height_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all scivis view heights."
+  },
+  {
+    "feature_name": "scatterplot_view_size_mean",
+    "significant": "False",
+    "explanation": "The mean of all scatterplot view sizes."
+  },
+  {
+    "feature_name": "scatterplot_view_width_mean",
+    "significant": "False",
+    "explanation": "The mean of all scatterplot view widths."
+  },
+  {
+    "feature_name": "scatterplot_view_height_mean",
+    "significant": "False",
+    "explanation": "The mean of all scatterplot view heights."
+  },
+  {
+    "feature_name": "scatterplot_view_size_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all scatterplot view sizes."
+  },
+  {
+    "feature_name": "scatterplot_view_width_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all scatterplot view widths."
+  },
+  {
+    "feature_name": "scatterplot_view_height_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all scatterplot view heights."
+  },
+  {
+    "feature_name": "tree_view_size_mean",
+    "significant": "True",
+    "explanation": "The mean of all tree view sizes."
+  },
+  {
+    "feature_name": "tree_view_width_mean",
+    "significant": "False",
+    "explanation": "The mean of all tree view widths."
+  },
+  {
+    "feature_name": "tree_view_height_mean",
+    "significant": "False",
+    "explanation": "The mean of all tree view heights."
+  },
+  {
+    "feature_name": "tree_view_size_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all tree view sizes."
+  },
+  {
+    "feature_name": "tree_view_width_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all tree view widths."
+  },
+  {
+    "feature_name": "tree_view_height_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all tree view heights."
+  },
+  {
+    "feature_name": "heatmap_view_size_mean",
+    "significant": "True",
+    "explanation": "The mean of all heatmap view sizes."
+  },
+  {
+    "feature_name": "heatmap_view_width_mean",
+    "significant": "True",
+    "explanation": "The mean of all heatmap view widths."
+  },
+  {
+    "feature_name": "heatmap_view_height_mean",
+    "significant": "True",
+    "explanation": "The mean of all heatmap view heights."
+  },
+  {
+    "feature_name": "heatmap_view_size_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all heatmap view sizes."
+  },
+  {
+    "feature_name": "heatmap_view_width_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all heatmap view widths."
+  },
+  {
+    "feature_name": "heatmap_view_height_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all heatmap view heights."
+  },
+  {
+    "feature_name": "treemap_view_size_mean",
+    "significant": "False",
+    "explanation": "The mean of all treemap view sizes."
+  },
+  {
+    "feature_name": "treemap_view_width_mean",
+    "significant": "False",
+    "explanation": "The mean of all treemap view widths."
+  },
+  {
+    "feature_name": "treemap_view_height_mean",
+    "significant": "False",
+    "explanation": "The mean of all treemap view heights."
+  },
+  {
+    "feature_name": "treemap_view_size_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all treemap view sizes."
+  },
+  {
+    "feature_name": "treemap_view_width_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all treemap view widths."
+  },
+  {
+    "feature_name": "treemap_view_height_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all treemap view heights."
+  },
+  {
+    "feature_name": "graph_view_size_mean",
+    "significant": "False",
+    "explanation": "The mean of all graph view sizes."
+  },
+  {
+    "feature_name": "graph_view_width_mean",
+    "significant": "False",
+    "explanation": "The mean of all graph view widths."
+  },
+  {
+    "feature_name": "graph_view_height_mean",
+    "significant": "False",
+    "explanation": "The mean of all graph view heights."
+  },
+  {
+    "feature_name": "graph_view_size_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all graph view sizes."
+  },
+  {
+    "feature_name": "graph_view_width_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all graph view widths."
+  },
+  {
+    "feature_name": "graph_view_height_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all graph view heights."
+  },
+  {
+    "feature_name": "map_view_size_mean",
+    "significant": "True",
+    "explanation": "The mean of all map view sizes."
+  },
+  {
+    "feature_name": "map_view_width_mean",
+    "significant": "True",
+    "explanation": "The mean of all map view widths."
+  },
+  {
+    "feature_name": "map_view_height_mean",
+    "significant": "True",
+    "explanation": "The mean of all map view heights."
+  },
+  {
+    "feature_name": "map_view_size_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all map view sizes."
+  },
+  {
+    "feature_name": "map_view_width_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all map view widths."
+  },
+  {
+    "feature_name": "map_view_height_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all map view heights."
+  },
+  {
+    "feature_name": "bar_chart_view_size_mean",
+    "significant": "False",
+    "explanation": "The mean of all bar chart view sizes."
+  },
+  {
+    "feature_name": "bar_chart_view_width_mean",
+    "significant": "False",
+    "explanation": "The mean of all bar chart view widths."
+  },
+  {
+    "feature_name": "bar_chart_view_height_mean",
+    "significant": "False",
+    "explanation": "The mean of all bar chart view heights."
+  },
+  {
+    "feature_name": "bar_chart_view_size_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all bar chart view sizes."
+  },
+  {
+    "feature_name": "bar_chart_view_width_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all bar chart view widths."
+  },
+  {
+    "feature_name": "bar_chart_view_height_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all bar chart view heights."
+  },
+  {
+    "feature_name": "small_multiple_view_size_mean",
+    "significant": "False",
+    "explanation": "The mean of all small multiple view sizes."
+  },
+  {
+    "feature_name": "small_multiple_view_width_mean",
+    "significant": "True",
+    "explanation": "The mean of all small multiple view widths."
+  },
+  {
+    "feature_name": "small_multiple_view_height_mean",
+    "significant": "True",
+    "explanation": "The mean of all small multiple view heights."
+  },
+  {
+    "feature_name": "small_multiple_view_size_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all small multiple view sizes."
+  },
+  {
+    "feature_name": "small_multiple_view_width_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all small multiple view widths."
+  },
+  {
+    "feature_name": "small_multiple_view_height_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all small multiple view heights."
+  },
+  {
+    "feature_name": "matrix_view_size_mean",
+    "significant": "False",
+    "explanation": "The mean of all matrix view sizes."
+  },
+  {
+    "feature_name": "matrix_view_width_mean",
+    "significant": "False",
+    "explanation": "The mean of all matrix view widths."
+  },
+  {
+    "feature_name": "matrix_view_height_mean",
+    "significant": "False",
+    "explanation": "The mean of all matrix view heights."
+  },
+  {
+    "feature_name": "matrix_view_size_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all matrix view sizes."
+  },
+  {
+    "feature_name": "matrix_view_width_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all matrix view widths."
+  },
+  {
+    "feature_name": "matrix_view_height_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all matrix view heights."
+  },
+  {
+    "feature_name": "flow_diagram_view_size_mean",
+    "significant": "False",
+    "explanation": "The mean of all flow diagram view sizes."
+  },
+  {
+    "feature_name": "flow_diagram_view_width_mean",
+    "significant": "False",
+    "explanation": "The mean of all flow diagram view widths."
+  },
+  {
+    "feature_name": "flow_diagram_view_height_mean",
+    "significant": "False",
+    "explanation": "The mean of all flow diagram view heights."
+  },
+  {
+    "feature_name": "flow_diagram_view_size_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all flow diagram view sizes."
+  },
+  {
+    "feature_name": "flow_diagram_view_width_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all flow diagram view widths."
+  },
+  {
+    "feature_name": "flow_diagram_view_height_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all flow diagram view heights."
+  },
+  {
+    "feature_name": "table_view_size_mean",
+    "significant": "False",
+    "explanation": "The mean of all table view sizes."
+  },
+  {
+    "feature_name": "table_view_width_mean",
+    "significant": "False",
+    "explanation": "The mean of all table view widths."
+  },
+  {
+    "feature_name": "table_view_height_mean",
+    "significant": "False",
+    "explanation": "The mean of all table view heights."
+  },
+  {
+    "feature_name": "table_view_size_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all table view sizes."
+  },
+  {
+    "feature_name": "table_view_width_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all table view widths."
+  },
+  {
+    "feature_name": "table_view_height_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all table view heights."
+  },
+  {
+    "feature_name": "sunburst_icicle_view_size_mean",
+    "significant": "False",
+    "explanation": "The mean of all sunburst icicle view sizes."
+  },
+  {
+    "feature_name": "sunburst_icicle_view_width_mean",
+    "significant": "False",
+    "explanation": "The mean of all sunburst icicle view widths."
+  },
+  {
+    "feature_name": "sunburst_icicle_view_height_mean",
+    "significant": "False",
+    "explanation": "The mean of all sunburst icicle view heights."
+  },
+  {
+    "feature_name": "sunburst_icicle_view_size_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all sunburst icicle view sizes."
+  },
+  {
+    "feature_name": "sunburst_icicle_view_width_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all sunburst icicle view widths."
+  },
+  {
+    "feature_name": "sunburst_icicle_view_height_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all sunburst icicle view heights."
+  },
+  {
+    "feature_name": "parallel_coordinate_view_size_mean",
+    "significant": "True",
+    "explanation": "The mean of all parallel coordinate view sizes."
+  },
+  {
+    "feature_name": "parallel_coordinate_view_width_mean",
+    "significant": "True",
+    "explanation": "The mean of all parallel coordinate view widths."
+  },
+  {
+    "feature_name": "parallel_coordinate_view_height_mean",
+    "significant": "True",
+    "explanation": "The mean of all parallel coordinate view heights."
+  },
+  {
+    "feature_name": "parallel_coordinate_view_size_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all parallel coordinate view sizes."
+  },
+  {
+    "feature_name": "parallel_coordinate_view_width_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all parallel coordinate view widths."
+  },
+  {
+    "feature_name": "parallel_coordinate_view_height_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all parallel coordinate view heights."
+  },
+  {
+    "feature_name": "box_plot_view_size_mean",
+    "significant": "False",
+    "explanation": "The mean of all box plot view sizes."
+  },
+  {
+    "feature_name": "box_plot_view_width_mean",
+    "significant": "False",
+    "explanation": "The mean of all box plot view widths."
+  },
+  {
+    "feature_name": "box_plot_view_height_mean",
+    "significant": "False",
+    "explanation": "The mean of all box plot view heights."
+  },
+  {
+    "feature_name": "box_plot_view_size_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all box plot view sizes."
+  },
+  {
+    "feature_name": "box_plot_view_width_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all box plot view widths."
+  },
+  {
+    "feature_name": "box_plot_view_height_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all box plot view heights."
+  },
+  {
+    "feature_name": "error_bar_chart_size_mean",
+    "significant": "False",
+    "explanation": "The mean of all error bar chart sizes."
+  },
+  {
+    "feature_name": "error_bar_chart_width_mean",
+    "significant": "False",
+    "explanation": "The mean of all error bar chart widths."
+  },
+  {
+    "feature_name": "error_bar_chart_height_mean",
+    "significant": "False",
+    "explanation": "The mean of all error bar chart heights."
+  },
+  {
+    "feature_name": "error_bar_chart_size_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all error bar chart sizes."
+  },
+  {
+    "feature_name": "error_bar_chart_width_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all error bar chart widths."
+  },
+  {
+    "feature_name": "error_bar_chart_height_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all error bar chart heights."
+  },
+  {
+    "feature_name": "glyph_based_view_size_mean",
+    "significant": "False",
+    "explanation": "The mean of all glyph based view sizes."
+  },
+  {
+    "feature_name": "glyph_based_view_width_mean",
+    "significant": "False",
+    "explanation": "The mean of all glyph based view widths."
+  },
+  {
+    "feature_name": "glyph_based_view_height_mean",
+    "significant": "False",
+    "explanation": "The mean of all glyph based view heights."
+  },
+  {
+    "feature_name": "glyph_based_view_size_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all glyph based view sizes."
+  },
+  {
+    "feature_name": "glyph_based_view_width_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all glyph based view widths."
+  },
+  {
+    "feature_name": "glyph_based_view_height_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all glyph based view heights."
+  },
+  {
+    "feature_name": "area_chart_view_size_mean",
+    "significant": "False",
+    "explanation": "The mean of all area chart view sizes."
+  },
+  {
+    "feature_name": "area_chart_view_width_mean",
+    "significant": "True",
+    "explanation": "The mean of all area chart view widths."
+  },
+  {
+    "feature_name": "area_chart_view_height_mean",
+    "significant": "True",
+    "explanation": "The mean of all area chart view heights."
+  },
+  {
+    "feature_name": "area_chart_view_size_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all area chart view sizes."
+  },
+  {
+    "feature_name": "area_chart_view_width_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all area chart view widths."
+  },
+  {
+    "feature_name": "area_chart_view_height_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all area chart view heights."
+  },
+  {
+    "feature_name": "pie_chart_view_size_mean",
+    "significant": "True",
+    "explanation": "The mean of all pie chart view sizes."
+  },
+  {
+    "feature_name": "pie_chart_view_width_mean",
+    "significant": "False",
+    "explanation": "The mean of all pie chart view widths."
+  },
+  {
+    "feature_name": "pie_chart_view_height_mean",
+    "significant": "False",
+    "explanation": "The mean of all pie chart view heights."
+  },
+  {
+    "feature_name": "pie_chart_view_size_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all pie chart view sizes."
+  },
+  {
+    "feature_name": "pie_chart_view_width_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all pie chart view widths."
+  },
+  {
+    "feature_name": "pie_chart_view_height_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all pie chart view heights."
+  },
+  {
+    "feature_name": "sector_chart_view_size_mean",
+    "significant": "False",
+    "explanation": "The mean of all sector chart view sizes."
+  },
+  {
+    "feature_name": "sector_chart_view_width_mean",
+    "significant": "False",
+    "explanation": "The mean of all sector chart view widths."
+  },
+  {
+    "feature_name": "sector_chart_view_height_mean",
+    "significant": "False",
+    "explanation": "The mean of all sector chart view heights."
+  },
+  {
+    "feature_name": "sector_chart_view_size_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all sector chart view sizes."
+  },
+  {
+    "feature_name": "sector_chart_view_width_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all sector chart view widths."
+  },
+  {
+    "feature_name": "sector_chart_view_height_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all sector chart view heights."
+  },
+  {
+    "feature_name": "word_cloud_view_size_mean",
+    "significant": "True",
+    "explanation": "The mean of all word cloud view sizes."
+  },
+  {
+    "feature_name": "word_cloud_view_width_mean",
+    "significant": "True",
+    "explanation": "The mean of all word cloud view widths."
+  },
+  {
+    "feature_name": "word_cloud_view_height_mean",
+    "significant": "True",
+    "explanation": "The mean of all word cloud view heights."
+  },
+  {
+    "feature_name": "word_cloud_view_size_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all word cloud view sizes."
+  },
+  {
+    "feature_name": "word_cloud_view_width_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all word cloud view widths."
+  },
+  {
+    "feature_name": "word_cloud_view_height_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all word cloud view heights."
+  },
+  {
+    "feature_name": "proportional_area_chart_view_size_mean",
+    "significant": "False",
+    "explanation": "The mean of all proportional area chart view sizes."
+  },
+  {
+    "feature_name": "proportional_area_chart_view_width_mean",
+    "significant": "False",
+    "explanation": "The mean of all proportional area chart view widths."
+  },
+  {
+    "feature_name": "proportional_area_chart_view_height_mean",
+    "significant": "False",
+    "explanation": "The mean of all proportional area chart view heights."
+  },
+  {
+    "feature_name": "proportional_area_chart_view_size_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all proportional area chart view sizes."
+  },
+  {
+    "feature_name": "proportional_area_chart_view_width_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all proportional area chart view widths."
+  },
+  {
+    "feature_name": "proportional_area_chart_view_height_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all proportional area chart view heights."
+  },
+  {
+    "feature_name": "unit_visualization_view_size_mean",
+    "significant": "False",
+    "explanation": "The mean of all unit visualization view sizes."
+  },
+  {
+    "feature_name": "unit_visualization_view_width_mean",
+    "significant": "False",
+    "explanation": "The mean of all unit visualization view widths."
+  },
+  {
+    "feature_name": "unit_visualization_view_height_mean",
+    "significant": "False",
+    "explanation": "The mean of all unit visualization view heights."
+  },
+  {
+    "feature_name": "unit_visualization_view_size_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all unit visualization view sizes."
+  },
+  {
+    "feature_name": "unit_visualization_view_width_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all unit visualization view widths."
+  },
+  {
+    "feature_name": "unit_visualization_view_height_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all unit visualization view heights."
+  },
+  {
+    "feature_name": "donut_chart_view_size_mean",
+    "significant": "False",
+    "explanation": "The mean of all donut chart view sizes."
+  },
+  {
+    "feature_name": "donut_chart_view_width_mean",
+    "significant": "False",
+    "explanation": "The mean of all donut chart view widths."
+  },
+  {
+    "feature_name": "donut_chart_view_height_mean",
+    "significant": "False",
+    "explanation": "The mean of all donut chart view heights."
+  },
+  {
+    "feature_name": "donut_chart_view_size_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all donut chart view sizes."
+  },
+  {
+    "feature_name": "donut_chart_view_width_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all donut chart view widths."
+  },
+  {
+    "feature_name": "donut_chart_view_height_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all donut chart view heights."
+  },
+  {
+    "feature_name": "sankey_diagram_view_size_mean",
+    "significant": "False",
+    "explanation": "The mean of all sankey diagram view sizes."
+  },
+  {
+    "feature_name": "sankey_diagram_view_width_mean",
+    "significant": "False",
+    "explanation": "The mean of all sankey diagram view widths."
+  },
+  {
+    "feature_name": "sankey_diagram_view_height_mean",
+    "significant": "False",
+    "explanation": "The mean of all sankey diagram view heights."
+  },
+  {
+    "feature_name": "sankey_diagram_view_size_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all sankey diagram view sizes."
+  },
+  {
+    "feature_name": "sankey_diagram_view_width_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all sankey diagram view widths."
+  },
+  {
+    "feature_name": "sankey_diagram_view_height_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all sankey diagram view heights."
+  },
+  {
+    "feature_name": "chord_diagram_view_size_mean",
+    "significant": "True",
+    "explanation": "The mean of all chord diagram view sizes."
+  },
+  {
+    "feature_name": "chord_diagram_view_width_mean",
+    "significant": "True",
+    "explanation": "The mean of all chord diagram view widths."
+  },
+  {
+    "feature_name": "chord_diagram_view_height_mean",
+    "significant": "False",
+    "explanation": "The mean of all chord diagram view heights."
+  },
+  {
+    "feature_name": "chord_diagram_view_size_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all chord diagram view sizes."
+  },
+  {
+    "feature_name": "chord_diagram_view_width_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all chord diagram view widths."
+  },
+  {
+    "feature_name": "chord_diagram_view_height_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all chord diagram view heights."
+  },
+  {
+    "feature_name": "stripe_graph_view_size_mean",
+    "significant": "False",
+    "explanation": "The mean of all stripe graph view sizes."
+  },
+  {
+    "feature_name": "stripe_graph_view_width_mean",
+    "significant": "False",
+    "explanation": "The mean of all stripe graph view widths."
+  },
+  {
+    "feature_name": "stripe_graph_view_height_mean",
+    "significant": "False",
+    "explanation": "The mean of all stripe graph view heights."
+  },
+  {
+    "feature_name": "stripe_graph_view_size_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all stripe graph view sizes."
+  },
+  {
+    "feature_name": "stripe_graph_view_width_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all stripe graph view widths."
+  },
+  {
+    "feature_name": "stripe_graph_view_height_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all stripe graph view heights."
+  },
+  {
+    "feature_name": "polar_plot_view_size_mean",
+    "significant": "False",
+    "explanation": "The mean of all polar plot view sizes."
+  },
+  {
+    "feature_name": "polar_plot_view_width_mean",
+    "significant": "False",
+    "explanation": "The mean of all polar plot view widths."
+  },
+  {
+    "feature_name": "polar_plot_view_height_mean",
+    "significant": "False",
+    "explanation": "The mean of all polar plot view heights."
+  },
+  {
+    "feature_name": "polar_plot_view_size_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all polar plot view sizes."
+  },
+  {
+    "feature_name": "polar_plot_view_width_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all polar plot view widths."
+  },
+  {
+    "feature_name": "polar_plot_view_height_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all polar plot view heights."
+  },
+  {
+    "feature_name": "storyline_chart_size_mean",
+    "significant": "False",
+    "explanation": "The mean of all storyline chart sizes."
+  },
+  {
+    "feature_name": "storyline_chart_width_mean",
+    "significant": "False",
+    "explanation": "The mean of all storyline chart widths."
+  },
+  {
+    "feature_name": "storyline_chart_height_mean",
+    "significant": "False",
+    "explanation": "The mean of all storyline chart heights."
+  },
+  {
+    "feature_name": "storyline_chart_size_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all storyline chart sizes."
+  },
+  {
+    "feature_name": "storyline_chart_width_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all storyline chart widths."
+  },
+  {
+    "feature_name": "storyline_chart_height_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all storyline chart heights."
+  },
+  {
+    "feature_name": "others_view_size_mean",
+    "significant": "False",
+    "explanation": "The mean of all others view sizes."
+  },
+  {
+    "feature_name": "others_view_width_mean",
+    "significant": "False",
+    "explanation": "The mean of all others view widths."
+  },
+  {
+    "feature_name": "others_view_height_mean",
+    "significant": "False",
+    "explanation": "The mean of all others view heights."
+  },
+  {
+    "feature_name": "others_view_size_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all others view sizes."
+  },
+  {
+    "feature_name": "others_view_width_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all others view widths."
+  },
+  {
+    "feature_name": "others_view_height_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all others view heights."
+  },
+  {
+    "feature_name": "view_size_static_cluster_count",
+    "significant": "True",
+    "explanation": "The count of all view sizes."
+  },
+  {
+    "feature_name": "view_width_static_cluster_count",
+    "significant": "True",
+    "explanation": "The count of all view widths."
+  },
+  {
+    "feature_name": "view_height_static_cluster_count",
+    "significant": "True",
+    "explanation": "The count of all view heights."
+  },
+  {
+    "feature_name": "view_size_dynamic_cluster_count",
+    "significant": "True",
+    "explanation": "The count of all view sizes."
+  },
+  {
+    "feature_name": "view_width_dynamic_cluster_count",
+    "significant": "True",
+    "explanation": "The count of all view widths."
+  },
+  {
+    "feature_name": "view_height_dynamic_cluster_count",
+    "significant": "True",
+    "explanation": "The count of all view heights."
+  },
+  {
+    "feature_name": "line_chart_count",
+    "significant": "True",
+    "explanation": "The number of all line chart views."
+  },
+  {
+    "feature_name": "contour_graph_count",
+    "significant": "False",
+    "explanation": "The number of all contour graph views."
+  },
+  {
+    "feature_name": "surface_graph_count",
+    "significant": "False",
+    "explanation": "The number of all surface graph views."
+  },
+  {
+    "feature_name": "scivis_count",
+    "significant": "False",
+    "explanation": "The number of all scivis views."
+  },
+  {
+    "feature_name": "scatterplot_count",
+    "significant": "False",
+    "explanation": "The number of all scatterplot views."
+  },
+  {
+    "feature_name": "tree_count",
+    "significant": "False",
+    "explanation": "The number of all tree views."
+  },
+  {
+    "feature_name": "heatmap_count",
+    "significant": "True",
+    "explanation": "The number of all heatmap views."
+  },
+  {
+    "feature_name": "treemap_count",
+    "significant": "False",
+    "explanation": "The number of all treemap views."
+  },
+  {
+    "feature_name": "graph_count",
+    "significant": "False",
+    "explanation": "The number of all graph views."
+  },
+  {
+    "feature_name": "map_count",
+    "significant": "True",
+    "explanation": "The number of all map views."
+  },
+  {
+    "feature_name": "bar_chart_count",
+    "significant": "True",
+    "explanation": "The number of all bar chart views."
+  },
+  {
+    "feature_name": "small_multiple_count",
+    "significant": "True",
+    "explanation": "The number of all small multiple views."
+  },
+  {
+    "feature_name": "matrix_count",
+    "significant": "False",
+    "explanation": "The number of all matrix views."
+  },
+  {
+    "feature_name": "flow_diagram_count",
+    "significant": "False",
+    "explanation": "The number of all flow diagram views."
+  },
+  {
+    "feature_name": "table_count",
+    "significant": "True",
+    "explanation": "The number of all table views."
+  },
+  {
+    "feature_name": "sunburst_icicle_count",
+    "significant": "False",
+    "explanation": "The number of all sunburst icicle views."
+  },
+  {
+    "feature_name": "parallel_coordinate_count",
+    "significant": "False",
+    "explanation": "The number of all parallel coordinate views."
+  },
+  {
+    "feature_name": "box_plot_count",
+    "significant": "False",
+    "explanation": "The number of all box plot views."
+  },
+  {
+    "feature_name": "error_bar_count",
+    "significant": "False",
+    "explanation": "The number of all error bar views."
+  },
+  {
+    "feature_name": "glyph_based_count",
+    "significant": "False",
+    "explanation": "The number of all glyph based views."
+  },
+  {
+    "feature_name": "area_chart_count",
+    "significant": "False",
+    "explanation": "The number of all area chart views."
+  },
+  {
+    "feature_name": "pie_chart_count",
+    "significant": "False",
+    "explanation": "The number of all pie chart views."
+  },
+  {
+    "feature_name": "sector_chart_count",
+    "significant": "False",
+    "explanation": "The number of all sector chart views."
+  },
+  {
+    "feature_name": "word_cloud_count",
+    "significant": "False",
+    "explanation": "The number of all word cloud views."
+  },
+  {
+    "feature_name": "proportional_area_chart_count",
+    "significant": "False",
+    "explanation": "The number of all proportional area chart views."
+  },
+  {
+    "feature_name": "unit_visualization_count",
+    "significant": "False",
+    "explanation": "The number of all unit visualization views."
+  },
+  {
+    "feature_name": "donut_chart_count",
+    "significant": "False",
+    "explanation": "The number of all donut chart views."
+  },
+  {
+    "feature_name": "sankey_diagram_count",
+    "significant": "False",
+    "explanation": "The number of all sankey diagram views."
+  },
+  {
+    "feature_name": "chord_diagram_count",
+    "significant": "False",
+    "explanation": "The number of all chord diagram views."
+  },
+  {
+    "feature_name": "stripe_graph_count",
+    "significant": "False",
+    "explanation": "The number of all stripe graph views."
+  },
+  {
+    "feature_name": "polar_plot_count",
+    "significant": "False",
+    "explanation": "The number of all polar plot views."
+  },
+  {
+    "feature_name": "storyline_count",
+    "significant": "False",
+    "explanation": "The number of all storyline views."
+  },
+  {
+    "feature_name": "others_count",
+    "significant": "False",
+    "explanation": "The number of all others views."
+  },
+  {
+    "feature_name": "vis_type_count",
+    "significant": "True",
+    "explanation": "The number of all vis type views."
+  },
+  {
+    "feature_name": "annotation_proportion",
+    "significant": "True",
+    "explanation": "The percentage of all annotation views in the visualization image."
+  },
+  {
+    "feature_name": "line_chart_proportion",
+    "significant": "True",
+    "explanation": "The percentage of all line chart views in the visualization image."
+  },
+  {
+    "feature_name": "contour_graph_proportion",
+    "significant": "False",
+    "explanation": "The percentage of all contour graph views in the visualization image."
+  },
+  {
+    "feature_name": "surface_graph_proportion",
+    "significant": "False",
+    "explanation": "The percentage of all surface graph views in the visualization image."
+  },
+  {
+    "feature_name": "scivis_proportion",
+    "significant": "False",
+    "explanation": "The percentage of all scivis views in the visualization image."
+  },
+  {
+    "feature_name": "scatterplot_proportion",
+    "significant": "False",
+    "explanation": "The percentage of all scatterplot views in the visualization image."
+  },
+  {
+    "feature_name": "tree_proportion",
+    "significant": "True",
+    "explanation": "The percentage of all tree views in the visualization image."
+  },
+  {
+    "feature_name": "heatmap_proportion",
+    "significant": "True",
+    "explanation": "The percentage of all heatmap views in the visualization image."
+  },
+  {
+    "feature_name": "treemap_proportion",
+    "significant": "False",
+    "explanation": "The percentage of all treemap views in the visualization image."
+  },
+  {
+    "feature_name": "graph_proportion",
+    "significant": "False",
+    "explanation": "The percentage of all graph views in the visualization image."
+  },
+  {
+    "feature_name": "map_proportion",
+    "significant": "True",
+    "explanation": "The percentage of all map views in the visualization image."
+  },
+  {
+    "feature_name": "bar_chart_proportion",
+    "significant": "False",
+    "explanation": "The percentage of all bar chart views in the visualization image."
+  },
+  {
+    "feature_name": "small_multiple_proportion",
+    "significant": "False",
+    "explanation": "The percentage of all small multiple views in the visualization image."
+  },
+  {
+    "feature_name": "matrix_proportion",
+    "significant": "False",
+    "explanation": "The percentage of all matrix views in the visualization image."
+  },
+  {
+    "feature_name": "flow_diagram_proportion",
+    "significant": "False",
+    "explanation": "The percentage of all flow diagram views in the visualization image."
+  },
+  {
+    "feature_name": "table_proportion",
+    "significant": "False",
+    "explanation": "The percentage of all table views in the visualization image."
+  },
+  {
+    "feature_name": "sunburst_icicle_proportion",
+    "significant": "False",
+    "explanation": "The percentage of all sunburst icicle views in the visualization image."
+  },
+  {
+    "feature_name": "parallel_coordinate_proportion",
+    "significant": "True",
+    "explanation": "The percentage of all parallel coordinate views in the visualization image."
+  },
+  {
+    "feature_name": "box_plot_proportion",
+    "significant": "False",
+    "explanation": "The percentage of all box plot views in the visualization image."
+  },
+  {
+    "feature_name": "error_bar_proportion",
+    "significant": "False",
+    "explanation": "The percentage of all error bar views in the visualization image."
+  },
+  {
+    "feature_name": "glyph_based_proportion",
+    "significant": "False",
+    "explanation": "The percentage of all glyph based views in the visualization image."
+  },
+  {
+    "feature_name": "area_chart_proportion",
+    "significant": "False",
+    "explanation": "The percentage of all area chart views in the visualization image."
+  },
+  {
+    "feature_name": "pie_chart_proportion",
+    "significant": "False",
+    "explanation": "The percentage of all pie chart views in the visualization image."
+  },
+  {
+    "feature_name": "sector_chart_proportion",
+    "significant": "False",
+    "explanation": "The percentage of all sector chart views in the visualization image."
+  },
+  {
+    "feature_name": "word_cloud_proportion",
+    "significant": "True",
+    "explanation": "The percentage of all word cloud views in the visualization image."
+  },
+  {
+    "feature_name": "proportional_area_chart_proportion",
+    "significant": "True",
+    "explanation": "The percentage of all views in the visualization image."
+  },
+  {
+    "feature_name": "unit_visualization_proportion",
+    "significant": "False",
+    "explanation": "The percentage of all unit visualization views in the visualization image."
+  },
+  {
+    "feature_name": "donut_chart_proportion",
+    "significant": "False",
+    "explanation": "The percentage of all donut chart views in the visualization image."
+  },
+  {
+    "feature_name": "sankey_diagram_proportion",
+    "significant": "False",
+    "explanation": "The percentage of all sankey diagram views in the visualization image."
+  },
+  {
+    "feature_name": "chord_diagram_proportion",
+    "significant": "True",
+    "explanation": "The percentage of all chord diagram views in the visualization image."
+  },
+  {
+    "feature_name": "stripe_graph_proportion",
+    "significant": "False",
+    "explanation": "The percentage of all stripe graph views in the visualization image."
+  },
+  {
+    "feature_name": "polar_plot_proportion",
+    "significant": "False",
+    "explanation": "The percentage of all polar plot views in the visualization image."
+  },
+  {
+    "feature_name": "storyline_proportion",
+    "significant": "False",
+    "explanation": "The percentage of all storyline views in the visualization image."
+  },
+  {
+    "feature_name": "others_proportion",
+    "significant": "False",
+    "explanation": "The percentage of all others views in the visualization image."
+  }
+]

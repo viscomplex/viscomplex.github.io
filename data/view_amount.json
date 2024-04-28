@@ -1,0 +1,7 @@
+[
+  {
+    "feature_name": "view_count",
+    "significant": "True",
+    "explanation": "The number of all views."
+  }
+]

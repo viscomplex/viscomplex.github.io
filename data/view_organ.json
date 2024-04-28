@@ -1,0 +1,377 @@
+[
+  {
+    "feature_name": "horizontal_symmetry_proportion",
+    "significant": "False",
+    "explanation": "The percentage of all horizontal symmetry pixels in the visualization image."
+  },
+  {
+    "feature_name": "vertical_symmetry_proportion",
+    "significant": "False",
+    "explanation": "The percentage of all vertical symmetry pixels in the visualization image."
+  },
+  {
+    "feature_name": "annotation_view_x_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all annotation view x positions."
+  },
+  {
+    "feature_name": "annotation_view_y_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all annotation view y positions."
+  },
+  {
+    "feature_name": "line_chart_view_x_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all line chart view x positions."
+  },
+  {
+    "feature_name": "line_chart_view_y_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all line chart view y positions."
+  },
+  {
+    "feature_name": "contour_graph_view_x_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all contour graph view x positions."
+  },
+  {
+    "feature_name": "contour_graph_view_y_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all contour graph view y positions."
+  },
+  {
+    "feature_name": "surface_graph_view_x_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all surface graph view x positions."
+  },
+  {
+    "feature_name": "surface_graph_view_y_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all surface graph view y positions."
+  },
+  {
+    "feature_name": "scivis_view_x_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all scivis view x positions."
+  },
+  {
+    "feature_name": "scivis_view_y_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all scivis view y positions."
+  },
+  {
+    "feature_name": "scatterplot_view_x_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all scatterplot view x positions."
+  },
+  {
+    "feature_name": "scatterplot_view_y_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all scatterplot view y positions."
+  },
+  {
+    "feature_name": "tree_view_x_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all tree view x positions."
+  },
+  {
+    "feature_name": "tree_view_y_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all tree view y positions."
+  },
+  {
+    "feature_name": "heatmap_view_x_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all heatmap view x positions."
+  },
+  {
+    "feature_name": "heatmap_view_y_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all heatmap view y positions."
+  },
+  {
+    "feature_name": "treemap_view_x_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all treemap view x positions."
+  },
+  {
+    "feature_name": "treemap_view_y_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all treemap view y positions."
+  },
+  {
+    "feature_name": "graph_view_x_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all graph view x positions."
+  },
+  {
+    "feature_name": "graph_view_y_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all graph view y positions."
+  },
+  {
+    "feature_name": "map_view_x_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all map view x positions."
+  },
+  {
+    "feature_name": "map_view_y_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all map view y positions."
+  },
+  {
+    "feature_name": "bar_chart_view_x_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all bar chart view x positions."
+  },
+  {
+    "feature_name": "bar_chart_view_y_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all bar chart view y positions."
+  },
+  {
+    "feature_name": "small_multiple_view_x_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all small multiple view x positions."
+  },
+  {
+    "feature_name": "small_multiple_view_y_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all small multiple view y positions."
+  },
+  {
+    "feature_name": "matrix_view_x_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all matrix view x positions."
+  },
+  {
+    "feature_name": "matrix_view_y_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all matrix view y positions."
+  },
+  {
+    "feature_name": "flow_diagram_view_x_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all flow diagram view x positions."
+  },
+  {
+    "feature_name": "flow_diagram_view_y_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all flow diagram view y positions."
+  },
+  {
+    "feature_name": "table_view_x_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all table view x positions."
+  },
+  {
+    "feature_name": "table_view_y_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all table view y positions."
+  },
+  {
+    "feature_name": "sunburst_icicle_view_x_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all sunburst icicle view x positions."
+  },
+  {
+    "feature_name": "sunburst_icicle_view_y_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all sunburst icicle view y positions."
+  },
+  {
+    "feature_name": "parallel_coordinate_view_x_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all parallel coordinate view x positions."
+  },
+  {
+    "feature_name": "parallel_coordinate_view_y_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all parallel coordinate view y positions."
+  },
+  {
+    "feature_name": "box_plot_view_x_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all box plot view x positions."
+  },
+  {
+    "feature_name": "box_plot_view_y_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all box plot view y positions."
+  },
+  {
+    "feature_name": "error_bar_chart_x_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all error bar chart x positions."
+  },
+  {
+    "feature_name": "error_bar_chart_y_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all error bar chart y positions."
+  },
+  {
+    "feature_name": "glyph_based_view_x_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all glyph based view x positions."
+  },
+  {
+    "feature_name": "glyph_based_view_y_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all glyph based view y positions."
+  },
+  {
+    "feature_name": "area_chart_view_x_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all area chart view x positions."
+  },
+  {
+    "feature_name": "area_chart_view_y_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all area chart view y positions."
+  },
+  {
+    "feature_name": "pie_chart_view_x_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all pie chart view x positions."
+  },
+  {
+    "feature_name": "pie_chart_view_y_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all pie chart view y positions."
+  },
+  {
+    "feature_name": "sector_chart_view_x_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all sector chart view x positions."
+  },
+  {
+    "feature_name": "sector_chart_view_y_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all sector chart view y positions."
+  },
+  {
+    "feature_name": "word_cloud_view_x_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all word cloud view x positions."
+  },
+  {
+    "feature_name": "word_cloud_view_y_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all word cloud view y positions."
+  },
+  {
+    "feature_name": "proportional_area_chart_view_x_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all proportional area chart view x positions."
+  },
+  {
+    "feature_name": "proportional_area_chart_view_y_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all proportional area chart view y positions."
+  },
+  {
+    "feature_name": "unit_visualization_view_x_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all unit visualization view x positions."
+  },
+  {
+    "feature_name": "unit_visualization_view_y_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all unit visualization view y positions."
+  },
+  {
+    "feature_name": "donut_chart_view_x_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all donut chart view x positions."
+  },
+  {
+    "feature_name": "donut_chart_view_y_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all donut chart view y positions."
+  },
+  {
+    "feature_name": "sankey_diagram_view_x_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all sankey diagram view x positions."
+  },
+  {
+    "feature_name": "sankey_diagram_view_y_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all sankey diagram view y positions."
+  },
+  {
+    "feature_name": "chord_diagram_view_x_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all chord diagram view x positions."
+  },
+  {
+    "feature_name": "chord_diagram_view_y_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all chord diagram view y positions."
+  },
+  {
+    "feature_name": "stripe_graph_view_x_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all stripe graph view x positions."
+  },
+  {
+    "feature_name": "stripe_graph_view_y_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all stripe graph view y positions."
+  },
+  {
+    "feature_name": "polar_plot_view_x_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all polar plot view x positions."
+  },
+  {
+    "feature_name": "polar_plot_view_y_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all polar plot view y positions."
+  },
+  {
+    "feature_name": "storyline_chart_x_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all storyline chart x positions."
+  },
+  {
+    "feature_name": "storyline_chart_y_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all storyline chart y positions."
+  },
+  {
+    "feature_name": "others_view_x_std",
+    "significant": "False",
+    "explanation": "The standard deviation of all others view x positions."
+  },
+  {
+    "feature_name": "others_view_y_std",
+    "significant": "True",
+    "explanation": "The standard deviation of all others view y positions."
+  },
+  {
+    "feature_name": "alignment_x_static_cluster_count",
+    "significant": "True",
+    "explanation": "The count of static clusters of view vertices on the x axis."
+  },
+  {
+    "feature_name": "alignment_y_static_cluster_count",
+    "significant": "True",
+    "explanation": "The count of static clusters of view vertices on the y axis."
+  },
+  {
+    "feature_name": "alignment_x_dynamic_cluster_count",
+    "significant": "True",
+    "explanation": "The count of dynamic clusters of view vertices on the x axis."
+  },
+  {
+    "feature_name": "alignment_y_dynamic_cluster_count",
+    "significant": "True",
+    "explanation": "The count of dynamic clusters of view vertices on the y axis."
+  },
+  {
+    "feature_name": "view_area",
+    "significant": "False",
+    "explanation": "The area of all views."
+  }
+]

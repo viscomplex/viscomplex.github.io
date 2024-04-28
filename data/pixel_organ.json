@@ -1,0 +1,12 @@
+[
+  {
+    "feature_name": "horizontal_symmetry_score",
+    "significant": "True",
+    "explanation": "A measurement of horizontal symmetry."
+  },
+  {
+    "feature_name": "vertical_symmetry_score",
+    "significant": "True",
+    "explanation": "A measurement of vertical symmetry."
+  }
+]
